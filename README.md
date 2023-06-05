@@ -20,6 +20,7 @@ Web application that allows users to upload information for its visualization in
 - D3.js
 - HTML
 - CSS
+- Java
 - JavaScript
 
 ## System requirements
