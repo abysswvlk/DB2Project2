@@ -55,11 +55,11 @@ public class Jobs {
     public static void main(String[] args) throws InterruptedException, IOException, ClassNotFoundException {
         Configuration conf = new Configuration();
         conf.set("fs.defaultFS", HADOOP_CLUSTER_URI);
-        File folder = new File("/home/vboxuser/Project_2_Group_1/webcrawler/download/");
+        File folder = new File("/home/vboxuser/DB2Project2-main/webcrawler/download/");
         for(File file: folder.listFiles()){
             if(file.isFile()){
                 String fileName = file.getName();// Upload file to Hadoop cluster
-                String localFilePath = "/home/vboxuser/Project_2_Group_1/webcrawler/download/"+fileName;
+                String localFilePath = "/home/vboxuser/DB2Project2-main/webcrawler/download/"+fileName;
                 String hdfsFilePath = "/user/input/"+fileName;
                 uploadFile(conf, localFilePath, hdfsFilePath, fileName);
             }
