@@ -1,0 +1,350 @@
+subregion,year,total
+Australia and New Zealand,2000,414
+Australia and New Zealand,2001,398
+Australia and New Zealand,2002,426
+Australia and New Zealand,2003,346
+Australia and New Zealand,2004,308
+Australia and New Zealand,2005,320
+Australia and New Zealand,2006,330
+Australia and New Zealand,2007,303
+Australia and New Zealand,2008,312
+Australia and New Zealand,2009,330
+Australia and New Zealand,2010,274
+Australia and New Zealand,2011,287
+Australia and New Zealand,2012,284
+Australia and New Zealand,2013,291
+Australia and New Zealand,2014,286
+Australia and New Zealand,2015,284
+Australia and New Zealand,2016,277
+Australia and New Zealand,2017,243
+Australia and New Zealand,2018,221
+Australia and New Zealand,2019,351
+Australia and New Zealand,2020,221
+Central Asia,2000,4373
+Central Asia,2001,4108
+Central Asia,2002,3857
+Central Asia,2003,3771
+Central Asia,2004,3823
+Central Asia,2005,1764
+Central Asia,2006,1704
+Central Asia,2007,1363
+Central Asia,2008,3055
+Central Asia,2009,2287
+Central Asia,2010,2477
+Central Asia,2011,2013
+Central Asia,2012,1646
+Central Asia,2013,1421
+Central Asia,2014,1224
+Central Asia,2015,1664
+Central Asia,2016,939
+Central Asia,2017,1746
+Central Asia,2018,612
+Central Asia,2019,396
+Central Asia,2020,693
+Eastern Asia,2000,1100
+Eastern Asia,2001,1484
+Eastern Asia,2002,27379
+Eastern Asia,2003,25879
+Eastern Asia,2004,26211
+Eastern Asia,2005,22260
+Eastern Asia,2006,19616
+Eastern Asia,2007,17618
+Eastern Asia,2008,16337
+Eastern Asia,2009,16157
+Eastern Asia,2010,14814
+Eastern Asia,2011,13147
+Eastern Asia,2012,12559
+Eastern Asia,2013,11798
+Eastern Asia,2014,11096
+Eastern Asia,2015,1167
+Eastern Asia,2016,9565
+Eastern Asia,2017,8814
+Eastern Asia,2018,8414
+Eastern Asia,2019,847
+Eastern Asia,2020,528
+Eastern Europe,2000,49222
+Eastern Europe,2001,51445
+Eastern Europe,2002,52028
+Eastern Europe,2003,47595
+Eastern Europe,2004,44202
+Eastern Europe,2005,39959
+Eastern Europe,2006,32993
+Eastern Europe,2007,29807
+Eastern Europe,2008,22623
+Eastern Europe,2009,21738
+Eastern Europe,2010,20465
+Eastern Europe,2011,17837
+Eastern Europe,2012,20206
+Eastern Europe,2013,17542
+Eastern Europe,2014,20878
+Eastern Europe,2015,18277
+Eastern Europe,2016,17140
+Eastern Europe,2017,17452
+Eastern Europe,2018,13123
+Eastern Europe,2019,12401
+Eastern Europe,2020,11535
+Latin America and the Caribbean,2000,108268
+Latin America and the Caribbean,2001,115949
+Latin America and the Caribbean,2002,120668
+Latin America and the Caribbean,2003,118751
+Latin America and the Caribbean,2004,110539
+Latin America and the Caribbean,2005,109878
+Latin America and the Caribbean,2006,113091
+Latin America and the Caribbean,2007,113715
+Latin America and the Caribbean,2008,110379
+Latin America and the Caribbean,2009,133303
+Latin America and the Caribbean,2010,138195
+Latin America and the Caribbean,2011,143722
+Latin America and the Caribbean,2012,146352
+Latin America and the Caribbean,2013,126030
+Latin America and the Caribbean,2014,141094
+Latin America and the Caribbean,2015,132904
+Latin America and the Caribbean,2016,141198
+Latin America and the Caribbean,2017,142267
+Latin America and the Caribbean,2018,132356
+Latin America and the Caribbean,2019,116564
+Latin America and the Caribbean,2020,101639
+Melanesia,2000,465
+Melanesia,2001,436
+Melanesia,2002,470
+Melanesia,2003,634
+Melanesia,2004,43
+Melanesia,2005,652
+Melanesia,2006,663
+Melanesia,2007,579
+Melanesia,2008,650
+Melanesia,2009,734
+Melanesia,2010,733
+Melanesia,2011,20
+Melanesia,2012,20
+Melanesia,2013,19
+Melanesia,2014,20
+Melanesia,2019,2
+Melanesia,2020,21
+Micronesia,2000,5
+Micronesia,2001,12
+Micronesia,2002,2
+Micronesia,2003,8
+Micronesia,2004,9
+Micronesia,2005,7
+Micronesia,2006,11
+Micronesia,2007,1
+Micronesia,2008,8
+Micronesia,2009,6
+Micronesia,2010,7
+Micronesia,2011,15
+Micronesia,2012,8
+Micronesia,2015,3
+Micronesia,2016,0
+Micronesia,2017,0
+Micronesia,2018,2
+Micronesia,2019,8
+Northern Africa,2000,461
+Northern Africa,2001,543
+Northern Africa,2002,462
+Northern Africa,2003,981
+Northern Africa,2004,987
+Northern Africa,2005,1251
+Northern Africa,2006,1608
+Northern Africa,2007,1741
+Northern Africa,2008,2001
+Northern Africa,2009,1876
+Northern Africa,2010,2830
+Northern Africa,2011,3424
+Northern Africa,2012,3445
+Northern Africa,2013,909
+Northern Africa,2014,932
+Northern Africa,2015,973
+Northern Africa,2016,594
+Northern Africa,2017,761
+Northern Africa,2018,510
+Northern Africa,2019,1769
+Northern Africa,2020,1629
+Northern America,2000,16145
+Northern America,2001,19607
+Northern America,2002,16824
+Northern America,2003,556
+Northern America,2004,637
+Northern America,2005,676
+Northern America,2006,17928
+Northern America,2007,17736
+Northern America,2008,17093
+Northern America,2009,16026
+Northern America,2010,15296
+Northern America,2011,15276
+Northern America,2012,15418
+Northern America,2013,14840
+Northern America,2014,14694
+Northern America,2015,16501
+Northern America,2016,18036
+Northern America,2017,17959
+Northern America,2018,17025
+Northern America,2019,17112
+Northern America,2020,21725
+Northern Europe,2000,2058
+Northern Europe,2001,2060
+Northern Europe,2002,2139
+Northern Europe,2003,225
+Northern Europe,2004,664
+Northern Europe,2005,663
+Northern Europe,2006,595
+Northern Europe,2007,723
+Northern Europe,2008,685
+Northern Europe,2009,618
+Northern Europe,2010,627
+Northern Europe,2011,670
+Northern Europe,2012,620
+Northern Europe,2013,624
+Northern Europe,2014,547
+Northern Europe,2015,599
+Northern Europe,2016,553
+Northern Europe,2017,560
+Northern Europe,2018,559
+Northern Europe,2019,521
+Northern Europe,2020,532
+Polynesia,2000,1
+Polynesia,2001,7
+Polynesia,2002,13
+Polynesia,2003,9
+Polynesia,2004,6
+Polynesia,2005,10
+Polynesia,2006,15
+Polynesia,2007,9
+Polynesia,2008,16
+Polynesia,2009,27
+Polynesia,2010,23
+Polynesia,2011,8
+Polynesia,2012,5
+Polynesia,2013,9
+Polynesia,2014,3
+Polynesia,2015,4
+Polynesia,2016,3
+Polynesia,2017,7
+Polynesia,2018,13
+Polynesia,2019,3
+South-eastern Asia,2000,15289
+South-eastern Asia,2001,12758
+South-eastern Asia,2002,13993
+South-eastern Asia,2003,10996
+South-eastern Asia,2004,8551
+South-eastern Asia,2005,7635
+South-eastern Asia,2006,7169
+South-eastern Asia,2007,13442
+South-eastern Asia,2008,12670
+South-eastern Asia,2009,15850
+South-eastern Asia,2010,15366
+South-eastern Asia,2011,15024
+South-eastern Asia,2012,10537
+South-eastern Asia,2013,1884
+South-eastern Asia,2014,1244
+South-eastern Asia,2015,1215
+South-eastern Asia,2016,12371
+South-eastern Asia,2017,8279
+South-eastern Asia,2018,5660
+South-eastern Asia,2019,4776
+South-eastern Asia,2020,10
+Southern Asia,2000,61069
+Southern Asia,2001,60565
+Southern Asia,2002,59590
+Southern Asia,2003,57910
+Southern Asia,2004,60957
+Southern Asia,2005,60577
+Southern Asia,2006,61838
+Southern Asia,2007,60639
+Southern Asia,2008,63094
+Southern Asia,2009,67791
+Southern Asia,2010,66219
+Southern Asia,2011,68143
+Southern Asia,2012,68747
+Southern Asia,2013,67497
+Southern Asia,2014,68193
+Southern Asia,2015,61764
+Southern Asia,2016,57302
+Southern Asia,2017,47523
+Southern Asia,2018,57848
+Southern Asia,2019,49385
+Southern Asia,2020,40670
+Southern Europe,2000,2081
+Southern Europe,2001,2238
+Southern Europe,2002,1930
+Southern Europe,2003,1089
+Southern Europe,2004,1161
+Southern Europe,2005,1788
+Southern Europe,2006,1594
+Southern Europe,2007,1729
+Southern Europe,2008,1725
+Southern Europe,2009,1659
+Southern Europe,2010,1665
+Southern Europe,2011,1631
+Southern Europe,2012,1604
+Southern Europe,2013,1407
+Southern Europe,2014,1360
+Southern Europe,2015,1234
+Southern Europe,2016,1173
+Southern Europe,2017,1131
+Southern Europe,2018,1084
+Southern Europe,2019,1130
+Southern Europe,2020,981
+Sub-Saharan Africa,2000,23548
+Sub-Saharan Africa,2001,24872
+Sub-Saharan Africa,2002,27028
+Sub-Saharan Africa,2003,25997
+Sub-Saharan Africa,2004,27269
+Sub-Saharan Africa,2005,23104
+Sub-Saharan Africa,2006,24354
+Sub-Saharan Africa,2007,7539
+Sub-Saharan Africa,2008,28070
+Sub-Saharan Africa,2009,26952
+Sub-Saharan Africa,2010,31551
+Sub-Saharan Africa,2011,32610
+Sub-Saharan Africa,2012,43776
+Sub-Saharan Africa,2013,27862
+Sub-Saharan Africa,2014,27503
+Sub-Saharan Africa,2015,28444
+Sub-Saharan Africa,2016,31244
+Sub-Saharan Africa,2017,28615
+Sub-Saharan Africa,2018,28149
+Sub-Saharan Africa,2019,26087
+Sub-Saharan Africa,2020,26796
+Western Asia,2000,1988
+Western Asia,2001,1483
+Western Asia,2002,1580
+Western Asia,2003,4431
+Western Asia,2004,5029
+Western Asia,2005,4865
+Western Asia,2006,4610
+Western Asia,2007,5362
+Western Asia,2008,4920
+Western Asia,2009,2334
+Western Asia,2010,5725
+Western Asia,2011,5153
+Western Asia,2012,5813
+Western Asia,2013,2700
+Western Asia,2014,951
+Western Asia,2015,3180
+Western Asia,2016,3566
+Western Asia,2017,3468
+Western Asia,2018,3077
+Western Asia,2019,4569
+Western Asia,2020,572
+Western Europe,2000,2962
+Western Europe,2001,2878
+Western Europe,2002,2962
+Western Europe,2003,2339
+Western Europe,2004,2355
+Western Europe,2005,2252
+Western Europe,2006,2063
+Western Europe,2007,2076
+Western Europe,2008,2069
+Western Europe,2009,1883
+Western Europe,2010,1854
+Western Europe,2011,1862
+Western Europe,2012,1712
+Western Europe,2013,1704
+Western Europe,2014,1722
+Western Europe,2015,1906
+Western Europe,2016,2045
+Western Europe,2017,1876
+Western Europe,2018,1707
+Western Europe,2019,1721
+Western Europe,2020,1002

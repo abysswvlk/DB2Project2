@@ -1,0 +1,102 @@
+subRegion,decade,sex,average,maximum,minimum
+(blank),2000s,Female,2.5142858,25,0
+(blank),2000s,Male,13.857142,87,0
+(blank),2010s,Female,4.6,20,0
+(blank),2010s,Male,24.52,86,0
+Australia and New Zealand,2000s,Female,60.55,136,11
+Australia and New Zealand,2000s,Male,113.0,244,28
+Australia and New Zealand,2010s,Female,52.31579,94,12
+Australia and New Zealand,2010s,Male,93.8421,160,20
+Australia and New Zealand,2020s,Female,74.0,74,74
+Australia and New Zealand,2020s,Male,150.0,150,150
+Central Asia,2000s,Female,114.3125,416,24
+Central Asia,2000s,Male,407.75,1444,62
+Central Asia,2010s,Female,209.85715,344,17
+Central Asia,2010s,Male,575.2308,1091,109
+Central Asia,2020s,Female,80.0,150,10
+Central Asia,2020s,Male,271.5,456,87
+Eastern Asia,2000s,Female,156.45454,339,3
+Eastern Asia,2000s,Male,181.27272,382,1
+Eastern Asia,2010s,Female,91.604164,240,0
+Eastern Asia,2010s,Male,104.75,228,0
+Eastern Asia,2020s,Female,46.25,138,2
+Eastern Asia,2020s,Male,112.333336,164,13
+Eastern Europe,2000s,Female,1095.3517,10756,15
+Eastern Europe,2000s,Male,3141.8044,33536,46
+Eastern Europe,2010s,Female,492.35165,4358,14
+Eastern Europe,2010s,Male,1240.022,12332,29
+Eastern Europe,2020s,Female,440.0,2763,26
+Eastern Europe,2020s,Male,1206.5714,7928,33
+Latin America and the Caribbean,2000s,Female,424.5762,4260,0
+Latin America and the Caribbean,2000s,Male,4630.952,47109,0
+Latin America and the Caribbean,2010s,Female,426.65158,4928,0
+Latin America and the Caribbean,2010s,Male,4161.073,58713,0
+Latin America and the Caribbean,2020s,Female,726.7692,3952,1
+Latin America and the Caribbean,2020s,Male,6846.4614,39336,14
+Melanesia,2000s,Female,11.4,18,8
+Melanesia,2000s,Male,11.0,21,3
+Melanesia,2010s,Female,7.1666665,12,1
+Melanesia,2010s,Male,9.666667,14,1
+Melanesia,2020s,Female,1.0,1,1
+Melanesia,2020s,Male,0.0,0,0
+Micronesia,2010s,Female,1.0,1,1
+Micronesia,2010s,Male,0.0,0,0
+Northern Africa,2000s,Female,111.0,193,52
+Northern Africa,2000s,Male,515.0,856,270
+Northern Africa,2010s,Female,112.70588,331,39
+Northern Africa,2010s,Male,684.58826,2372,170
+Northern Africa,2020s,Female,94.333336,115,82
+Northern Africa,2020s,Male,448.66666,498,401
+Northern America,2000s,Female,1757.8182,4459,0
+Northern America,2000s,Male,5810.5654,14573,0
+Northern America,2010s,Female,1188.037,3716,0
+Northern America,2010s,Male,4177.1113,13696,0
+Northern America,2020s,Female,171.0,171,171
+Northern America,2020s,Male,568.0,568,568
+Northern Europe,2000s,Female,30.51389,130,0
+Northern Europe,2000s,Male,76.479454,272,1
+Northern Europe,2010s,Female,22.16092,75,0
+Northern Europe,2010s,Male,45.16092,149,0
+Northern Europe,2020s,Female,16.375,29,1
+Northern Europe,2020s,Male,38.75,99,4
+Polynesia,2000s,Female,0.6,3,0
+Polynesia,2000s,Male,4.0,8,1
+Polynesia,2010s,Female,0.5,1,0
+Polynesia,2010s,Male,1.0,2,0
+Polynesia,2020s,Male,2.0,2,2
+South-eastern Asia,2000s,Female,541.6111,1574,2
+South-eastern Asia,2000s,Male,3003.6667,7513,2
+South-eastern Asia,2010s,Female,325.82144,1212,3
+South-eastern Asia,2010s,Male,2418.6897,10215,2
+South-eastern Asia,2020s,Female,5.0,5,5
+South-eastern Asia,2020s,Male,5.0,5,5
+Southern Asia,2000s,Female,13171.083,17854,203
+Southern Asia,2000s,Male,22893.25,32971,296
+Southern Asia,2010s,Female,5469.364,18731,2
+Southern Asia,2010s,Male,8601.697,29072,4
+Southern Asia,2020s,Female,8194.0,16383,5
+Southern Asia,2020s,Male,12140.5,24267,14
+Southern Europe,2000s,Female,48.515152,197,0
+Southern Europe,2000s,Male,130.87878,575,0
+Southern Europe,2010s,Female,33.85827,179,0
+Southern Europe,2010s,Male,71.33071,385,0
+Southern Europe,2020s,Female,34.77778,119,1
+Southern Europe,2020s,Male,57.4,178,2
+Sub-Saharan Africa,2000s,Female,501.68182,2727,0
+Sub-Saharan Africa,2000s,Male,2930.1365,16378,0
+Sub-Saharan Africa,2010s,Female,474.23077,2930,0
+Sub-Saharan Africa,2010s,Male,2439.302,18265,0
+Sub-Saharan Africa,2020s,Female,207.33333,523,9
+Sub-Saharan Africa,2020s,Male,622.6667,1628,27
+Western Asia,2000s,Female,82.8,615,1
+Western Asia,2000s,Male,355.32727,2984,2
+Western Asia,2010s,Female,67.03125,747,0
+Western Asia,2010s,Male,254.38298,2617,1
+Western Asia,2020s,Female,26.666666,79,4
+Western Asia,2020s,Male,61.8,151,11
+Western Europe,2000s,Female,119.375,545,0
+Western Europe,2000s,Male,163.39285,819,0
+Western Europe,2010s,Female,97.742424,469,0
+Western Europe,2010s,Male,122.71875,630,0
+Western Europe,2020s,Female,93.0,357,0
+Western Europe,2020s,Male,107.4,425,1

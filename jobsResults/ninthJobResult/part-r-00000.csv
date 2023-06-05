@@ -1,0 +1,580 @@
+country,year,disease,average
+Afghanistan,2008,Cancer,0.47078273
+Afghanistan,2008,Cardiovascular disease,1.0816714
+Afghanistan,2008,Respiratory disease,0.7985187
+Albania,2008,Cancer,0.6037519
+Albania,2008,Cardiovascular disease,0.36681283
+Albania,2008,Respiratory disease,0.11572734
+Algeria,2008,Cancer,0.45640767
+Algeria,2008,Cardiovascular disease,0.34122124
+Algeria,2008,Respiratory disease,0.55549127
+Andorra,2008,Cancer,0.45281392
+Andorra,2008,Cardiovascular disease,0.1364885
+Andorra,2008,Respiratory disease,0.18516375
+Angola,2008,Cancer,0.46718895
+Angola,2008,Cardiovascular disease,0.78310275
+Angola,2008,Respiratory disease,1.2730008
+Antigua and Barbuda,2008,Cancer,0.58937687
+Antigua and Barbuda,2008,Cardiovascular disease,0.5220685
+Antigua and Barbuda,2008,Respiratory disease,0.21988195
+Argentina,2008,Cancer,0.5929706
+Argentina,2008,Cardiovascular disease,0.28150752
+Argentina,2008,Respiratory disease,0.45133665
+Armenia,2008,Cancer,0.85890895
+Armenia,2008,Cardiovascular disease,0.64490813
+Armenia,2008,Respiratory disease,0.39347297
+Australia,2008,Cancer,0.44922015
+Australia,2008,Cardiovascular disease,0.1108969
+Australia,2008,Respiratory disease,0.12730008
+Austria,2008,Cancer,0.50312656
+Austria,2008,Cardiovascular disease,0.1364885
+Austria,2008,Respiratory disease,0.11572734
+Azerbaijan,2008,Cancer,0.6756271
+Azerbaijan,2008,Cardiovascular disease,0.8342859
+Azerbaijan,2008,Respiratory disease,0.33560932
+Bahamas,2008,Cancer,0.45281392
+Bahamas,2008,Cardiovascular disease,0.3889922
+Bahamas,2008,Respiratory disease,0.17359102
+Bahrain,2008,Cancer,0.26234457
+Bahrain,2008,Cardiovascular disease,0.353164
+Bahrain,2008,Respiratory disease,0.23145469
+Bangladesh,2008,Cancer,0.6576583
+Bangladesh,2008,Cardiovascular disease,0.7182707
+Bangladesh,2008,Respiratory disease,1.1225553
+Barbados,2008,Cancer,0.50312656
+Barbados,2008,Cardiovascular disease,0.28321362
+Barbados,2008,Respiratory disease,0.21988195
+Belarus,2008,Cancer,0.7115647
+Belarus,2008,Cardiovascular disease,0.7609233
+Belarus,2008,Respiratory disease,0.3008911
+Belgium,2008,Cancer,0.542658
+Belgium,2008,Cardiovascular disease,0.14501902
+Belgium,2008,Respiratory disease,0.21988195
+Belize,2008,Cancer,0.44922015
+Belize,2008,Cardiovascular disease,0.45723644
+Belize,2008,Respiratory disease,0.33560932
+Benin,2008,Cancer,0.5785956
+Benin,2008,Cardiovascular disease,0.70462185
+Benin,2008,Respiratory disease,1.180419
+Bhutan,2008,Cancer,0.6145332
+Bhutan,2008,Cardiovascular disease,0.6244348
+Bhutan,2008,Respiratory disease,1.006828
+Bolivia (Plurinational State of),2008,Cancer,0.37734494
+Bolivia (Plurinational State of),2008,Cardiovascular disease,0.35487008
+Bolivia (Plurinational State of),2008,Respiratory disease,0.42819118
+Bosnia and Herzegovina,2008,Cancer,0.4923453
+Bosnia and Herzegovina,2008,Cardiovascular disease,0.45382422
+Bosnia and Herzegovina,2008,Respiratory disease,0.15044555
+Botswana,2008,Cancer,0.23718823
+Botswana,2008,Cardiovascular disease,0.4998891
+Botswana,2008,Respiratory disease,0.81009144
+Brazil,2008,Cancer,0.49953282
+Brazil,2008,Cardiovascular disease,0.42311433
+Brazil,2008,Respiratory disease,0.3703275
+Brunei Darussalam,2008,Cancer,0.38453245
+Brunei Darussalam,2008,Cardiovascular disease,0.37363726
+Brunei Darussalam,2008,Respiratory disease,0.3008911
+Bulgaria,2008,Cancer,0.7043772
+Bulgaria,2008,Cardiovascular disease,0.57837
+Bulgaria,2008,Respiratory disease,0.18516375
+Burkina Faso,2008,Cancer,0.51390785
+Burkina Faso,2008,Cardiovascular disease,0.643202
+Burkina Faso,2008,Respiratory disease,1.0878371
+Burundi,2008,Cancer,0.5785956
+Burundi,2008,Cardiovascular disease,0.6670875
+Burundi,2008,Respiratory disease,1.0531188
+Cabo Verde,2008,Cancer,0.5175016
+Cabo Verde,2008,Cardiovascular disease,0.40093493
+Cabo Verde,2008,Respiratory disease,0.6365004
+Cambodia,2008,Cancer,0.56062675
+Cambodia,2008,Cardiovascular disease,0.65514475
+Cambodia,2008,Respiratory disease,0.7290823
+Cameroon,2008,Cancer,0.43843886
+Cameroon,2008,Cardiovascular disease,0.80698824
+Cameroon,2008,Respiratory disease,1.3308644
+Canada,2008,Cancer,0.49593905
+Canada,2008,Cardiovascular disease,0.1399007
+Canada,2008,Respiratory disease,0.12730008
+Central African Republic,2008,Cancer,0.43484512
+Central African Republic,2008,Cardiovascular disease,0.8240493
+Central African Republic,2008,Respiratory disease,1.3424373
+Chad,2008,Cancer,0.46718895
+Chad,2008,Cardiovascular disease,0.78651494
+Chad,2008,Respiratory disease,1.2845736
+Chile,2008,Cancer,0.44922015
+Chile,2008,Cardiovascular disease,0.1944961
+Chile,2008,Respiratory disease,0.19673648
+China,2008,Cancer,0.64328325
+China,2008,Cardiovascular disease,0.33951512
+China,2008,Respiratory disease,0.567064
+Colombia,2008,Cancer,0.40250126
+Colombia,2008,Cardiovascular disease,0.25932813
+Colombia,2008,Respiratory disease,0.24302743
+Comoros,2008,Cancer,0.50312656
+Comoros,2008,Cardiovascular disease,0.67049974
+Comoros,2008,Respiratory disease,1.0646915
+Congo,2008,Cancer,0.40609503
+Congo,2008,Cardiovascular disease,0.6670875
+Congo,2008,Respiratory disease,1.0994098
+Cook Islands,2008,Cancer,0.22640696
+Cook Islands,2008,Cardiovascular disease,0.46917918
+Cook Islands,2008,Respiratory disease,0.4397639
+Costa Rica,2008,Cancer,0.38453245
+Costa Rica,2008,Cardiovascular disease,0.20132053
+Costa Rica,2008,Respiratory disease,0.13887282
+Croatia,2008,Cancer,0.72953355
+Croatia,2008,Cardiovascular disease,0.305393
+Croatia,2008,Respiratory disease,0.092581876
+Cuba,2008,Cancer,0.57140803
+Cuba,2008,Cardiovascular disease,0.29345027
+Cuba,2008,Respiratory disease,0.21988195
+Cyprus,2008,Cancer,0.26953208
+Cyprus,2008,Cardiovascular disease,0.16890451
+Cyprus,2008,Respiratory disease,0.08100914
+Czech Republic,2008,Cancer,0.6864084
+Czech Republic,2008,Cardiovascular disease,0.2798014
+Czech Republic,2008,Respiratory disease,0.15044555
+Côte dIvoire,2008,Cancer,0.37375116
+Côte dIvoire,2008,Cardiovascular disease,1.1106751
+Côte dIvoire,2008,Respiratory disease,1.9210739
+Democratic People's Republic of Korea,2008,Cancer,0.43125135
+Democratic People's Republic of Korea,2008,Cardiovascular disease,0.46576697
+Democratic People's Republic of Korea,2008,Respiratory disease,0.567064
+Democratic Republic of the Congo,2008,Cancer,0.49593905
+Democratic Republic of the Congo,2008,Cardiovascular disease,0.68073636
+Democratic Republic of the Congo,2008,Respiratory disease,1.0994098
+Denmark,2008,Cancer,0.6109394
+Denmark,2008,Cardiovascular disease,0.15696177
+Denmark,2008,Respiratory disease,0.20830922
+Djibouti,2008,Cancer,0.45281392
+Djibouti,2008,Cardiovascular disease,0.6926791
+Djibouti,2008,Respiratory disease,0.4976276
+Dominica,2008,Cancer,0.5785956
+Dominica,2008,Cardiovascular disease,0.37704945
+Dominica,2008,Respiratory disease,0.34718204
+Dominican Republic,2008,Cancer,0.45281392
+Dominican Republic,2008,Cardiovascular disease,0.46064866
+Dominican Republic,2008,Respiratory disease,0.31246385
+Ecuador,2008,Cancer,0.44922015
+Ecuador,2008,Cardiovascular disease,0.24226707
+Ecuador,2008,Respiratory disease,0.11572734
+Egypt,2008,Cancer,0.46718895
+Egypt,2008,Cardiovascular disease,0.5169502
+Egypt,2008,Respiratory disease,0.23145469
+El Salvador,2008,Cancer,0.49593905
+El Salvador,2008,Cardiovascular disease,0.28662583
+El Salvador,2008,Respiratory disease,0.24302743
+Equatorial Guinea,2008,Cancer,0.43125135
+Equatorial Guinea,2008,Cardiovascular disease,0.755805
+Equatorial Guinea,2008,Respiratory disease,1.2498554
+Eritrea,2008,Cancer,0.42765757
+Eritrea,2008,Cardiovascular disease,0.5220685
+Eritrea,2008,Respiratory disease,0.84480965
+Estonia,2008,Cancer,0.6504708
+Estonia,2008,Cardiovascular disease,0.45894256
+Estonia,2008,Respiratory disease,0.15044555
+Ethiopia,2008,Cancer,0.47437647
+Ethiopia,2008,Cardiovascular disease,0.80698824
+Ethiopia,2008,Respiratory disease,1.3308644
+Fiji,2008,Cancer,0.53906417
+Fiji,2008,Cardiovascular disease,0.81210655
+Fiji,2008,Respiratory disease,0.67121863
+Finland,2008,Cancer,0.40609503
+Finland,2008,Cardiovascular disease,0.1910839
+Finland,2008,Respiratory disease,0.092581876
+France,2008,Cancer,0.60734564
+France,2008,Cardiovascular disease,0.1108969
+France,2008,Respiratory disease,0.092581876
+Gabon,2008,Cancer,0.42047006
+Gabon,2008,Cardiovascular disease,0.5544845
+Gabon,2008,Respiratory disease,0.92581874
+Gambia,2008,Cancer,0.6576583
+Gambia,2008,Cardiovascular disease,0.8530531
+Gambia,2008,Respiratory disease,1.3655827
+Georgia,2008,Cancer,0.51390785
+Georgia,2008,Cardiovascular disease,0.76774776
+Georgia,2008,Respiratory disease,0.092581876
+Germany,2008,Cancer,0.53906417
+Germany,2008,Cardiovascular disease,0.17402282
+Germany,2008,Respiratory disease,0.12730008
+Ghana,2008,Cancer,0.542658
+Ghana,2008,Cardiovascular disease,0.6124921
+Ghana,2008,Respiratory disease,1.0762643
+Greece,2008,Cancer,0.4923453
+Greece,2008,Cardiovascular disease,0.18596557
+Greece,2008,Respiratory disease,0.12730008
+Grenada,2008,Cancer,0.7582836
+Grenada,2008,Cardiovascular disease,0.5357173
+Grenada,2008,Respiratory disease,0.3008911
+Guatemala,2008,Cancer,0.52468914
+Guatemala,2008,Cardiovascular disease,0.29003805
+Guatemala,2008,Respiratory disease,0.16201828
+Guinea,2008,Cancer,0.63609576
+Guinea,2008,Cardiovascular disease,0.92470956
+Guinea,2008,Respiratory disease,1.5854646
+Guinea-Bissau,2008,Cancer,0.59656435
+Guinea-Bissau,2008,Cardiovascular disease,0.8905874
+Guinea-Bissau,2008,Respiratory disease,1.48131
+Guyana,2008,Cancer,0.47797024
+Guyana,2008,Cardiovascular disease,1.1652704
+Guyana,2008,Respiratory disease,0.2661729
+Haiti,2008,Cancer,0.31984475
+Haiti,2008,Cardiovascular disease,0.5834883
+Haiti,2008,Respiratory disease,0.28931835
+Honduras,2008,Cancer,0.59656435
+Honduras,2008,Cardiovascular disease,0.4452937
+Honduras,2008,Respiratory disease,0.25460017
+Hungary,2008,Cancer,0.94156545
+Hungary,2008,Cardiovascular disease,0.42993876
+Hungary,2008,Respiratory disease,0.33560932
+Iceland,2008,Cancer,0.43484512
+Iceland,2008,Cardiovascular disease,0.1108969
+Iceland,2008,Respiratory disease,0.08100914
+India,2008,Cancer,0.38812622
+India,2008,Cardiovascular disease,0.5596028
+India,2008,Respiratory disease,1.5391737
+Indonesia,2008,Cancer,0.5929706
+Indonesia,2008,Cardiovascular disease,0.5254807
+Indonesia,2008,Respiratory disease,0.740655
+Iran (Islamic Republic of),2008,Cancer,0.39890748
+Iran (Islamic Republic of),2008,Cardiovascular disease,0.46235478
+Iran (Islamic Republic of),2008,Respiratory disease,0.2661729
+Iraq,2008,Cancer,0.48156402
+Iraq,2008,Cardiovascular disease,0.6124921
+Iraq,2008,Respiratory disease,0.40504572
+Ireland,2008,Cancer,0.53906417
+Ireland,2008,Cardiovascular disease,0.14331292
+Ireland,2008,Respiratory disease,0.13887282
+Israel,2008,Cancer,0.44922015
+Israel,2008,Cardiovascular disease,0.122839645
+Israel,2008,Respiratory disease,0.13887282
+Italy,2008,Cancer,0.47437647
+Italy,2008,Cardiovascular disease,0.11260301
+Italy,2008,Respiratory disease,0.06943641
+Jamaica,2008,Cancer,0.557033
+Jamaica,2008,Cardiovascular disease,0.31392354
+Jamaica,2008,Respiratory disease,0.3008911
+Japan,2008,Cancer,0.42765757
+Japan,2008,Cardiovascular disease,0.11601522
+Japan,2008,Respiratory disease,0.06943641
+Jordan,2008,Cancer,0.54984546
+Jordan,2008,Cardiovascular disease,0.71315235
+Jordan,2008,Respiratory disease,0.27774563
+Kazakhstan,2008,Cancer,0.7942212
+Kazakhstan,2008,Cardiovascular disease,1.108969
+Kazakhstan,2008,Respiratory disease,0.47448212
+Kenya,2008,Cancer,0.6396895
+Kenya,2008,Cardiovascular disease,0.4708853
+Kenya,2008,Respiratory disease,0.7985187
+Kiribati,2008,Cancer,0.24437577
+Kiribati,2008,Cardiovascular disease,0.6722058
+Kiribati,2008,Respiratory disease,0.54391855
+Kuwait,2008,Cancer,0.29109466
+Kuwait,2008,Cardiovascular disease,0.46406087
+Kuwait,2008,Respiratory disease,0.11572734
+Kyrgyzstan,2008,Cancer,0.707971
+Kyrgyzstan,2008,Cardiovascular disease,1.0356064
+Kyrgyzstan,2008,Respiratory disease,0.7290823
+Lao People's Democratic Republic,2008,Cancer,0.6217207
+Lao People's Democratic Republic,2008,Cardiovascular disease,0.6722058
+Lao People's Democratic Republic,2008,Respiratory disease,1.1457007
+Latvia,2008,Cancer,0.72593975
+Latvia,2008,Cardiovascular disease,0.6124921
+Latvia,2008,Respiratory disease,0.13887282
+Lebanon,2008,Cancer,0.6576583
+Lebanon,2008,Cardiovascular disease,0.3821678
+Lebanon,2008,Respiratory disease,0.25460017
+Lesotho,2008,Cancer,0.39171997
+Lesotho,2008,Cardiovascular disease,0.755805
+Lesotho,2008,Respiratory disease,1.2498554
+Liberia,2008,Cancer,0.5354704
+Liberia,2008,Cardiovascular disease,0.64490813
+Liberia,2008,Respiratory disease,1.0299734
+Libya,2008,Cancer,0.50312656
+Libya,2008,Cardiovascular disease,0.545954
+Libya,2008,Respiratory disease,0.31246385
+Lithuania,2008,Cancer,0.7331273
+Lithuania,2008,Cardiovascular disease,0.5323051
+Lithuania,2008,Respiratory disease,0.16201828
+Luxembourg,2008,Cancer,0.49593905
+Luxembourg,2008,Cardiovascular disease,0.1671984
+Luxembourg,2008,Respiratory disease,0.18516375
+Madagascar,2008,Cancer,0.5534392
+Madagascar,2008,Cardiovascular disease,0.49306467
+Madagascar,2008,Respiratory disease,0.7985187
+Malawi,2008,Cancer,0.58578306
+Malawi,2008,Cardiovascular disease,1.0816714
+Malawi,2008,Respiratory disease,1.4465919
+Malaysia,2008,Cancer,0.5067203
+Malaysia,2008,Cardiovascular disease,0.37022504
+Malaysia,2008,Respiratory disease,0.41661844
+Maldives,2008,Cancer,0.21203192
+Maldives,2008,Cardiovascular disease,0.3906983
+Maldives,2008,Respiratory disease,0.85638237
+Mali,2008,Cancer,0.6145332
+Mali,2008,Cardiovascular disease,0.49818298
+Mali,2008,Respiratory disease,0.82166415
+Malta,2008,Cancer,0.44203264
+Malta,2008,Cardiovascular disease,0.17061062
+Malta,2008,Respiratory disease,0.12730008
+Marshall Islands,2008,Cancer,0.59656435
+Marshall Islands,2008,Cardiovascular disease,2.4346135
+Marshall Islands,2008,Respiratory disease,2.2566833
+Mauritania,2008,Cancer,0.5282829
+Mauritania,2008,Cardiovascular disease,0.61761045
+Mauritania,2008,Respiratory disease,0.98368245
+Mauritius,2008,Cancer,0.39531374
+Mauritius,2008,Cardiovascular disease,0.7506867
+Mauritius,2008,Respiratory disease,0.33560932
+Mexico,2008,Cancer,0.33781356
+Mexico,2008,Cardiovascular disease,0.37022504
+Mexico,2008,Respiratory disease,0.23145469
+Micronesia (Federated States of),2008,Cancer,0.39531374
+Micronesia (Federated States of),2008,Cardiovascular disease,0.6636753
+Micronesia (Federated States of),2008,Respiratory disease,0.5902095
+Monaco,2008,Cancer,0.47437647
+Monaco,2008,Cardiovascular disease,0.11601522
+Monaco,2008,Respiratory disease,0.092581876
+Mongolia,2008,Cancer,1.0206282
+Mongolia,2008,Cardiovascular disease,0.68414855
+Mongolia,2008,Respiratory disease,0.25460017
+Montenegro,2008,Cancer,0.6109394
+Montenegro,2008,Cardiovascular disease,0.50500745
+Montenegro,2008,Respiratory disease,0.24302743
+Morocco,2008,Cancer,0.45640767
+Morocco,2008,Cardiovascular disease,0.36510673
+Morocco,2008,Respiratory disease,0.2661729
+Mozambique,2008,Cancer,0.51390785
+Mozambique,2008,Cardiovascular disease,0.84964085
+Mozambique,2008,Respiratory disease,1.4465919
+Myanmar,2008,Cancer,0.5821893
+Myanmar,2008,Cardiovascular disease,0.54766005
+Myanmar,2008,Respiratory disease,0.7522277
+Namibia,2008,Cancer,0.26234457
+Namibia,2008,Cardiovascular disease,0.89399964
+Namibia,2008,Respiratory disease,0.97210974
+Nauru,2008,Cancer,0.8301588
+Nauru,2008,Cardiovascular disease,1.479194
+Nauru,2008,Respiratory disease,1.1572734
+Nepal,2008,Cancer,0.6396895
+Nepal,2008,Cardiovascular disease,0.47600362
+Nepal,2008,Respiratory disease,0.65964586
+Netherlands,2008,Cancer,0.5929706
+Netherlands,2008,Cardiovascular disease,0.13137017
+Netherlands,2008,Respiratory disease,0.13887282
+New Zealand,2008,Cancer,0.4923453
+New Zealand,2008,Cardiovascular disease,0.15525566
+New Zealand,2008,Respiratory disease,0.16201828
+Nicaragua,2008,Cancer,0.44562638
+Nicaragua,2008,Cardiovascular disease,0.3924044
+Nicaragua,2008,Respiratory disease,0.24302743
+Niger,2008,Cancer,0.4635952
+Niger,2008,Cardiovascular disease,0.4197021
+Niger,2008,Respiratory disease,0.65964586
+Nigeria,2008,Cancer,0.5318767
+Nigeria,2008,Cardiovascular disease,0.643202
+Nigeria,2008,Respiratory disease,1.0415461
+Niue,2008,Cancer,0.33421978
+Niue,2008,Cardiovascular disease,0.5067135
+Niue,2008,Respiratory disease,0.47448212
+Norway,2008,Cancer,0.49593905
+Norway,2008,Cardiovascular disease,0.12625186
+Norway,2008,Respiratory disease,0.17359102
+Oman,2008,Cancer,0.42406383
+Oman,2008,Cardiovascular disease,0.8598775
+Oman,2008,Respiratory disease,0.21988195
+Pakistan,2008,Cancer,0.5462517
+Pakistan,2008,Cardiovascular disease,0.61590433
+Pakistan,2008,Respiratory disease,0.9952552
+Palau,2008,Cancer,0.47078273
+Palau,2008,Cardiovascular disease,0.66026306
+Palau,2008,Respiratory disease,0.5786367
+Panama,2008,Cancer,0.39171997
+Panama,2008,Cardiovascular disease,0.23544265
+Panama,2008,Respiratory disease,0.17359102
+Papua New Guinea,2008,Cancer,0.6037519
+Papua New Guinea,2008,Cardiovascular disease,0.6653814
+Papua New Guinea,2008,Respiratory disease,0.92581874
+Paraguay,2008,Cancer,0.48515776
+Paraguay,2008,Cardiovascular disease,0.36681283
+Paraguay,2008,Respiratory disease,0.13887282
+Peru,2008,Cancer,0.46718895
+Peru,2008,Cardiovascular disease,0.14672513
+Peru,2008,Respiratory disease,0.17359102
+Philippines,2008,Cancer,0.48156402
+Philippines,2008,Cardiovascular disease,0.61761045
+Philippines,2008,Respiratory disease,0.5902095
+Poland,2008,Cancer,0.78703374
+Poland,2008,Cardiovascular disease,0.37363726
+Poland,2008,Respiratory disease,0.16201828
+Portugal,2008,Cancer,0.5785956
+Portugal,2008,Cardiovascular disease,0.14843124
+Portugal,2008,Respiratory disease,0.12730008
+Qatar,2008,Cancer,0.33421978
+Qatar,2008,Cardiovascular disease,0.18596557
+Qatar,2008,Respiratory disease,0.092581876
+Republic of Korea,2008,Cancer,0.47797024
+Republic of Korea,2008,Cardiovascular disease,0.14501902
+Republic of Korea,2008,Respiratory disease,0.092581876
+Republic of Moldova,2008,Cancer,0.7331273
+Republic of Moldova,2008,Cardiovascular disease,0.68414855
+Republic of Moldova,2008,Respiratory disease,0.33560932
+Romania,2008,Cancer,0.72593975
+Romania,2008,Cardiovascular disease,0.4777097
+Romania,2008,Respiratory disease,0.19673648
+Russian Federation,2008,Cancer,0.64687705
+Russian Federation,2008,Cardiovascular disease,0.8820569
+Russian Federation,2008,Respiratory disease,0.24302743
+Rwanda,2008,Cancer,0.5678143
+Rwanda,2008,Cardiovascular disease,0.4947708
+Rwanda,2008,Respiratory disease,0.78694594
+Saint Kitts and Nevis,2008,Cancer,0.5534392
+Saint Kitts and Nevis,2008,Cardiovascular disease,0.37022504
+Saint Kitts and Nevis,2008,Respiratory disease,0.06943641
+Saint Lucia,2008,Cancer,0.5067203
+Saint Lucia,2008,Cardiovascular disease,0.45553035
+Saint Lucia,2008,Respiratory disease,0.2661729
+Saint Vincent and the Grenadines,2008,Cancer,0.5067203
+Saint Vincent and the Grenadines,2008,Cardiovascular disease,0.41799602
+Saint Vincent and the Grenadines,2008,Respiratory disease,0.24302743
+Samoa,2008,Cancer,0.2767196
+Samoa,2008,Cardiovascular disease,0.65002644
+Samoa,2008,Respiratory disease,0.5902095
+San Marino,2008,Cancer,0.38812622
+San Marino,2008,Cardiovascular disease,0.14672513
+San Marino,2008,Respiratory disease,0.023145469
+Sao Tome and Principe,2008,Cancer,0.60734564
+Sao Tome and Principe,2008,Cardiovascular disease,0.3122174
+Sao Tome and Principe,2008,Respiratory disease,0.46290937
+Saudi Arabia,2008,Cancer,0.29109466
+Saudi Arabia,2008,Cardiovascular disease,0.68414855
+Saudi Arabia,2008,Respiratory disease,0.17359102
+Senegal,2008,Cancer,0.5462517
+Senegal,2008,Cardiovascular disease,0.52377456
+Senegal,2008,Respiratory disease,0.84480965
+Serbia,2008,Cancer,0.84812766
+Serbia,2008,Cardiovascular disease,0.4674731
+Serbia,2008,Respiratory disease,0.21988195
+Seychelles,2008,Cancer,0.71515846
+Seychelles,2008,Cardiovascular disease,0.45211813
+Seychelles,2008,Respiratory disease,0.3703275
+Sierra Leone,2008,Cancer,0.47797024
+Sierra Leone,2008,Cardiovascular disease,0.6534386
+Sierra Leone,2008,Respiratory disease,1.0646915
+Singapore,2008,Cancer,0.45281392
+Singapore,2008,Cardiovascular disease,0.1962022
+Singapore,2008,Respiratory disease,0.092581876
+Slovakia,2008,Cancer,0.71875226
+Slovakia,2008,Cardiovascular disease,0.3821678
+Slovakia,2008,Respiratory disease,0.15044555
+Slovenia,2008,Cancer,0.63250196
+Slovenia,2008,Cardiovascular disease,0.16378619
+Slovenia,2008,Respiratory disease,0.06943641
+Solomon Islands,2008,Cancer,0.44562638
+Solomon Islands,2008,Cardiovascular disease,0.5254807
+Solomon Islands,2008,Respiratory disease,0.48605487
+Somalia,2008,Cancer,0.53906417
+Somalia,2008,Cardiovascular disease,0.92812175
+Somalia,2008,Respiratory disease,0.82166415
+South Africa,2008,Cancer,0.69359595
+South Africa,2008,Cardiovascular disease,0.52377456
+South Africa,2008,Respiratory disease,0.78694594
+Spain,2008,Cancer,0.50312656
+Spain,2008,Cardiovascular disease,0.11601522
+Spain,2008,Respiratory disease,0.16201828
+Sri Lanka,2008,Cancer,0.46718895
+Sri Lanka,2008,Cardiovascular disease,0.36510673
+Sri Lanka,2008,Respiratory disease,0.54391855
+Sudan,2008,Cancer,0.35937613
+Sudan,2008,Cardiovascular disease,0.8581714
+Sudan,2008,Respiratory disease,0.7522277
+Suriname,2008,Cancer,0.36656365
+Suriname,2008,Cardiovascular disease,0.56642723
+Suriname,2008,Respiratory disease,0.16201828
+Swaziland,2008,Cancer,0.42047006
+Swaziland,2008,Cardiovascular disease,0.9400645
+Swaziland,2008,Respiratory disease,1.5738919
+Sweden,2008,Cancer,0.43484512
+Sweden,2008,Cardiovascular disease,0.13478239
+Sweden,2008,Respiratory disease,0.10415461
+Switzerland,2008,Cancer,0.45640767
+Switzerland,2008,Cardiovascular disease,0.100660264
+Switzerland,2008,Respiratory disease,0.08100914
+Syrian Arab Republic,2008,Cancer,0.26953208
+Syrian Arab Republic,2008,Cardiovascular disease,0.55789673
+Syrian Arab Republic,2008,Respiratory disease,0.31246385
+Tajikistan,2008,Cancer,0.45281392
+Tajikistan,2008,Cardiovascular disease,0.72850734
+Tajikistan,2008,Respiratory disease,0.35875478
+Thailand,2008,Cancer,0.48875153
+Thailand,2008,Cardiovascular disease,0.4162899
+Thailand,2008,Respiratory disease,0.42819118
+The former Yugoslav Republic of Macedonia,2008,Cancer,0.63609576
+The former Yugoslav Republic of Macedonia,2008,Cardiovascular disease,0.48453414
+The former Yugoslav Republic of Macedonia,2008,Respiratory disease,0.18516375
+Timor-Leste,2008,Cancer,0.5067203
+Timor-Leste,2008,Cardiovascular disease,0.4435876
+Timor-Leste,2008,Respiratory disease,0.6133549
+Togo,2008,Cancer,0.51390785
+Togo,2008,Cardiovascular disease,0.63125926
+Togo,2008,Respiratory disease,1.0299734
+Tonga,2008,Cancer,0.37734494
+Tonga,2008,Cardiovascular disease,0.7609233
+Tonga,2008,Respiratory disease,0.64807314
+Trinidad and Tobago,2008,Cancer,0.46000144
+Trinidad and Tobago,2008,Cardiovascular disease,0.64490813
+Trinidad and Tobago,2008,Respiratory disease,0.20830922
+Tunisia,2008,Cancer,0.45640767
+Tunisia,2008,Cardiovascular disease,0.22349991
+Tunisia,2008,Respiratory disease,0.15044555
+Turkey,2008,Cancer,0.58578306
+Turkey,2008,Cardiovascular disease,0.45723644
+Turkey,2008,Respiratory disease,0.34718204
+Turkmenistan,2008,Cancer,0.6181269
+Turkmenistan,2008,Cardiovascular disease,1.3785337
+Turkmenistan,2008,Respiratory disease,0.48605487
+Tuvalu,2008,Cancer,0.6756271
+Tuvalu,2008,Cardiovascular disease,1.0680225
+Tuvalu,2008,Respiratory disease,0.914246
+Uganda,2008,Cancer,0.6864084
+Uganda,2008,Cardiovascular disease,0.7182707
+Uganda,2008,Respiratory disease,1.2845736
+Ukraine,2008,Cancer,0.6109394
+Ukraine,2008,Cardiovascular disease,0.8530531
+Ukraine,2008,Respiratory disease,0.27774563
+United Arab Emirates,2008,Cancer,0.28031337
+United Arab Emirates,2008,Cardiovascular disease,0.3599884
+United Arab Emirates,2008,Respiratory disease,0.13887282
+United Kingdom,2008,Cancer,0.5175016
+United Kingdom,2008,Cardiovascular disease,0.15525566
+United Kingdom,2008,Respiratory disease,0.23145469
+United Republic of Tanzania,2008,Cancer,0.40609503
+United Republic of Tanzania,2008,Cardiovascular disease,0.5817822
+United Republic of Tanzania,2008,Respiratory disease,0.9952552
+United States of America,2008,Cancer,0.51390785
+United States of America,2008,Cardiovascular disease,0.23373654
+United States of America,2008,Respiratory disease,0.27774563
+Uruguay,2008,Cancer,0.7115647
+Uruguay,2008,Cardiovascular disease,0.28491974
+Uruguay,2008,Respiratory disease,0.31246385
+Uzbekistan,2008,Cancer,0.40609503
+Uzbekistan,2008,Cardiovascular disease,0.9690683
+Uzbekistan,2008,Respiratory disease,0.32403657
+Vanuatu,2008,Cancer,0.5462517
+Vanuatu,2008,Cardiovascular disease,0.6670875
+Vanuatu,2008,Respiratory disease,0.6133549
+Venezuela (Bolivarian Republic of),2008,Cancer,0.40250126
+Venezuela (Bolivarian Republic of),2008,Cardiovascular disease,0.34122124
+Venezuela (Bolivarian Republic of),2008,Respiratory disease,0.16201828
+Viet Nam,2008,Cancer,0.6037519
+Viet Nam,2008,Cardiovascular disease,0.39581662
+Viet Nam,2008,Respiratory disease,0.4397639
+Yemen,2008,Cancer,0.40250126
+Yemen,2008,Cardiovascular disease,0.7165646
+Yemen,2008,Respiratory disease,0.5323458
+Zambia,2008,Cancer,0.59656435
+Zambia,2008,Cardiovascular disease,0.89911795
+Zambia,2008,Respiratory disease,1.5623192
+Zimbabwe,2008,Cancer,0.5642205
+Zimbabwe,2008,Cardiovascular disease,0.35145786
+Zimbabwe,2008,Respiratory disease,0.5902095

@@ -1,0 +1,669 @@
+subRegion,year,sex,average,maximum,minimum
+(blank),2001,Female,1.0,3,0
+(blank),2001,Male,6.6666665,20,0
+(blank),2002,Female,1.0,2,0
+(blank),2002,Male,6.1666665,26,0
+(blank),2003,Female,1.8571428,6,0
+(blank),2003,Male,10.857142,36,0
+(blank),2004,Female,1.1666666,3,0
+(blank),2004,Male,12.166667,41,0
+(blank),2005,Female,2.7142856,10,0
+(blank),2005,Male,12.428572,36,0
+(blank),2006,Female,2.8333333,7,0
+(blank),2006,Male,12.833333,34,0
+(blank),2007,Female,2.5,8,0
+(blank),2007,Male,12.6,39,0
+(blank),2008,Female,2.625,8,0
+(blank),2008,Male,15.75,40,0
+(blank),2009,Female,4.2222223,25,0
+(blank),2009,Male,21.333334,87,0
+(blank),2010,Female,3.375,11,0
+(blank),2010,Male,19.5,62,0
+(blank),2011,Female,6.75,20,0
+(blank),2011,Male,34.75,86,0
+(blank),2012,Female,3.0,9,0
+(blank),2012,Male,24.25,53,0
+(blank),2013,Female,3.75,11,1
+(blank),2013,Male,33.0,79,0
+(blank),2014,Female,1.5,4,0
+(blank),2014,Male,11.25,37,0
+(blank),2015,Female,4.0,12,0
+(blank),2015,Male,15.666667,43,2
+(blank),2016,Female,5.0,10,0
+(blank),2016,Male,16.0,32,0
+(blank),2017,Female,8.0,8,8
+(blank),2017,Male,30.0,30,30
+(blank),2018,Female,13.0,13,13
+(blank),2018,Male,35.0,35,35
+(blank),2019,Female,9.0,9,9
+(blank),2019,Male,35.0,35,35
+(blank),2020,Female,3.0,3,3
+(blank),2020,Male,21.0,21,21
+Australia and New Zealand,2001,Female,78.0,136,20
+Australia and New Zealand,2001,Male,128.0,225,31
+Australia and New Zealand,2002,Female,68.5,116,21
+Australia and New Zealand,2002,Male,129.5,230,29
+Australia and New Zealand,2003,Female,73.5,121,26
+Australia and New Zealand,2003,Male,138.5,244,33
+Australia and New Zealand,2004,Female,55.0,96,14
+Australia and New Zealand,2004,Male,117.0,205,29
+Australia and New Zealand,2005,Female,51.5,92,11
+Australia and New Zealand,2005,Male,101.5,170,33
+Australia and New Zealand,2006,Female,60.0,94,26
+Australia and New Zealand,2006,Male,99.0,164,34
+Australia and New Zealand,2007,Female,54.5,92,17
+Australia and New Zealand,2007,Male,109.5,188,31
+Australia and New Zealand,2008,Female,52.0,85,19
+Australia and New Zealand,2008,Male,99.0,169,29
+Australia and New Zealand,2009,Female,62.0,101,23
+Australia and New Zealand,2009,Male,94.0,160,28
+Australia and New Zealand,2010,Female,50.5,76,25
+Australia and New Zealand,2010,Male,114.0,186,42
+Australia and New Zealand,2011,Female,57.5,93,22
+Australia and New Zealand,2011,Male,78.5,137,20
+Australia and New Zealand,2012,Female,52.5,90,15
+Australia and New Zealand,2012,Male,91.0,158,24
+Australia and New Zealand,2013,Female,52.0,83,21
+Australia and New Zealand,2013,Male,90.0,160,20
+Australia and New Zealand,2014,Female,53.0,94,12
+Australia and New Zealand,2014,Male,92.5,151,34
+Australia and New Zealand,2015,Female,53.5,94,13
+Australia and New Zealand,2015,Male,89.0,149,29
+Australia and New Zealand,2016,Female,50.0,84,16
+Australia and New Zealand,2016,Male,91.5,151,32
+Australia and New Zealand,2017,Female,51.0,80,22
+Australia and New Zealand,2017,Male,87.5,147,28
+Australia and New Zealand,2018,Female,38.0,63,13
+Australia and New Zealand,2018,Male,83.0,144,22
+Australia and New Zealand,2019,Female,84.0,84,84
+Australia and New Zealand,2019,Male,135.0,135,135
+Australia and New Zealand,2020,Female,47.5,68,27
+Australia and New Zealand,2020,Male,121.0,156,86
+Australia and New Zealand,2021,Female,74.0,74,74
+Australia and New Zealand,2021,Male,150.0,150,150
+Central Asia,2001,Female,76.0,76,76
+Central Asia,2001,Male,354.0,354,354
+Central Asia,2002,Female,68.0,68,68
+Central Asia,2002,Male,318.0,318,318
+Central Asia,2003,Female,79.0,79,79
+Central Asia,2003,Male,332.0,332,332
+Central Asia,2004,Female,94.0,94,94
+Central Asia,2004,Male,326.0,326,326
+Central Asia,2005,Female,88.0,88,88
+Central Asia,2005,Male,330.0,330,330
+Central Asia,2006,Female,106.0,106,106
+Central Asia,2006,Male,385.0,385,385
+Central Asia,2007,Female,64.5,89,40
+Central Asia,2007,Male,255.5,357,154
+Central Asia,2008,Female,65.0,97,33
+Central Asia,2008,Male,208.5,318,99
+Central Asia,2009,Female,162.66667,363,38
+Central Asia,2009,Male,612.0,1444,62
+Central Asia,2010,Female,190.33333,416,24
+Central Asia,2010,Male,571.6667,1355,72
+Central Asia,2011,Female,183.5,344,23
+Central Asia,2011,Male,600.5,1043,158
+Central Asia,2012,Female,173.0,329,17
+Central Asia,2012,Male,600.0,1091,109
+Central Asia,2013,Female,276.0,276,276
+Central Asia,2013,Male,990.0,990,990
+Central Asia,2014,Female,280.0,280,280
+Central Asia,2014,Male,840.0,840,840
+Central Asia,2015,Female,204.0,204,204
+Central Asia,2016,Female,233.5,251,216
+Central Asia,2016,Male,556.0,602,510
+Central Asia,2017,Female,258.0,258,258
+Central Asia,2017,Male,499.0,499,499
+Central Asia,2018,Female,213.0,221,205
+Central Asia,2018,Male,540.0,694,386
+Central Asia,2019,Female,176.0,176,176
+Central Asia,2019,Male,298.0,298,298
+Central Asia,2020,Female,138.0,138,138
+Central Asia,2020,Male,258.0,258,258
+Central Asia,2021,Female,80.0,150,10
+Central Asia,2021,Male,271.5,456,87
+Eastern Asia,2001,Female,330.0,330,330
+Eastern Asia,2001,Male,348.0,348,348
+Eastern Asia,2002,Female,315.0,315,315
+Eastern Asia,2002,Male,382.0,382,382
+Eastern Asia,2003,Female,315.0,315,315
+Eastern Asia,2003,Male,347.0,347,347
+Eastern Asia,2004,Female,170.0,318,22
+Eastern Asia,2004,Male,204.5,379,30
+Eastern Asia,2005,Female,176.5,333,20
+Eastern Asia,2005,Male,195.5,366,25
+Eastern Asia,2006,Female,166.0,319,13
+Eastern Asia,2006,Male,172.5,324,21
+Eastern Asia,2007,Female,171.0,324,18
+Eastern Asia,2007,Male,156.0,295,17
+Eastern Asia,2008,Female,119.666664,282,11
+Eastern Asia,2008,Male,175.66667,292,7
+Eastern Asia,2009,Female,104.0,339,3
+Eastern Asia,2009,Male,122.5,315,1
+Eastern Asia,2010,Female,85.0,253,3
+Eastern Asia,2010,Male,109.25,253,2
+Eastern Asia,2011,Female,80.75,237,0
+Eastern Asia,2011,Male,104.5,228,2
+Eastern Asia,2012,Female,104.6,234,3
+Eastern Asia,2012,Male,121.6,208,1
+Eastern Asia,2013,Female,105.8,240,1
+Eastern Asia,2013,Male,113.0,216,3
+Eastern Asia,2014,Female,93.4,191,1
+Eastern Asia,2014,Male,104.6,179,0
+Eastern Asia,2015,Female,93.4,206,1
+Eastern Asia,2015,Male,109.2,189,0
+Eastern Asia,2016,Female,95.4,218,1
+Eastern Asia,2016,Male,99.6,177,0
+Eastern Asia,2017,Female,110.0,197,11
+Eastern Asia,2017,Male,98.0,165,1
+Eastern Asia,2018,Female,77.6,173,2
+Eastern Asia,2018,Male,108.75,147,9
+Eastern Asia,2019,Female,79.0,179,1
+Eastern Asia,2019,Male,98.2,155,1
+Eastern Asia,2020,Female,77.6,181,0
+Eastern Asia,2020,Male,90.8,165,2
+Eastern Asia,2021,Female,46.25,138,2
+Eastern Asia,2021,Male,112.333336,164,13
+Eastern Europe,2001,Female,1377.7778,10337,34
+Eastern Europe,2001,Male,3978.2222,30753,95
+Eastern Europe,2002,Female,1442.4445,10756,33
+Eastern Europe,2002,Male,4165.4443,32165,85
+Eastern Europe,2003,Female,1428.2222,10716,49
+Eastern Europe,2003,Male,4242.222,33536,72
+Eastern Europe,2004,Female,1374.0,10305,47
+Eastern Europe,2004,Male,3987.3333,31459,90
+Eastern Europe,2005,Female,1264.3334,9641,36
+Eastern Europe,2005,Male,3716.7778,29615,72
+Eastern Europe,2006,Female,1289.0,8849,32
+Eastern Europe,2006,Male,3344.3333,26787,61
+Eastern Europe,2007,Female,960.6667,7215,15
+Eastern Europe,2007,Male,2759.3333,21629,67
+Eastern Europe,2008,Female,767.44446,6196,28
+Eastern Europe,2008,Male,2308.5557,19181,54
+Eastern Europe,2009,Female,586.9,4493,24
+Eastern Europe,2009,Male,1675.2,13695,62
+Eastern Europe,2010,Female,596.2,4620,32
+Eastern Europe,2010,Male,1577.4,13039,46
+Eastern Europe,2011,Female,557.9,4358,27
+Eastern Europe,2011,Male,1488.4,12332,50
+Eastern Europe,2012,Female,512.0,4057,30
+Eastern Europe,2012,Male,1469.7778,12118,42
+Eastern Europe,2013,Female,531.3333,4239,18
+Eastern Europe,2013,Male,134.11111,298,45
+Eastern Europe,2014,Female,501.66666,4021,23
+Eastern Europe,2014,Male,1447.3334,12012,39
+Eastern Europe,2015,Female,520.0,4191,17
+Eastern Europe,2015,Male,1483.5555,12325,36
+Eastern Europe,2016,Female,524.2222,4154,14
+Eastern Europe,2016,Male,1419.6666,11710,30
+Eastern Europe,2017,Female,514.2222,4152,20
+Eastern Europe,2017,Male,1412.1111,11709,29
+Eastern Europe,2018,Female,441.4,3484,19
+Eastern Europe,2018,Male,1303.8,9809,36
+Eastern Europe,2019,Female,446.25,3173,26
+Eastern Europe,2019,Male,1192.5,8782,36
+Eastern Europe,2020,Female,367.77777,2921,15
+Eastern Europe,2020,Male,1009.0,8278,33
+Eastern Europe,2021,Female,440.0,2763,26
+Eastern Europe,2021,Male,1206.5714,7928,33
+Latin America and the Caribbean,2001,Female,566.9286,3743,0
+Latin America and the Caribbean,2001,Male,6178.9287,41585,1
+Latin America and the Caribbean,2002,Female,551.6667,3851,0
+Latin America and the Caribbean,2002,Male,5366.2666,44040,0
+Latin America and the Caribbean,2003,Female,584.4,3867,0
+Latin America and the Caribbean,2003,Male,6207.8,45775,3
+Latin America and the Caribbean,2004,Female,430.13333,3937,0
+Latin America and the Caribbean,2004,Male,6113.6665,47082,2
+Latin America and the Caribbean,2005,Female,437.78946,3830,0
+Latin America and the Caribbean,2005,Male,4672.737,44519,4
+Latin America and the Caribbean,2006,Female,419.0,3884,0
+Latin America and the Caribbean,2006,Male,4326.5,43665,3
+Latin America and the Caribbean,2007,Female,399.20834,4022,1
+Latin America and the Caribbean,2007,Male,4244.9585,45060,0
+Latin America and the Caribbean,2008,Female,370.12,3772,1
+Latin America and the Caribbean,2008,Male,4029.72,43886,1
+Latin America and the Caribbean,2009,Female,327.0,4023,0
+Latin America and the Caribbean,2009,Male,3603.9678,46024,1
+Latin America and the Caribbean,2010,Female,374.13333,4260,0
+Latin America and the Caribbean,2010,Male,4059.9312,47109,1
+Latin America and the Caribbean,2011,Female,408.4138,4465,0
+Latin America and the Caribbean,2011,Male,4247.241,47749,8
+Latin America and the Caribbean,2012,Female,453.07144,4512,0
+Latin America and the Caribbean,2012,Male,4552.0,47619,3
+Latin America and the Caribbean,2013,Female,493.76923,4719,2
+Latin America and the Caribbean,2013,Male,4985.769,51544,9
+Latin America and the Caribbean,2014,Female,423.44446,4762,0
+Latin America and the Caribbean,2014,Male,4050.5186,51937,1
+Latin America and the Caribbean,2015,Female,431.03845,4832,0
+Latin America and the Caribbean,2015,Male,4001.3333,54736,5
+Latin America and the Caribbean,2016,Female,404.0645,4616,1
+Latin America and the Caribbean,2016,Male,4049.3225,53424,4
+Latin America and the Caribbean,2017,Female,391.9355,4635,1
+Latin America and the Caribbean,2017,Male,4071.2258,56409,7
+Latin America and the Caribbean,2018,Female,439.5862,4928,2
+Latin America and the Caribbean,2018,Male,4431.3105,58713,10
+Latin America and the Caribbean,2019,Female,423.19354,4512,1
+Latin America and the Caribbean,2019,Male,3670.2258,51271,0
+Latin America and the Caribbean,2020,Female,410.27585,3893,0
+Latin America and the Caribbean,2020,Male,3662.5,40231,2
+Latin America and the Caribbean,2021,Female,726.7692,3952,1
+Latin America and the Caribbean,2021,Male,6846.4614,39336,14
+Melanesia,2006,Female,9.0,9,9
+Melanesia,2006,Male,14.0,14,14
+Melanesia,2007,Female,12.0,12,12
+Melanesia,2007,Male,10.0,10,10
+Melanesia,2008,Female,18.0,18,18
+Melanesia,2008,Male,3.0,3,3
+Melanesia,2009,Female,10.0,10,10
+Melanesia,2009,Male,7.0,7,7
+Melanesia,2010,Female,8.0,8,8
+Melanesia,2010,Male,21.0,21,21
+Melanesia,2011,Female,6.0,6,6
+Melanesia,2011,Male,14.0,14,14
+Melanesia,2012,Female,9.0,9,9
+Melanesia,2012,Male,11.0,11,11
+Melanesia,2013,Female,7.0,7,7
+Melanesia,2013,Male,13.0,13,13
+Melanesia,2014,Female,8.0,8,8
+Melanesia,2014,Male,11.0,11,11
+Melanesia,2015,Female,12.0,12,12
+Melanesia,2015,Male,8.0,8,8
+Melanesia,2020,Female,1.0,1,1
+Melanesia,2020,Male,1.0,1,1
+Melanesia,2021,Female,1.0,1,1
+Melanesia,2021,Male,0.0,0,0
+Micronesia,2020,Female,1.0,1,1
+Micronesia,2020,Male,0.0,0,0
+Northern Africa,2005,Female,52.0,52,52
+Northern Africa,2005,Male,270.0,270,270
+Northern Africa,2006,Female,63.0,63,63
+Northern Africa,2006,Male,459.0,459,459
+Northern Africa,2007,Female,144.0,144,144
+Northern Africa,2007,Male,405.0,405,405
+Northern Africa,2008,Female,163.0,163,163
+Northern Africa,2008,Male,517.0,517,517
+Northern Africa,2009,Female,110.0,110,110
+Northern Africa,2009,Male,856.0,856,856
+Northern Africa,2010,Female,122.5,193,52
+Northern Africa,2010,Male,549.0,719,379
+Northern Africa,2011,Female,197.0,197,197
+Northern Africa,2011,Male,1642.0,1642,1642
+Northern Africa,2012,Female,331.0,331,331
+Northern Africa,2012,Male,2372.0,2372,2372
+Northern Africa,2013,Female,123.0,261,52
+Northern Africa,2013,Male,822.3333,1945,195
+Northern Africa,2014,Female,52.5,66,39
+Northern Africa,2014,Male,266.5,363,170
+Northern Africa,2015,Female,72.0,85,59
+Northern Africa,2015,Male,393.5,491,296
+Northern Africa,2016,Female,85.0,97,73
+Northern Africa,2016,Male,401.5,469,334
+Northern Africa,2017,Female,105.0,105,105
+Northern Africa,2017,Male,489.0,489,489
+Northern Africa,2018,Female,113.0,113,113
+Northern Africa,2018,Male,648.0,648,648
+Northern Africa,2019,Female,70.0,70,70
+Northern Africa,2019,Male,440.0,440,440
+Northern Africa,2020,Female,104.0,117,92
+Northern Africa,2020,Male,485.66666,510,468
+Northern Africa,2021,Female,94.333336,115,82
+Northern Africa,2021,Male,448.66666,498,401
+Northern America,2001,Female,1929.0,3709,149
+Northern America,2001,Male,6136.5,11876,397
+Northern America,2002,Female,2310.5,4459,162
+Northern America,2002,Male,7482.0,14573,391
+Northern America,2003,Female,1983.5,3760,207
+Northern America,2003,Male,6421.5,12468,375
+Northern America,2004,Female,1925.0,3694,156
+Northern America,2004,Male,6612.5,12833,392
+Northern America,2005,Female,1776.0,3551,1
+Northern America,2005,Male,4340.3335,12596,0
+Northern America,2006,Female,1246.3334,3559,0
+Northern America,2006,Male,4555.3335,13180,2
+Northern America,2007,Female,1908.0,3654,162
+Northern America,2007,Male,7050.5,13655,446
+Northern America,2008,Female,1922.0,3678,166
+Northern America,2008,Male,6940.5,13450,431
+Northern America,2009,Female,1866.0,3585,147
+Northern America,2009,Male,6673.5,12880,467
+Northern America,2010,Female,1231.0,3530,1
+Northern America,2010,Male,4107.3335,11869,5
+Northern America,2011,Female,1155.0,3311,0
+Northern America,2011,Male,3939.6667,11411,7
+Northern America,2012,Female,1147.6666,3262,2
+Northern America,2012,Male,3944.0,11399,6
+Northern America,2013,Female,1152.6666,3301,0
+Northern America,2013,Male,3984.0,11555,6
+Northern America,2014,Female,1106.6666,3169,0
+Northern America,2014,Male,3837.3333,11149,5
+Northern America,2015,Female,1111.6666,3183,1
+Northern America,2015,Male,3784.6667,10980,3
+Northern America,2016,Female,1170.3334,3333,0
+Northern America,2016,Male,4328.3335,12549,4
+Northern America,2017,Female,1289.3334,3716,0
+Northern America,2017,Male,4721.3335,13696,8
+Northern America,2018,Female,1288.0,3691,0
+Northern America,2018,Male,4694.0,13592,5
+Northern America,2019,Female,3658.0,3658,3658
+Northern America,2019,Male,12555.0,12555,12555
+Northern America,2020,Female,77.5,155,0
+Northern America,2020,Male,263.5,527,0
+Northern America,2021,Female,171.0,171,171
+Northern America,2021,Male,568.0,568,568
+Northern Europe,2001,Female,38.142857,101,7
+Northern Europe,2001,Male,89.57143,268,26
+Northern Europe,2002,Female,33.42857,89,7
+Northern Europe,2002,Male,90.42857,263,22
+Northern Europe,2003,Female,31.428572,69,10
+Northern Europe,2003,Male,84.0,223,30
+Northern Europe,2004,Female,36.857143,103,8
+Northern Europe,2004,Male,81.14286,240,26
+Northern Europe,2005,Female,36.0,130,5
+Northern Europe,2005,Male,77.71429,213,24
+Northern Europe,2006,Female,19.142857,35,0
+Northern Europe,2006,Male,73.75,272,3
+Northern Europe,2007,Female,31.285715,75,11
+Northern Europe,2007,Male,70.14286,213,12
+Northern Europe,2008,Female,26.875,72,0
+Northern Europe,2008,Male,68.0,205,2
+Northern Europe,2009,Female,29.428572,81,9
+Northern Europe,2009,Male,75.42857,217,24
+Northern Europe,2010,Female,24.0,64,0
+Northern Europe,2010,Male,58.75,188,1
+Northern Europe,2011,Female,23.625,75,0
+Northern Europe,2011,Male,54.375,144,2
+Northern Europe,2012,Female,26.375,66,1
+Northern Europe,2012,Male,57.125,145,2
+Northern Europe,2013,Female,22.88889,53,1
+Northern Europe,2013,Male,45.555557,149,0
+Northern Europe,2014,Female,21.333334,60,0
+Northern Europe,2014,Male,47.666668,138,1
+Northern Europe,2015,Female,24.5,53,2
+Northern Europe,2015,Male,43.375,106,0
+Northern Europe,2016,Female,19.666666,49,0
+Northern Europe,2016,Male,46.333332,123,3
+Northern Europe,2017,Female,19.666666,46,1
+Northern Europe,2017,Male,41.77778,107,0
+Northern Europe,2018,Female,22.777779,48,2
+Northern Europe,2018,Male,40.0,86,1
+Northern Europe,2019,Female,22.11111,54,1
+Northern Europe,2019,Male,40.0,75,2
+Northern Europe,2020,Female,19.555555,42,0
+Northern Europe,2020,Male,37.555557,86,1
+Northern Europe,2021,Female,16.375,29,1
+Northern Europe,2021,Male,38.75,99,4
+Polynesia,2001,Female,0.0,0,0
+Polynesia,2001,Male,1.0,1,1
+Polynesia,2002,Female,1.0,1,1
+Polynesia,2002,Male,5.0,5,5
+Polynesia,2003,Female,1.0,1,1
+Polynesia,2003,Male,5.0,5,5
+Polynesia,2004,Female,0.0,0,0
+Polynesia,2004,Male,6.0,6,6
+Polynesia,2005,Female,0.0,0,0
+Polynesia,2005,Male,2.0,2,2
+Polynesia,2006,Female,0.0,0,0
+Polynesia,2006,Male,4.0,4,4
+Polynesia,2007,Female,0.0,0,0
+Polynesia,2007,Male,8.0,8,8
+Polynesia,2008,Female,0.0,0,0
+Polynesia,2008,Male,1.0,1,1
+Polynesia,2009,Female,1.0,1,1
+Polynesia,2009,Male,3.0,3,3
+Polynesia,2010,Female,3.0,3,3
+Polynesia,2010,Male,5.0,5,5
+Polynesia,2011,Female,0.0,0,0
+Polynesia,2011,Male,1.0,1,1
+Polynesia,2012,Female,0.0,0,0
+Polynesia,2012,Male,2.0,2,2
+Polynesia,2013,Female,1.0,1,1
+Polynesia,2013,Male,0.0,0,0
+Polynesia,2020,Female,1.0,1,1
+Polynesia,2020,Male,1.0,1,1
+Polynesia,2021,Male,2.0,2,2
+South-eastern Asia,2001,Female,451.5,901,2
+South-eastern Asia,2001,Male,2121.0,4240,2
+South-eastern Asia,2003,Female,697.0,697,697
+South-eastern Asia,2003,Male,3840.0,3840,3840
+South-eastern Asia,2004,Female,952.0,952,952
+South-eastern Asia,2004,Male,5481.0,5481,5481
+South-eastern Asia,2005,Female,503.0,503,503
+South-eastern Asia,2005,Male,3769.0,3769,3769
+South-eastern Asia,2006,Female,621.0,621,621
+South-eastern Asia,2006,Male,4184.0,4184,4184
+South-eastern Asia,2007,Female,292.5,580,5
+South-eastern Asia,2007,Male,2059.0,4106,12
+South-eastern Asia,2008,Female,517.3333,951,5
+South-eastern Asia,2008,Male,2953.6667,5010,13
+South-eastern Asia,2009,Female,577.6667,1196,11
+South-eastern Asia,2009,Male,2695.3333,4623,16
+South-eastern Asia,2010,Female,550.75,1574,7
+South-eastern Asia,2010,Male,2871.25,7513,13
+South-eastern Asia,2011,Female,455.75,1212,3
+South-eastern Asia,2011,Male,2823.5,7432,16
+South-eastern Asia,2012,Female,489.66666,1018,6
+South-eastern Asia,2012,Male,2824.0,7470,10
+South-eastern Asia,2013,Female,451.75,1086,6
+South-eastern Asia,2013,Male,2861.25,7397,5
+South-eastern Asia,2014,Female,197.33333,378,6
+South-eastern Asia,2014,Male,1185.3334,2515,11
+South-eastern Asia,2015,Female,205.33333,403,7
+South-eastern Asia,2015,Male,1092.0,2245,7
+South-eastern Asia,2016,Female,98.0,193,3
+South-eastern Asia,2016,Male,485.0,959,11
+South-eastern Asia,2017,Female,330.66666,940,7
+South-eastern Asia,2017,Male,3739.3333,10215,11
+South-eastern Asia,2018,Female,344.5,684,5
+South-eastern Asia,2018,Male,3795.0,7584,6
+South-eastern Asia,2019,Female,249.5,492,7
+South-eastern Asia,2019,Male,2580.5,5159,2
+South-eastern Asia,2020,Female,220.0,433,7
+South-eastern Asia,2020,Male,2168.0,4331,5
+South-eastern Asia,2021,Female,5.0,5,5
+South-eastern Asia,2021,Male,5.0,5,5
+Southern Asia,2001,Female,15195.0,15195,15195
+Southern Asia,2001,Male,32971.0,32971,32971
+Southern Asia,2002,Female,14971.0,14971,14971
+Southern Asia,2002,Male,31448.0,31448,31448
+Southern Asia,2003,Female,14518.0,14518,14518
+Southern Asia,2003,Male,31217.0,31217,31217
+Southern Asia,2004,Female,14473.0,14473,14473
+Southern Asia,2004,Male,29858.0,29858,29858
+Southern Asia,2005,Female,15864.0,15864,15864
+Southern Asia,2005,Male,30626.0,30626,30626
+Southern Asia,2006,Female,15268.0,15268,15268
+Southern Asia,2006,Male,29827.0,29827,29827
+Southern Asia,2007,Female,15571.0,15571,15571
+Southern Asia,2007,Male,29389.0,29389,29389
+Southern Asia,2008,Female,16794.0,16794,16794
+Southern Asia,2008,Male,28568.0,28568,28568
+Southern Asia,2009,Female,8671.0,16993,349
+Southern Asia,2009,Male,974.5,1653,296
+Southern Asia,2010,Female,9028.5,17854,203
+Southern Asia,2010,Male,14433.0,27970,896
+Southern Asia,2011,Female,9019.5,17871,168
+Southern Asia,2011,Male,14592.0,28589,595
+Southern Asia,2012,Female,9458.0,18731,185
+Southern Asia,2012,Male,14728.0,28909,547
+Southern Asia,2013,Female,9311.0,18451,171
+Southern Asia,2013,Male,14766.0,29027,505
+Southern Asia,2014,Female,6116.3335,17911,146
+Southern Asia,2014,Male,10061.333,27967,473
+Southern Asia,2015,Female,6211.0,18284,125
+Southern Asia,2015,Male,10403.667,29072,428
+Southern Asia,2016,Female,4323.75,17089,2
+Southern Asia,2016,Male,6189.6,27284,4
+Southern Asia,2017,Female,3619.8,17860,4
+Southern Asia,2017,Male,6673.75,24459,5
+Southern Asia,2018,Female,3511.2,17327,4
+Southern Asia,2018,Male,5283.4,23689,9
+Southern Asia,2019,Female,4372.75,17233,2
+Southern Asia,2019,Male,6622.5,23751,7
+Southern Asia,2020,Female,5829.6665,17238,2
+Southern Asia,2020,Male,7913.0,23240,6
+Southern Asia,2021,Female,8194.0,16383,5
+Southern Asia,2021,Male,12140.5,24267,14
+Southern Europe,2001,Female,51.42857,190,11
+Southern Europe,2001,Male,160.42857,575,35
+Southern Europe,2002,Female,66.625,171,25
+Southern Europe,2002,Male,201.25,537,53
+Southern Europe,2003,Female,59.444443,182,8
+Southern Europe,2003,Male,168.66667,461,41
+Southern Europe,2004,Female,70.0,197,16
+Southern Europe,2004,Male,186.5,521,46
+Southern Europe,2005,Female,42.77778,187,4
+Southern Europe,2005,Male,94.0,332,3
+Southern Europe,2006,Female,45.5,136,2
+Southern Europe,2006,Male,137.2,473,2
+Southern Europe,2007,Female,51.9,178,0
+Southern Europe,2007,Male,122.7,446,0
+Southern Europe,2008,Female,44.0,167,0
+Southern Europe,2008,Male,109.75,481,0
+Southern Europe,2009,Female,37.083332,147,1
+Southern Europe,2009,Male,101.833336,467,0
+Southern Europe,2010,Female,34.5,173,0
+Southern Europe,2010,Male,87.85714,417,0
+Southern Europe,2011,Female,37.07143,156,0
+Southern Europe,2011,Male,82.85714,374,0
+Southern Europe,2012,Female,34.214287,166,0
+Southern Europe,2012,Male,85.71429,385,0
+Southern Europe,2013,Female,35.357143,162,0
+Southern Europe,2013,Male,81.28571,367,0
+Southern Europe,2014,Female,37.0,179,0
+Southern Europe,2014,Male,70.64286,323,0
+Southern Europe,2015,Female,32.07143,147,0
+Southern Europe,2015,Male,67.57143,328,0
+Southern Europe,2016,Female,29.538462,135,0
+Southern Europe,2016,Male,62.076923,333,0
+Southern Europe,2017,Female,36.0,151,2
+Southern Europe,2017,Male,67.181816,253,3
+Southern Europe,2018,Female,32.363636,132,1
+Southern Europe,2018,Male,66.09091,244,8
+Southern Europe,2019,Female,33.272728,141,2
+Southern Europe,2019,Male,61.272728,218,3
+Southern Europe,2020,Female,30.727272,126,3
+Southern Europe,2020,Male,61.727272,207,2
+Southern Europe,2021,Female,34.77778,119,1
+Southern Europe,2021,Male,57.4,178,2
+Sub-Saharan Africa,2001,Female,11.0,11,11
+Sub-Saharan Africa,2001,Male,14.0,14,14
+Sub-Saharan Africa,2004,Female,10.0,10,10
+Sub-Saharan Africa,2004,Male,28.0,28,28
+Sub-Saharan Africa,2005,Female,4.0,7,1
+Sub-Saharan Africa,2005,Male,18.0,28,8
+Sub-Saharan Africa,2006,Female,13.0,13,13
+Sub-Saharan Africa,2006,Male,23.0,23,23
+Sub-Saharan Africa,2007,Female,685.25,2727,0
+Sub-Saharan Africa,2007,Male,4105.25,16378,0
+Sub-Saharan Africa,2008,Female,673.0,2679,0
+Sub-Saharan Africa,2008,Male,3939.5,15720,0
+Sub-Saharan Africa,2009,Female,589.6,2545,0
+Sub-Saharan Africa,2009,Male,3596.0,15538,0
+Sub-Saharan Africa,2010,Female,653.5,2596,0
+Sub-Saharan Africa,2010,Male,3550.75,14170,0
+Sub-Saharan Africa,2011,Female,660.0,2741,0
+Sub-Saharan Africa,2011,Male,3180.1667,13151,0
+Sub-Saharan Africa,2012,Female,531.2857,2399,0
+Sub-Saharan Africa,2012,Male,2833.5715,13154,0
+Sub-Saharan Africa,2013,Female,256.4,741,0
+Sub-Saharan Africa,2013,Male,1392.4,3571,3
+Sub-Saharan Africa,2014,Female,234.33333,791,6
+Sub-Saharan Africa,2014,Male,1129.0,3203,11
+Sub-Saharan Africa,2015,Female,225.85715,841,2
+Sub-Saharan Africa,2015,Male,867.1429,3631,11
+Sub-Saharan Africa,2016,Female,248.33333,671,6
+Sub-Saharan Africa,2016,Male,885.5,3075,15
+Sub-Saharan Africa,2017,Female,738.0,2639,10
+Sub-Saharan Africa,2017,Male,3727.3333,16377,11
+Sub-Saharan Africa,2018,Female,843.2,2930,6
+Sub-Saharan Africa,2018,Male,4682.0,17425,20
+Sub-Saharan Africa,2019,Female,808.0,2771,10
+Sub-Saharan Africa,2019,Male,4861.5,18265,23
+Sub-Saharan Africa,2020,Female,6.0,6,6
+Sub-Saharan Africa,2020,Male,28.0,28,28
+Sub-Saharan Africa,2021,Female,207.33333,523,9
+Sub-Saharan Africa,2021,Male,622.6667,1628,27
+Western Asia,2001,Female,32.0,39,25
+Western Asia,2001,Male,90.0,115,65
+Western Asia,2002,Female,19.0,38,1
+Western Asia,2002,Male,76.0,155,4
+Western Asia,2003,Female,28.0,37,19
+Western Asia,2003,Male,110.0,171,49
+Western Asia,2004,Female,159.75,588,5
+Western Asia,2004,Male,618.0,2248,24
+Western Asia,2005,Female,101.14286,605,1
+Western Asia,2005,Male,401.14285,2308,4
+Western Asia,2006,Female,108.57143,607,2
+Western Asia,2006,Male,463.0,2697,2
+Western Asia,2007,Female,95.57143,550,1
+Western Asia,2007,Male,445.42856,2617,4
+Western Asia,2008,Female,93.375,615,3
+Western Asia,2008,Male,448.375,2984,6
+Western Asia,2009,Female,89.0,570,1
+Western Asia,2009,Male,400.375,2687,7
+Western Asia,2010,Female,20.285715,36,2
+Western Asia,2010,Male,69.42857,176,6
+Western Asia,2011,Female,70.583336,634,0
+Western Asia,2011,Male,258.5,2430,1
+Western Asia,2012,Female,74.4,629,0
+Western Asia,2012,Male,283.0,2432,3
+Western Asia,2013,Female,69.90909,606,1
+Western Asia,2013,Male,290.36365,2610,6
+Western Asia,2014,Female,21.142857,70,1
+Western Asia,2014,Male,49.57143,151,5
+Western Asia,2015,Female,21.555555,87,0
+Western Asia,2015,Male,47.555557,149,6
+Western Asia,2016,Female,61.444443,412,0
+Western Asia,2016,Male,248.77777,1818,8
+Western Asia,2017,Female,71.77778,441,3
+Western Asia,2017,Male,295.22223,2257,5
+Western Asia,2018,Female,59.9,424,0
+Western Asia,2018,Male,302.25,2113,4
+Western Asia,2019,Female,63.666668,440,0
+Western Asia,2019,Male,238.88889,1756,6
+Western Asia,2020,Female,136.2,747,0
+Western Asia,2020,Male,454.7,2617,2
+Western Asia,2021,Female,26.666666,79,4
+Western Asia,2021,Male,61.8,151,11
+Western Europe,2001,Female,155.8,545,38
+Western Europe,2001,Male,225.0,819,28
+Western Europe,2002,Female,123.833336,492,4
+Western Europe,2002,Male,180.66667,689,5
+Western Europe,2003,Female,150.6,474,37
+Western Europe,2003,Male,216.2,698,27
+Western Europe,2004,Female,143.2,487,23
+Western Europe,2004,Male,186.6,610,26
+Western Europe,2005,Female,117.833336,458,1
+Western Europe,2005,Male,166.66667,654,1
+Western Europe,2006,Female,131.6,448,24
+Western Europe,2006,Male,181.4,596,29
+Western Europe,2007,Female,107.666664,442,2
+Western Europe,2007,Male,136.0,546,5
+Western Europe,2008,Female,96.166664,390,3
+Western Europe,2008,Male,127.5,498,4
+Western Europe,2009,Female,107.8,367,25
+Western Europe,2009,Male,151.0,464,28
+Western Europe,2010,Female,81.0,386,0
+Western Europe,2010,Male,97.71429,417,0
+Western Europe,2011,Female,82.42857,393,0
+Western Europe,2011,Male,44.833332,119,1
+Western Europe,2012,Female,76.85714,338,0
+Western Europe,2012,Male,46.833332,121,0
+Western Europe,2013,Female,68.28571,296,0
+Western Europe,2013,Male,93.42857,363,0
+Western Europe,2014,Female,77.71429,328,0
+Western Europe,2014,Male,83.71429,354,0
+Western Europe,2015,Female,71.28571,339,0
+Western Europe,2015,Male,91.42857,377,1
+Western Europe,2016,Female,132.83333,381,0
+Western Europe,2016,Male,183.83333,630,0
+Western Europe,2017,Female,144.66667,469,0
+Western Europe,2017,Male,188.33333,531,0
+Western Europe,2018,Female,126.666664,380,1
+Western Europe,2018,Male,182.83333,517,0
+Western Europe,2019,Female,120.0,367,1
+Western Europe,2019,Male,178.16667,520,0
+Western Europe,2020,Female,95.71429,285,0
+Western Europe,2020,Male,146.42857,550,1
+Western Europe,2021,Female,93.0,357,0
+Western Europe,2021,Male,107.4,425,1

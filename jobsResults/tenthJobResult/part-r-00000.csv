@@ -1,0 +1,580 @@
+country,cause,Average,Maximum,Minimum
+Afghanistan,Communicable,713.0,713,713
+Afghanistan,Injuries,149.0,149,149
+Afghanistan,Noncommunicable,1117.0,1117,1117
+Albania,Communicable,46.0,46,46
+Albania,Injuries,46.0,46,46
+Albania,Noncommunicable,716.0,716,716
+Algeria,Communicable,202.0,202,202
+Algeria,Injuries,47.0,47,47
+Algeria,Noncommunicable,523.0,523,523
+Andorra,Communicable,16.0,16,16
+Andorra,Injuries,27.0,27,27
+Andorra,Noncommunicable,338.0,338,338
+Angola,Communicable,819.0,819,819
+Angola,Injuries,112.0,112,112
+Angola,Noncommunicable,842.0,842,842
+Antigua and Barbuda,Communicable,86.0,86,86
+Antigua and Barbuda,Injuries,46.0,46,46
+Antigua and Barbuda,Noncommunicable,548.0,548,548
+Argentina,Communicable,87.0,87,87
+Argentina,Injuries,48.0,48,48
+Argentina,Noncommunicable,501.0,501,501
+Armenia,Communicable,74.0,74,74
+Armenia,Injuries,50.0,50,50
+Armenia,Noncommunicable,902.0,902,902
+Australia,Communicable,18.0,18,18
+Australia,Injuries,30.0,30,30
+Australia,Noncommunicable,330.0,330,330
+Austria,Communicable,14.0,14,14
+Austria,Injuries,34.0,34,34
+Austria,Noncommunicable,373.0,373,373
+Azerbaijan,Communicable,102.0,102,102
+Azerbaijan,Injuries,36.0,36,36
+Azerbaijan,Noncommunicable,935.0,935,935
+Bahamas,Communicable,91.0,91,91
+Bahamas,Injuries,54.0,54,54
+Bahamas,Noncommunicable,457.0,457,457
+Bahrain,Communicable,63.0,63,63
+Bahrain,Injuries,33.0,33,33
+Bahrain,Noncommunicable,590.0,590,590
+Bangladesh,Communicable,344.0,344,344
+Bangladesh,Injuries,91.0,91,91
+Bangladesh,Noncommunicable,702.0,702,702
+Barbados,Communicable,86.0,86,86
+Barbados,Injuries,31.0,31,31
+Barbados,Noncommunicable,488.0,488,488
+Belarus,Communicable,30.0,30,30
+Belarus,Injuries,125.0,125,125
+Belarus,Noncommunicable,749.0,749,749
+Belgium,Communicable,33.0,33,33
+Belgium,Injuries,42.0,42,42
+Belgium,Noncommunicable,367.0,367,367
+Belize,Communicable,119.0,119,119
+Belize,Injuries,92.0,92,92
+Belize,Noncommunicable,497.0,497,497
+Benin,Communicable,618.0,618,618
+Benin,Injuries,87.0,87,87
+Benin,Noncommunicable,804.0,804,804
+Bhutan,Communicable,359.0,359,359
+Bhutan,Injuries,105.0,105,105
+Bhutan,Noncommunicable,735.0,735,735
+Bolivia (Plurinational State of),Communicable,253.0,253,253
+Bolivia (Plurinational State of),Injuries,64.0,64,64
+Bolivia (Plurinational State of),Noncommunicable,644.0,644,644
+Bosnia and Herzegovina,Communicable,22.0,22,22
+Bosnia and Herzegovina,Injuries,29.0,29,29
+Bosnia and Herzegovina,Noncommunicable,584.0,584,584
+Botswana,Communicable,739.0,739,739
+Botswana,Injuries,107.0,107,107
+Botswana,Noncommunicable,606.0,606,606
+Brazil,Communicable,97.0,97,97
+Brazil,Injuries,76.0,76,76
+Brazil,Noncommunicable,534.0,534,534
+Brunei Darussalam,Communicable,55.0,55,55
+Brunei Darussalam,Injuries,24.0,24,24
+Brunei Darussalam,Noncommunicable,520.0,520,520
+Bulgaria,Communicable,31.0,31,31
+Bulgaria,Injuries,42.0,42,42
+Bulgaria,Noncommunicable,693.0,693,693
+Burkina Faso,Communicable,801.0,801,801
+Burkina Faso,Injuries,108.0,108,108
+Burkina Faso,Noncommunicable,810.0,810,810
+Burundi,Communicable,943.0,943,943
+Burundi,Injuries,124.0,124,124
+Burundi,Noncommunicable,839.0,839,839
+Cabo Verde,Communicable,213.0,213,213
+Cabo Verde,Injuries,71.0,71,71
+Cabo Verde,Noncommunicable,538.0,538,538
+Cambodia,Communicable,478.0,478,478
+Cambodia,Injuries,65.0,65,65
+Cambodia,Noncommunicable,748.0,748,748
+Cameroon,Communicable,861.0,861,861
+Cameroon,Injuries,111.0,111,111
+Cameroon,Noncommunicable,879.0,879,879
+Canada,Communicable,23.0,23,23
+Canada,Injuries,32.0,32,32
+Canada,Noncommunicable,346.0,346,346
+Central African Republic,Communicable,1060.0,1060,1060
+Central African Republic,Injuries,151.0,151,151
+Central African Republic,Noncommunicable,870.0,870,870
+Chad,Communicable,1009.0,1009,1009
+Chad,Injuries,119.0,119,119
+Chad,Noncommunicable,866.0,866,866
+Chile,Communicable,43.0,43,43
+Chile,Injuries,45.0,45,45
+Chile,Noncommunicable,419.0,419,419
+China,Communicable,58.0,58,58
+China,Injuries,70.0,70,70
+China,Noncommunicable,604.0,604,604
+Colombia,Communicable,64.0,64,64
+Colombia,Injuries,97.0,97,97
+Colombia,Noncommunicable,404.0,404,404
+Comoros,Communicable,472.0,472,472
+Comoros,Injuries,76.0,76,76
+Comoros,Noncommunicable,789.0,789,789
+Congo,Communicable,692.0,692,692
+Congo,Injuries,140.0,140,140
+Congo,Noncommunicable,811.0,811,811
+Cook Islands,Communicable,109.0,109,109
+Cook Islands,Injuries,31.0,31,31
+Cook Islands,Noncommunicable,455.0,455,455
+Costa Rica,Communicable,32.0,32,32
+Costa Rica,Injuries,56.0,56,56
+Costa Rica,Noncommunicable,409.0,409,409
+Croatia,Communicable,20.0,20,20
+Croatia,Injuries,48.0,48,48
+Croatia,Noncommunicable,560.0,560,560
+Cuba,Communicable,47.0,47,47
+Cuba,Injuries,48.0,48,48
+Cuba,Noncommunicable,468.0,468,468
+Cyprus,Communicable,17.0,17,17
+Cyprus,Injuries,31.0,31,31
+Cyprus,Noncommunicable,371.0,371,371
+Czech Republic,Communicable,25.0,25,25
+Czech Republic,Injuries,43.0,43,43
+Czech Republic,Noncommunicable,496.0,496,496
+Côte dIvoire,Communicable,904.0,904,904
+Côte dIvoire,Injuries,172.0,172,172
+Côte dIvoire,Noncommunicable,942.0,942,942
+Democratic People's Republic of Korea,Communicable,264.0,264,264
+Democratic People's Republic of Korea,Injuries,46.0,46,46
+Democratic People's Republic of Korea,Noncommunicable,548.0,548,548
+Democratic Republic of the Congo,Communicable,932.0,932,932
+Democratic Republic of the Congo,Injuries,155.0,155,155
+Democratic Republic of the Congo,Noncommunicable,837.0,837,837
+Denmark,Communicable,27.0,27,27
+Denmark,Injuries,33.0,33,33
+Denmark,Noncommunicable,440.0,440,440
+Djibouti,Communicable,470.0,470,470
+Djibouti,Injuries,80.0,80,80
+Djibouti,Noncommunicable,809.0,809,809
+Dominica,Communicable,78.0,78,78
+Dominica,Injuries,33.0,33,33
+Dominica,Noncommunicable,632.0,632,632
+Dominican Republic,Communicable,147.0,147,147
+Dominican Republic,Injuries,68.0,68,68
+Dominican Republic,Noncommunicable,573.0,573,573
+Ecuador,Communicable,105.0,105,105
+Ecuador,Injuries,81.0,81,81
+Ecuador,Noncommunicable,400.0,400,400
+Egypt,Communicable,76.0,76,76
+Egypt,Injuries,34.0,34,34
+Egypt,Noncommunicable,749.0,749,749
+El Salvador,Communicable,127.0,127,127
+El Salvador,Injuries,121.0,121,121
+El Salvador,Noncommunicable,523.0,523,523
+Equatorial Guinea,Communicable,720.0,720,720
+Equatorial Guinea,Injuries,117.0,117,117
+Equatorial Guinea,Noncommunicable,854.0,854,854
+Eritrea,Communicable,303.0,303,303
+Eritrea,Injuries,92.0,92,92
+Eritrea,Noncommunicable,670.0,670,670
+Estonia,Communicable,21.0,21,21
+Estonia,Injuries,84.0,84,84
+Estonia,Noncommunicable,585.0,585,585
+Ethiopia,Communicable,721.0,721,721
+Ethiopia,Injuries,139.0,139,139
+Ethiopia,Noncommunicable,903.0,903,903
+Fiji,Communicable,166.0,166,166
+Fiji,Injuries,35.0,35,35
+Fiji,Noncommunicable,752.0,752,752
+Finland,Communicable,11.0,11,11
+Finland,Injuries,58.0,58,58
+Finland,Noncommunicable,377.0,377,377
+France,Communicable,23.0,23,23
+France,Injuries,38.0,38,38
+France,Noncommunicable,336.0,336,336
+Gabon,Communicable,545.0,545,545
+Gabon,Injuries,82.0,82,82
+Gabon,Noncommunicable,660.0,660,660
+Gambia,Communicable,525.0,525,525
+Gambia,Injuries,72.0,72,72
+Gambia,Noncommunicable,735.0,735,735
+Georgia,Communicable,72.0,72,72
+Georgia,Injuries,46.0,46,46
+Georgia,Noncommunicable,670.0,670,670
+Germany,Communicable,21.0,21,21
+Germany,Injuries,25.0,25,25
+Germany,Noncommunicable,394.0,394,394
+Ghana,Communicable,608.0,608,608
+Ghana,Injuries,91.0,91,91
+Ghana,Noncommunicable,711.0,711,711
+Greece,Communicable,25.0,25,25
+Greece,Injuries,29.0,29,29
+Greece,Noncommunicable,388.0,388,388
+Grenada,Communicable,86.0,86,86
+Grenada,Injuries,43.0,43,43
+Grenada,Noncommunicable,580.0,580,580
+Guatemala,Communicable,225.0,225,225
+Guatemala,Injuries,130.0,130,130
+Guatemala,Noncommunicable,471.0,471,471
+Guinea,Communicable,759.0,759,759
+Guinea,Injuries,121.0,121,121
+Guinea,Noncommunicable,932.0,932,932
+Guinea-Bissau,Communicable,928.0,928,928
+Guinea-Bissau,Injuries,110.0,110,110
+Guinea-Bissau,Noncommunicable,916.0,916,916
+Guyana,Communicable,194.0,194,194
+Guyana,Injuries,114.0,114,114
+Guyana,Noncommunicable,677.0,677,677
+Haiti,Communicable,545.0,545,545
+Haiti,Injuries,52.0,52,52
+Haiti,Noncommunicable,697.0,697,697
+Honduras,Communicable,152.0,152,152
+Honduras,Injuries,61.0,61,61
+Honduras,Noncommunicable,729.0,729,729
+Hungary,Communicable,16.0,16,16
+Hungary,Injuries,51.0,51,51
+Hungary,Noncommunicable,648.0,648,648
+Iceland,Communicable,18.0,18,18
+Iceland,Injuries,33.0,33,33
+Iceland,Noncommunicable,332.0,332,332
+India,Communicable,363.0,363,363
+India,Injuries,99.0,99,99
+India,Noncommunicable,685.0,685,685
+Indonesia,Communicable,244.0,244,244
+Indonesia,Injuries,70.0,70,70
+Indonesia,Noncommunicable,647.0,647,647
+Iran (Islamic Republic of),Communicable,82.0,82,82
+Iran (Islamic Republic of),Injuries,90.0,90,90
+Iran (Islamic Republic of),Noncommunicable,599.0,599,599
+Iraq,Communicable,168.0,168,168
+Iraq,Injuries,280.0,280,280
+Iraq,Noncommunicable,691.0,691,691
+Ireland,Communicable,29.0,29,29
+Ireland,Injuries,33.0,33,33
+Ireland,Noncommunicable,385.0,385,385
+Israel,Communicable,31.0,31,31
+Israel,Injuries,24.0,24,24
+Israel,Noncommunicable,337.0,337,337
+Italy,Communicable,16.0,16,16
+Italy,Injuries,25.0,25,25
+Italy,Noncommunicable,342.0,342,342
+Jamaica,Communicable,159.0,159,159
+Jamaica,Injuries,87.0,87,87
+Jamaica,Noncommunicable,518.0,518,518
+Japan,Communicable,40.0,40,40
+Japan,Injuries,36.0,36,36
+Japan,Noncommunicable,273.0,273,273
+Jordan,Communicable,84.0,84,84
+Jordan,Injuries,62.0,62,62
+Jordan,Noncommunicable,727.0,727,727
+Kazakhstan,Communicable,95.0,95,95
+Kazakhstan,Injuries,155.0,155,155
+Kazakhstan,Noncommunicable,985.0,985,985
+Kenya,Communicable,624.0,624,624
+Kenya,Injuries,116.0,116,116
+Kenya,Noncommunicable,681.0,681,681
+Kiribati,Communicable,263.0,263,263
+Kiribati,Injuries,23.0,23,23
+Kiribati,Noncommunicable,703.0,703,703
+Kuwait,Communicable,53.0,53,53
+Kuwait,Injuries,28.0,28,28
+Kuwait,Noncommunicable,399.0,399,399
+Kyrgyzstan,Communicable,112.0,112,112
+Kyrgyzstan,Injuries,86.0,86,86
+Kyrgyzstan,Noncommunicable,913.0,913,913
+Lao People's Democratic Republic,Communicable,376.0,376,376
+Lao People's Democratic Republic,Injuries,107.0,107,107
+Lao People's Democratic Republic,Noncommunicable,771.0,771,771
+Latvia,Communicable,30.0,30,30
+Latvia,Injuries,87.0,87,87
+Latvia,Noncommunicable,666.0,666,666
+Lebanon,Communicable,47.0,47,47
+Lebanon,Injuries,61.0,61,61
+Lebanon,Noncommunicable,597.0,597,597
+Lesotho,Communicable,1255.0,1255,1255
+Lesotho,Injuries,141.0,141,141
+Lesotho,Noncommunicable,774.0,774,774
+Liberia,Communicable,782.0,782,782
+Liberia,Injuries,63.0,63,63
+Liberia,Noncommunicable,766.0,766,766
+Libya,Communicable,69.0,69,69
+Libya,Injuries,60.0,60,60
+Libya,Noncommunicable,655.0,655,655
+Lithuania,Communicable,34.0,34,34
+Lithuania,Injuries,120.0,120,120
+Lithuania,Noncommunicable,637.0,637,637
+Luxembourg,Communicable,25.0,25,25
+Luxembourg,Injuries,37.0,37,37
+Luxembourg,Noncommunicable,362.0,362,362
+Madagascar,Communicable,408.0,408,408
+Madagascar,Injuries,55.0,55,55
+Madagascar,Noncommunicable,706.0,706,706
+Malawi,Communicable,1156.0,1156,1156
+Malawi,Injuries,189.0,189,189
+Malawi,Noncommunicable,999.0,999,999
+Malaysia,Communicable,185.0,185,185
+Malaysia,Injuries,51.0,51,51
+Malaysia,Noncommunicable,526.0,526,526
+Maldives,Communicable,59.0,59,59
+Maldives,Injuries,53.0,53,53
+Maldives,Noncommunicable,598.0,598,598
+Mali,Communicable,827.0,827,827
+Mali,Injuries,72.0,72,72
+Mali,Noncommunicable,733.0,733,733
+Malta,Communicable,26.0,26,26
+Malta,Injuries,23.0,23,23
+Malta,Noncommunicable,391.0,391,391
+Marshall Islands,Communicable,343.0,343,343
+Marshall Islands,Injuries,66.0,66,66
+Marshall Islands,Noncommunicable,1289.0,1289,1289
+Mauritania,Communicable,575.0,575,575
+Mauritania,Injuries,88.0,88,88
+Mauritania,Noncommunicable,746.0,746,746
+Mauritius,Communicable,52.0,52,52
+Mauritius,Injuries,42.0,42,42
+Mauritius,Noncommunicable,664.0,664,664
+Mexico,Communicable,68.0,68,68
+Mexico,Injuries,57.0,57,57
+Mexico,Noncommunicable,493.0,493,493
+Micronesia (Federated States of),Communicable,203.0,203,203
+Micronesia (Federated States of),Injuries,35.0,35,35
+Micronesia (Federated States of),Noncommunicable,704.0,704,704
+Monaco,Communicable,22.0,22,22
+Monaco,Injuries,42.0,42,42
+Monaco,Noncommunicable,320.0,320,320
+Mongolia,Communicable,89.0,89,89
+Mongolia,Injuries,78.0,78,78
+Mongolia,Noncommunicable,713.0,713,713
+Montenegro,Communicable,17.0,17,17
+Montenegro,Injuries,33.0,33,33
+Montenegro,Noncommunicable,640.0,640,640
+Morocco,Communicable,104.0,104,104
+Morocco,Injuries,37.0,37,37
+Morocco,Noncommunicable,597.0,597,597
+Mozambique,Communicable,957.0,957,957
+Mozambique,Injuries,153.0,153,153
+Mozambique,Noncommunicable,908.0,908,908
+Myanmar,Communicable,461.0,461,461
+Myanmar,Injuries,347.0,347,347
+Myanmar,Noncommunicable,667.0,667,667
+Namibia,Communicable,670.0,670,670
+Namibia,Injuries,160.0,160,160
+Namibia,Noncommunicable,791.0,791,791
+Nauru,Communicable,240.0,240,240
+Nauru,Injuries,149.0,149,149
+Nauru,Noncommunicable,1092.0,1092,1092
+Nepal,Communicable,338.0,338,338
+Nepal,Injuries,58.0,58,58
+Nepal,Noncommunicable,620.0,620,620
+Netherlands,Communicable,28.0,28,28
+Netherlands,Injuries,22.0,22,22
+Netherlands,Noncommunicable,377.0,377,377
+New Zealand,Communicable,15.0,15,15
+New Zealand,Injuries,37.0,37,37
+New Zealand,Noncommunicable,369.0,369,369
+Nicaragua,Communicable,87.0,87,87
+Nicaragua,Injuries,57.0,57,57
+Nicaragua,Noncommunicable,499.0,499,499
+Niger,Communicable,730.0,730,730
+Niger,Injuries,44.0,44,44
+Niger,Noncommunicable,647.0,647,647
+Nigeria,Communicable,832.0,832,832
+Nigeria,Injuries,76.0,76,76
+Nigeria,Noncommunicable,809.0,809,809
+Niue,Communicable,142.0,142,142
+Niue,Injuries,43.0,43,43
+Niue,Noncommunicable,558.0,558,558
+Norway,Communicable,27.0,27,27
+Norway,Injuries,36.0,36,36
+Norway,Noncommunicable,363.0,363,363
+Oman,Communicable,22.0,22,22
+Oman,Injuries,39.0,39,39
+Oman,Noncommunicable,648.0,648,648
+Pakistan,Communicable,387.0,387,387
+Pakistan,Injuries,92.0,92,92
+Pakistan,Noncommunicable,711.0,711,711
+Palau,Communicable,144.0,144,144
+Palau,Injuries,33.0,33,33
+Palau,Noncommunicable,587.0,587,587
+Panama,Communicable,92.0,92,92
+Panama,Injuries,59.0,59,59
+Panama,Noncommunicable,394.0,394,394
+Papua New Guinea,Communicable,373.0,373,373
+Papua New Guinea,Injuries,87.0,87,87
+Papua New Guinea,Noncommunicable,748.0,748,748
+Paraguay,Communicable,93.0,93,93
+Paraguay,Injuries,60.0,60,60
+Paraguay,Noncommunicable,470.0,470,470
+Peru,Communicable,173.0,173,173
+Peru,Injuries,52.0,52,52
+Peru,Noncommunicable,387.0,387,387
+Philippines,Communicable,231.0,231,231
+Philippines,Injuries,55.0,55,55
+Philippines,Noncommunicable,599.0,599,599
+Poland,Communicable,28.0,28,28
+Poland,Injuries,54.0,54,54
+Poland,Noncommunicable,546.0,546,546
+Portugal,Communicable,46.0,46,46
+Portugal,Injuries,28.0,28,28
+Portugal,Noncommunicable,394.0,394,394
+Qatar,Communicable,31.0,31,31
+Qatar,Injuries,36.0,36,36
+Qatar,Noncommunicable,392.0,392,392
+Republic of Korea,Communicable,29.0,29,29
+Republic of Korea,Injuries,52.0,52,52
+Republic of Korea,Noncommunicable,355.0,355,355
+Republic of Moldova,Communicable,59.0,59,59
+Republic of Moldova,Injuries,90.0,90,90
+Republic of Moldova,Noncommunicable,831.0,831,831
+Romania,Communicable,38.0,38,38
+Romania,Injuries,52.0,52,52
+Romania,Noncommunicable,643.0,643,643
+Russian Federation,Communicable,71.0,71,71
+Russian Federation,Injuries,159.0,159,159
+Russian Federation,Noncommunicable,797.0,797,797
+Rwanda,Communicable,595.0,595,595
+Rwanda,Injuries,92.0,92,92
+Rwanda,Noncommunicable,740.0,740,740
+Saint Kitts and Nevis,Communicable,61.0,61,61
+Saint Kitts and Nevis,Injuries,73.0,73,73
+Saint Kitts and Nevis,Noncommunicable,640.0,640,640
+Saint Lucia,Communicable,81.0,81,81
+Saint Lucia,Injuries,53.0,53,53
+Saint Lucia,Noncommunicable,517.0,517,517
+Saint Vincent and the Grenadines,Communicable,115.0,115,115
+Saint Vincent and the Grenadines,Injuries,58.0,58,58
+Saint Vincent and the Grenadines,Noncommunicable,596.0,596,596
+Samoa,Communicable,194.0,194,194
+Samoa,Injuries,35.0,35,35
+Samoa,Noncommunicable,683.0,683,683
+San Marino,Communicable,19.0,19,19
+San Marino,Injuries,14.0,14,14
+San Marino,Noncommunicable,312.0,312,312
+Sao Tome and Principe,Communicable,279.0,279,279
+Sao Tome and Principe,Injuries,45.0,45,45
+Sao Tome and Principe,Noncommunicable,605.0,605,605
+Saudi Arabia,Communicable,86.0,86,86
+Saudi Arabia,Injuries,68.0,68,68
+Saudi Arabia,Noncommunicable,644.0,644,644
+Senegal,Communicable,509.0,509,509
+Senegal,Injuries,58.0,58,58
+Senegal,Noncommunicable,665.0,665,665
+Serbia,Communicable,17.0,17,17
+Serbia,Injuries,36.0,36,36
+Serbia,Noncommunicable,712.0,712,712
+Seychelles,Communicable,149.0,149,149
+Seychelles,Injuries,48.0,48,48
+Seychelles,Noncommunicable,591.0,591,591
+Sierra Leone,Communicable,1042.0,1042,1042
+Sierra Leone,Injuries,92.0,92,92
+Sierra Leone,Noncommunicable,763.0,763,763
+Singapore,Communicable,66.0,66,66
+Singapore,Injuries,21.0,21,21
+Singapore,Noncommunicable,313.0,313,313
+Slovakia,Communicable,35.0,35,35
+Slovakia,Injuries,47.0,47,47
+Slovakia,Noncommunicable,595.0,595,595
+Slovenia,Communicable,21.0,21,21
+Slovenia,Injuries,50.0,50,50
+Slovenia,Noncommunicable,405.0,405,405
+Solomon Islands,Communicable,196.0,196,196
+Solomon Islands,Injuries,27.0,27,27
+Solomon Islands,Noncommunicable,623.0,623,623
+Somalia,Communicable,736.0,736,736
+Somalia,Injuries,199.0,199,199
+Somalia,Noncommunicable,967.0,967,967
+South Africa,Communicable,983.0,983,983
+South Africa,Injuries,72.0,72,72
+South Africa,Noncommunicable,635.0,635,635
+Spain,Communicable,24.0,24,24
+Spain,Injuries,23.0,23,23
+Spain,Noncommunicable,351.0,351,351
+Sri Lanka,Communicable,79.0,79,79
+Sri Lanka,Injuries,233.0,233,233
+Sri Lanka,Noncommunicable,623.0,623,623
+Sudan,Communicable,377.0,377,377
+Sudan,Injuries,148.0,148,148
+Sudan,Noncommunicable,897.0,897,897
+Suriname,Communicable,126.0,126,126
+Suriname,Injuries,74.0,74,74
+Suriname,Noncommunicable,572.0,572,572
+Swaziland,Communicable,1200.0,1200,1200
+Swaziland,Injuries,208.0,208,208
+Swaziland,Noncommunicable,867.0,867,867
+Sweden,Communicable,20.0,20,20
+Sweden,Injuries,32.0,32,32
+Sweden,Noncommunicable,358.0,358,358
+Switzerland,Communicable,17.0,17,17
+Switzerland,Injuries,30.0,30,30
+Switzerland,Noncommunicable,323.0,323,323
+Syrian Arab Republic,Communicable,56.0,56,56
+Syrian Arab Republic,Injuries,45.0,45,45
+Syrian Arab Republic,Noncommunicable,619.0,619,619
+Tajikistan,Communicable,229.0,229,229
+Tajikistan,Injuries,29.0,29,29
+Tajikistan,Noncommunicable,730.0,730,730
+Thailand,Communicable,153.0,153,153
+Thailand,Injuries,106.0,106,106
+Thailand,Noncommunicable,675.0,675,675
+The former Yugoslav Republic of Macedonia,Communicable,24.0,24,24
+The former Yugoslav Republic of Macedonia,Injuries,24.0,24,24
+The former Yugoslav Republic of Macedonia,Noncommunicable,688.0,688,688
+Timor-Leste,Communicable,444.0,444,444
+Timor-Leste,Injuries,51.0,51,51
+Timor-Leste,Noncommunicable,560.0,560,560
+Togo,Communicable,635.0,635,635
+Togo,Injuries,63.0,63,63
+Togo,Noncommunicable,716.0,716,716
+Tonga,Communicable,173.0,173,173
+Tonga,Injuries,29.0,29,29
+Tonga,Noncommunicable,670.0,670,670
+Trinidad and Tobago,Communicable,104.0,104,104
+Trinidad and Tobago,Injuries,71.0,71,71
+Trinidad and Tobago,Noncommunicable,673.0,673,673
+Tunisia,Communicable,134.0,134,134
+Tunisia,Injuries,36.0,36,36
+Tunisia,Noncommunicable,465.0,465,465
+Turkey,Communicable,53.0,53,53
+Turkey,Injuries,31.0,31,31
+Turkey,Noncommunicable,590.0,590,590
+Turkmenistan,Communicable,166.0,166,166
+Turkmenistan,Injuries,74.0,74,74
+Turkmenistan,Noncommunicable,1016.0,1016,1016
+Tuvalu,Communicable,266.0,266,266
+Tuvalu,Injuries,55.0,55,55
+Tuvalu,Noncommunicable,1015.0,1015,1015
+Uganda,Communicable,810.0,810,810
+Uganda,Injuries,179.0,179,179
+Uganda,Noncommunicable,888.0,888,888
+Ukraine,Communicable,94.0,94,94
+Ukraine,Injuries,112.0,112,112
+Ukraine,Noncommunicable,823.0,823,823
+United Arab Emirates,Communicable,73.0,73,73
+United Arab Emirates,Injuries,38.0,38,38
+United Arab Emirates,Noncommunicable,406.0,406,406
+United Kingdom,Communicable,36.0,36,36
+United Kingdom,Injuries,25.0,25,25
+United Kingdom,Noncommunicable,401.0,401,401
+United Republic of Tanzania,Communicable,782.0,782,782
+United Republic of Tanzania,Injuries,120.0,120,120
+United Republic of Tanzania,Noncommunicable,745.0,745,745
+United States of America,Communicable,34.0,34,34
+United States of America,Injuries,53.0,53,53
+United States of America,Noncommunicable,418.0,418,418
+Uruguay,Communicable,55.0,55,55
+Uruguay,Injuries,49.0,49,49
+Uruguay,Noncommunicable,524.0,524,524
+Uzbekistan,Communicable,104.0,104,104
+Uzbekistan,Injuries,44.0,44,44
+Uzbekistan,Noncommunicable,838.0,838,838
+Vanuatu,Communicable,175.0,175,175
+Vanuatu,Injuries,30.0,30,30
+Vanuatu,Noncommunicable,687.0,687,687
+Venezuela (Bolivarian Republic of),Communicable,71.0,71,71
+Venezuela (Bolivarian Republic of),Injuries,101.0,101,101
+Venezuela (Bolivarian Republic of),Noncommunicable,433.0,433,433
+Viet Nam,Communicable,122.0,122,122
+Viet Nam,Injuries,66.0,66,66
+Viet Nam,Noncommunicable,607.0,607,607
+Yemen,Communicable,232.0,232,232
+Yemen,Injuries,91.0,91,91
+Yemen,Noncommunicable,807.0,807,807
+Zambia,Communicable,961.0,961,961
+Zambia,Injuries,176.0,176,176
+Zambia,Noncommunicable,938.0,938,938
+Zimbabwe,Communicable,1552.0,1552,1552
+Zimbabwe,Injuries,73.0,73,73
+Zimbabwe,Noncommunicable,622.0,622,622

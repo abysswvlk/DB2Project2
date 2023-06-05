@@ -1,0 +1,669 @@
+subregion,year,sex,total
+(blank),2001,Female,3
+(blank),2001,Male,20
+(blank),2002,Female,6
+(blank),2002,Male,37
+(blank),2003,Female,13
+(blank),2003,Male,76
+(blank),2004,Female,7
+(blank),2004,Male,73
+(blank),2005,Female,19
+(blank),2005,Male,87
+(blank),2006,Female,17
+(blank),2006,Male,77
+(blank),2007,Female,25
+(blank),2007,Male,126
+(blank),2008,Female,21
+(blank),2008,Male,126
+(blank),2009,Female,38
+(blank),2009,Male,192
+(blank),2010,Female,27
+(blank),2010,Male,156
+(blank),2011,Female,27
+(blank),2011,Male,139
+(blank),2012,Female,12
+(blank),2012,Male,97
+(blank),2013,Female,15
+(blank),2013,Male,132
+(blank),2014,Female,6
+(blank),2014,Male,45
+(blank),2015,Female,12
+(blank),2015,Male,47
+(blank),2016,Female,10
+(blank),2016,Male,32
+(blank),2017,Female,8
+(blank),2017,Male,30
+(blank),2018,Female,13
+(blank),2018,Male,35
+(blank),2019,Female,9
+(blank),2019,Male,35
+(blank),2020,Female,3
+(blank),2020,Male,21
+Australia and New Zealand,2001,Female,156
+Australia and New Zealand,2001,Male,256
+Australia and New Zealand,2002,Female,137
+Australia and New Zealand,2002,Male,259
+Australia and New Zealand,2003,Female,147
+Australia and New Zealand,2003,Male,277
+Australia and New Zealand,2004,Female,110
+Australia and New Zealand,2004,Male,234
+Australia and New Zealand,2005,Female,103
+Australia and New Zealand,2005,Male,203
+Australia and New Zealand,2006,Female,120
+Australia and New Zealand,2006,Male,198
+Australia and New Zealand,2007,Female,109
+Australia and New Zealand,2007,Male,219
+Australia and New Zealand,2008,Female,104
+Australia and New Zealand,2008,Male,198
+Australia and New Zealand,2009,Female,124
+Australia and New Zealand,2009,Male,188
+Australia and New Zealand,2010,Female,101
+Australia and New Zealand,2010,Male,228
+Australia and New Zealand,2011,Female,115
+Australia and New Zealand,2011,Male,157
+Australia and New Zealand,2012,Female,105
+Australia and New Zealand,2012,Male,182
+Australia and New Zealand,2013,Female,104
+Australia and New Zealand,2013,Male,180
+Australia and New Zealand,2014,Female,106
+Australia and New Zealand,2014,Male,185
+Australia and New Zealand,2015,Female,107
+Australia and New Zealand,2015,Male,178
+Australia and New Zealand,2016,Female,100
+Australia and New Zealand,2016,Male,183
+Australia and New Zealand,2017,Female,102
+Australia and New Zealand,2017,Male,175
+Australia and New Zealand,2018,Female,76
+Australia and New Zealand,2018,Male,166
+Australia and New Zealand,2019,Female,84
+Australia and New Zealand,2019,Male,135
+Australia and New Zealand,2020,Female,95
+Australia and New Zealand,2020,Male,242
+Australia and New Zealand,2021,Female,74
+Australia and New Zealand,2021,Male,150
+Central Asia,2001,Female,76
+Central Asia,2001,Male,354
+Central Asia,2002,Female,68
+Central Asia,2002,Male,318
+Central Asia,2003,Female,79
+Central Asia,2003,Male,332
+Central Asia,2004,Female,94
+Central Asia,2004,Male,326
+Central Asia,2005,Female,88
+Central Asia,2005,Male,330
+Central Asia,2006,Female,106
+Central Asia,2006,Male,385
+Central Asia,2007,Female,129
+Central Asia,2007,Male,511
+Central Asia,2008,Female,130
+Central Asia,2008,Male,417
+Central Asia,2009,Female,488
+Central Asia,2009,Male,1836
+Central Asia,2010,Female,571
+Central Asia,2010,Male,1715
+Central Asia,2011,Female,367
+Central Asia,2011,Male,1201
+Central Asia,2012,Female,346
+Central Asia,2012,Male,1200
+Central Asia,2013,Female,276
+Central Asia,2013,Male,990
+Central Asia,2014,Female,280
+Central Asia,2014,Male,840
+Central Asia,2015,Female,204
+Central Asia,2016,Female,467
+Central Asia,2016,Male,1112
+Central Asia,2017,Female,258
+Central Asia,2017,Male,499
+Central Asia,2018,Female,426
+Central Asia,2018,Male,1080
+Central Asia,2019,Female,176
+Central Asia,2019,Male,298
+Central Asia,2020,Female,138
+Central Asia,2020,Male,258
+Central Asia,2021,Female,160
+Central Asia,2021,Male,543
+Eastern Asia,2001,Female,330
+Eastern Asia,2001,Male,348
+Eastern Asia,2002,Female,315
+Eastern Asia,2002,Male,382
+Eastern Asia,2003,Female,315
+Eastern Asia,2003,Male,347
+Eastern Asia,2004,Female,340
+Eastern Asia,2004,Male,409
+Eastern Asia,2005,Female,353
+Eastern Asia,2005,Male,391
+Eastern Asia,2006,Female,332
+Eastern Asia,2006,Male,345
+Eastern Asia,2007,Female,342
+Eastern Asia,2007,Male,312
+Eastern Asia,2008,Female,359
+Eastern Asia,2008,Male,527
+Eastern Asia,2009,Female,416
+Eastern Asia,2009,Male,490
+Eastern Asia,2010,Female,340
+Eastern Asia,2010,Male,437
+Eastern Asia,2011,Female,323
+Eastern Asia,2011,Male,418
+Eastern Asia,2012,Female,523
+Eastern Asia,2012,Male,608
+Eastern Asia,2013,Female,529
+Eastern Asia,2013,Male,565
+Eastern Asia,2014,Female,467
+Eastern Asia,2014,Male,523
+Eastern Asia,2015,Female,467
+Eastern Asia,2015,Male,546
+Eastern Asia,2016,Female,477
+Eastern Asia,2016,Male,498
+Eastern Asia,2017,Female,440
+Eastern Asia,2017,Male,490
+Eastern Asia,2018,Female,388
+Eastern Asia,2018,Male,435
+Eastern Asia,2019,Female,395
+Eastern Asia,2019,Male,491
+Eastern Asia,2020,Female,388
+Eastern Asia,2020,Male,454
+Eastern Asia,2021,Female,185
+Eastern Asia,2021,Male,337
+Eastern Europe,2001,Female,12400
+Eastern Europe,2001,Male,35804
+Eastern Europe,2002,Female,12982
+Eastern Europe,2002,Male,37489
+Eastern Europe,2003,Female,12854
+Eastern Europe,2003,Male,38180
+Eastern Europe,2004,Female,12366
+Eastern Europe,2004,Male,35886
+Eastern Europe,2005,Female,11379
+Eastern Europe,2005,Male,33451
+Eastern Europe,2006,Female,10312
+Eastern Europe,2006,Male,30099
+Eastern Europe,2007,Female,8646
+Eastern Europe,2007,Male,24834
+Eastern Europe,2008,Female,6907
+Eastern Europe,2008,Male,20777
+Eastern Europe,2009,Female,5869
+Eastern Europe,2009,Male,16752
+Eastern Europe,2010,Female,5962
+Eastern Europe,2010,Male,15774
+Eastern Europe,2011,Female,5579
+Eastern Europe,2011,Male,14884
+Eastern Europe,2012,Female,4608
+Eastern Europe,2012,Male,13228
+Eastern Europe,2013,Female,4782
+Eastern Europe,2013,Male,1207
+Eastern Europe,2014,Female,4515
+Eastern Europe,2014,Male,13026
+Eastern Europe,2015,Female,4680
+Eastern Europe,2015,Male,13352
+Eastern Europe,2016,Female,4718
+Eastern Europe,2016,Male,12777
+Eastern Europe,2017,Female,4628
+Eastern Europe,2017,Male,12709
+Eastern Europe,2018,Female,4414
+Eastern Europe,2018,Male,13038
+Eastern Europe,2019,Female,3570
+Eastern Europe,2019,Male,9540
+Eastern Europe,2020,Female,3310
+Eastern Europe,2020,Male,9081
+Eastern Europe,2021,Female,3080
+Eastern Europe,2021,Male,8446
+Latin America and the Caribbean,2001,Female,7937
+Latin America and the Caribbean,2001,Male,86505
+Latin America and the Caribbean,2002,Female,8275
+Latin America and the Caribbean,2002,Male,80494
+Latin America and the Caribbean,2003,Female,8766
+Latin America and the Caribbean,2003,Male,93117
+Latin America and the Caribbean,2004,Female,6452
+Latin America and the Caribbean,2004,Male,91705
+Latin America and the Caribbean,2005,Female,8318
+Latin America and the Caribbean,2005,Male,88782
+Latin America and the Caribbean,2006,Female,9218
+Latin America and the Caribbean,2006,Male,95183
+Latin America and the Caribbean,2007,Female,9581
+Latin America and the Caribbean,2007,Male,101879
+Latin America and the Caribbean,2008,Female,9253
+Latin America and the Caribbean,2008,Male,100743
+Latin America and the Caribbean,2009,Female,10137
+Latin America and the Caribbean,2009,Male,111723
+Latin America and the Caribbean,2010,Female,11224
+Latin America and the Caribbean,2010,Male,117738
+Latin America and the Caribbean,2011,Female,11844
+Latin America and the Caribbean,2011,Male,123170
+Latin America and the Caribbean,2012,Female,12686
+Latin America and the Caribbean,2012,Male,127456
+Latin America and the Caribbean,2013,Female,12838
+Latin America and the Caribbean,2013,Male,129630
+Latin America and the Caribbean,2014,Female,11433
+Latin America and the Caribbean,2014,Male,109364
+Latin America and the Caribbean,2015,Female,11207
+Latin America and the Caribbean,2015,Male,108036
+Latin America and the Caribbean,2016,Female,12526
+Latin America and the Caribbean,2016,Male,125529
+Latin America and the Caribbean,2017,Female,12150
+Latin America and the Caribbean,2017,Male,126208
+Latin America and the Caribbean,2018,Female,12748
+Latin America and the Caribbean,2018,Male,128508
+Latin America and the Caribbean,2019,Female,13119
+Latin America and the Caribbean,2019,Male,113777
+Latin America and the Caribbean,2020,Female,11898
+Latin America and the Caribbean,2020,Male,102550
+Latin America and the Caribbean,2021,Female,9448
+Latin America and the Caribbean,2021,Male,89004
+Melanesia,2006,Female,9
+Melanesia,2006,Male,14
+Melanesia,2007,Female,12
+Melanesia,2007,Male,10
+Melanesia,2008,Female,18
+Melanesia,2008,Male,3
+Melanesia,2009,Female,10
+Melanesia,2009,Male,7
+Melanesia,2010,Female,8
+Melanesia,2010,Male,21
+Melanesia,2011,Female,6
+Melanesia,2011,Male,14
+Melanesia,2012,Female,9
+Melanesia,2012,Male,11
+Melanesia,2013,Female,7
+Melanesia,2013,Male,13
+Melanesia,2014,Female,8
+Melanesia,2014,Male,11
+Melanesia,2015,Female,12
+Melanesia,2015,Male,8
+Melanesia,2020,Female,1
+Melanesia,2020,Male,1
+Melanesia,2021,Female,1
+Melanesia,2021,Male,0
+Micronesia,2020,Female,1
+Micronesia,2020,Male,0
+Northern Africa,2005,Female,52
+Northern Africa,2005,Male,270
+Northern Africa,2006,Female,63
+Northern Africa,2006,Male,459
+Northern Africa,2007,Female,144
+Northern Africa,2007,Male,405
+Northern Africa,2008,Female,163
+Northern Africa,2008,Male,517
+Northern Africa,2009,Female,110
+Northern Africa,2009,Male,856
+Northern Africa,2010,Female,245
+Northern Africa,2010,Male,1098
+Northern Africa,2011,Female,197
+Northern Africa,2011,Male,1642
+Northern Africa,2012,Female,331
+Northern Africa,2012,Male,2372
+Northern Africa,2013,Female,369
+Northern Africa,2013,Male,2467
+Northern Africa,2014,Female,105
+Northern Africa,2014,Male,533
+Northern Africa,2015,Female,144
+Northern Africa,2015,Male,787
+Northern Africa,2016,Female,170
+Northern Africa,2016,Male,803
+Northern Africa,2017,Female,105
+Northern Africa,2017,Male,489
+Northern Africa,2018,Female,113
+Northern Africa,2018,Male,648
+Northern Africa,2019,Female,70
+Northern Africa,2019,Male,440
+Northern Africa,2020,Female,312
+Northern Africa,2020,Male,1457
+Northern Africa,2021,Female,283
+Northern Africa,2021,Male,1346
+Northern America,2001,Female,3858
+Northern America,2001,Male,12273
+Northern America,2002,Female,4621
+Northern America,2002,Male,14964
+Northern America,2003,Female,3967
+Northern America,2003,Male,12843
+Northern America,2004,Female,3850
+Northern America,2004,Male,13225
+Northern America,2005,Female,3552
+Northern America,2005,Male,13021
+Northern America,2006,Female,3739
+Northern America,2006,Male,13666
+Northern America,2007,Female,3816
+Northern America,2007,Male,14101
+Northern America,2008,Female,3844
+Northern America,2008,Male,13881
+Northern America,2009,Female,3732
+Northern America,2009,Male,13347
+Northern America,2010,Female,3693
+Northern America,2010,Male,12322
+Northern America,2011,Female,3465
+Northern America,2011,Male,11819
+Northern America,2012,Female,3443
+Northern America,2012,Male,11832
+Northern America,2013,Female,3458
+Northern America,2013,Male,11952
+Northern America,2014,Female,3320
+Northern America,2014,Male,11512
+Northern America,2015,Female,3335
+Northern America,2015,Male,11354
+Northern America,2016,Female,3511
+Northern America,2016,Male,12985
+Northern America,2017,Female,3868
+Northern America,2017,Male,14164
+Northern America,2018,Female,3864
+Northern America,2018,Male,14082
+Northern America,2019,Female,3658
+Northern America,2019,Male,12555
+Northern America,2020,Female,155
+Northern America,2020,Male,527
+Northern America,2021,Female,171
+Northern America,2021,Male,568
+Northern Europe,2001,Female,267
+Northern Europe,2001,Male,627
+Northern Europe,2002,Female,234
+Northern Europe,2002,Male,633
+Northern Europe,2003,Female,220
+Northern Europe,2003,Male,588
+Northern Europe,2004,Female,258
+Northern Europe,2004,Male,568
+Northern Europe,2005,Female,252
+Northern Europe,2005,Male,544
+Northern Europe,2006,Female,134
+Northern Europe,2006,Male,590
+Northern Europe,2007,Female,219
+Northern Europe,2007,Male,491
+Northern Europe,2008,Female,215
+Northern Europe,2008,Male,544
+Northern Europe,2009,Female,206
+Northern Europe,2009,Male,528
+Northern Europe,2010,Female,192
+Northern Europe,2010,Male,470
+Northern Europe,2011,Female,189
+Northern Europe,2011,Male,435
+Northern Europe,2012,Female,211
+Northern Europe,2012,Male,457
+Northern Europe,2013,Female,206
+Northern Europe,2013,Male,410
+Northern Europe,2014,Female,192
+Northern Europe,2014,Male,429
+Northern Europe,2015,Female,196
+Northern Europe,2015,Male,347
+Northern Europe,2016,Female,177
+Northern Europe,2016,Male,417
+Northern Europe,2017,Female,177
+Northern Europe,2017,Male,376
+Northern Europe,2018,Female,205
+Northern Europe,2018,Male,360
+Northern Europe,2019,Female,199
+Northern Europe,2019,Male,360
+Northern Europe,2020,Female,176
+Northern Europe,2020,Male,338
+Northern Europe,2021,Female,131
+Northern Europe,2021,Male,310
+Polynesia,2001,Female,0
+Polynesia,2001,Male,1
+Polynesia,2002,Female,1
+Polynesia,2002,Male,5
+Polynesia,2003,Female,1
+Polynesia,2003,Male,5
+Polynesia,2004,Female,0
+Polynesia,2004,Male,6
+Polynesia,2005,Female,0
+Polynesia,2005,Male,2
+Polynesia,2006,Female,0
+Polynesia,2006,Male,4
+Polynesia,2007,Female,0
+Polynesia,2007,Male,8
+Polynesia,2008,Female,0
+Polynesia,2008,Male,1
+Polynesia,2009,Female,1
+Polynesia,2009,Male,3
+Polynesia,2010,Female,3
+Polynesia,2010,Male,5
+Polynesia,2011,Female,0
+Polynesia,2011,Male,1
+Polynesia,2012,Female,0
+Polynesia,2012,Male,2
+Polynesia,2013,Female,1
+Polynesia,2013,Male,0
+Polynesia,2020,Female,1
+Polynesia,2020,Male,1
+Polynesia,2021,Male,2
+South-eastern Asia,2001,Female,903
+South-eastern Asia,2001,Male,4242
+South-eastern Asia,2003,Female,697
+South-eastern Asia,2003,Male,3840
+South-eastern Asia,2004,Female,952
+South-eastern Asia,2004,Male,5481
+South-eastern Asia,2005,Female,503
+South-eastern Asia,2005,Male,3769
+South-eastern Asia,2006,Female,621
+South-eastern Asia,2006,Male,4184
+South-eastern Asia,2007,Female,585
+South-eastern Asia,2007,Male,4118
+South-eastern Asia,2008,Female,1552
+South-eastern Asia,2008,Male,8861
+South-eastern Asia,2009,Female,1733
+South-eastern Asia,2009,Male,8086
+South-eastern Asia,2010,Female,2203
+South-eastern Asia,2010,Male,11485
+South-eastern Asia,2011,Female,1823
+South-eastern Asia,2011,Male,11294
+South-eastern Asia,2012,Female,1469
+South-eastern Asia,2012,Male,11296
+South-eastern Asia,2013,Female,1807
+South-eastern Asia,2013,Male,11445
+South-eastern Asia,2014,Female,592
+South-eastern Asia,2014,Male,3556
+South-eastern Asia,2015,Female,616
+South-eastern Asia,2015,Male,3276
+South-eastern Asia,2016,Female,196
+South-eastern Asia,2016,Male,970
+South-eastern Asia,2017,Female,992
+South-eastern Asia,2017,Male,11218
+South-eastern Asia,2018,Female,689
+South-eastern Asia,2018,Male,7590
+South-eastern Asia,2019,Female,499
+South-eastern Asia,2019,Male,5161
+South-eastern Asia,2020,Female,440
+South-eastern Asia,2020,Male,4336
+South-eastern Asia,2021,Female,5
+South-eastern Asia,2021,Male,5
+Southern Asia,2001,Female,15195
+Southern Asia,2001,Male,32971
+Southern Asia,2002,Female,14971
+Southern Asia,2002,Male,31448
+Southern Asia,2003,Female,14518
+Southern Asia,2003,Male,31217
+Southern Asia,2004,Female,14473
+Southern Asia,2004,Male,29858
+Southern Asia,2005,Female,15864
+Southern Asia,2005,Male,30626
+Southern Asia,2006,Female,15268
+Southern Asia,2006,Male,29827
+Southern Asia,2007,Female,15571
+Southern Asia,2007,Male,29389
+Southern Asia,2008,Female,16794
+Southern Asia,2008,Male,28568
+Southern Asia,2009,Female,17342
+Southern Asia,2009,Male,1949
+Southern Asia,2010,Female,18057
+Southern Asia,2010,Male,28866
+Southern Asia,2011,Female,18039
+Southern Asia,2011,Male,29184
+Southern Asia,2012,Female,18916
+Southern Asia,2012,Male,29456
+Southern Asia,2013,Female,18622
+Southern Asia,2013,Male,29532
+Southern Asia,2014,Female,18349
+Southern Asia,2014,Male,30184
+Southern Asia,2015,Female,18633
+Southern Asia,2015,Male,31211
+Southern Asia,2016,Female,17295
+Southern Asia,2016,Male,30948
+Southern Asia,2017,Female,18099
+Southern Asia,2017,Male,26695
+Southern Asia,2018,Female,17556
+Southern Asia,2018,Male,26417
+Southern Asia,2019,Female,17491
+Southern Asia,2019,Male,26490
+Southern Asia,2020,Female,17489
+Southern Asia,2020,Male,23739
+Southern Asia,2021,Female,16388
+Southern Asia,2021,Male,24281
+Southern Europe,2001,Female,360
+Southern Europe,2001,Male,1123
+Southern Europe,2002,Female,533
+Southern Europe,2002,Male,1610
+Southern Europe,2003,Female,535
+Southern Europe,2003,Male,1518
+Southern Europe,2004,Female,560
+Southern Europe,2004,Male,1492
+Southern Europe,2005,Female,385
+Southern Europe,2005,Male,846
+Southern Europe,2006,Female,455
+Southern Europe,2006,Male,1372
+Southern Europe,2007,Female,519
+Southern Europe,2007,Male,1227
+Southern Europe,2008,Female,528
+Southern Europe,2008,Male,1317
+Southern Europe,2009,Female,445
+Southern Europe,2009,Male,1222
+Southern Europe,2010,Female,483
+Southern Europe,2010,Male,1230
+Southern Europe,2011,Female,519
+Southern Europe,2011,Male,1160
+Southern Europe,2012,Female,479
+Southern Europe,2012,Male,1200
+Southern Europe,2013,Female,495
+Southern Europe,2013,Male,1138
+Southern Europe,2014,Female,518
+Southern Europe,2014,Male,989
+Southern Europe,2015,Female,449
+Southern Europe,2015,Male,946
+Southern Europe,2016,Female,384
+Southern Europe,2016,Male,807
+Southern Europe,2017,Female,396
+Southern Europe,2017,Male,739
+Southern Europe,2018,Female,356
+Southern Europe,2018,Male,727
+Southern Europe,2019,Female,366
+Southern Europe,2019,Male,674
+Southern Europe,2020,Female,338
+Southern Europe,2020,Male,679
+Southern Europe,2021,Female,313
+Southern Europe,2021,Male,574
+Sub-Saharan Africa,2001,Female,11
+Sub-Saharan Africa,2001,Male,14
+Sub-Saharan Africa,2004,Female,10
+Sub-Saharan Africa,2004,Male,28
+Sub-Saharan Africa,2005,Female,8
+Sub-Saharan Africa,2005,Male,36
+Sub-Saharan Africa,2006,Female,13
+Sub-Saharan Africa,2006,Male,23
+Sub-Saharan Africa,2007,Female,2741
+Sub-Saharan Africa,2007,Male,16421
+Sub-Saharan Africa,2008,Female,2692
+Sub-Saharan Africa,2008,Male,15758
+Sub-Saharan Africa,2009,Female,2948
+Sub-Saharan Africa,2009,Male,17980
+Sub-Saharan Africa,2010,Female,2614
+Sub-Saharan Africa,2010,Male,14203
+Sub-Saharan Africa,2011,Female,3300
+Sub-Saharan Africa,2011,Male,19081
+Sub-Saharan Africa,2012,Female,3719
+Sub-Saharan Africa,2012,Male,19835
+Sub-Saharan Africa,2013,Female,1282
+Sub-Saharan Africa,2013,Male,6962
+Sub-Saharan Africa,2014,Female,1406
+Sub-Saharan Africa,2014,Male,6774
+Sub-Saharan Africa,2015,Female,1581
+Sub-Saharan Africa,2015,Male,6070
+Sub-Saharan Africa,2016,Female,1490
+Sub-Saharan Africa,2016,Male,5313
+Sub-Saharan Africa,2017,Female,4428
+Sub-Saharan Africa,2017,Male,22364
+Sub-Saharan Africa,2018,Female,4216
+Sub-Saharan Africa,2018,Male,23410
+Sub-Saharan Africa,2019,Female,3232
+Sub-Saharan Africa,2019,Male,19446
+Sub-Saharan Africa,2020,Female,6
+Sub-Saharan Africa,2020,Male,28
+Sub-Saharan Africa,2021,Female,622
+Sub-Saharan Africa,2021,Male,1868
+Western Asia,2001,Female,64
+Western Asia,2001,Male,180
+Western Asia,2002,Female,57
+Western Asia,2002,Male,228
+Western Asia,2003,Female,56
+Western Asia,2003,Male,220
+Western Asia,2004,Female,639
+Western Asia,2004,Male,2472
+Western Asia,2005,Female,708
+Western Asia,2005,Male,2808
+Western Asia,2006,Female,760
+Western Asia,2006,Male,3241
+Western Asia,2007,Female,669
+Western Asia,2007,Male,3118
+Western Asia,2008,Female,747
+Western Asia,2008,Male,3587
+Western Asia,2009,Female,712
+Western Asia,2009,Male,3203
+Western Asia,2010,Female,142
+Western Asia,2010,Male,486
+Western Asia,2011,Female,847
+Western Asia,2011,Male,3102
+Western Asia,2012,Female,744
+Western Asia,2012,Male,2830
+Western Asia,2013,Female,769
+Western Asia,2013,Male,3194
+Western Asia,2014,Female,148
+Western Asia,2014,Male,347
+Western Asia,2015,Female,194
+Western Asia,2015,Male,428
+Western Asia,2016,Female,553
+Western Asia,2016,Male,2239
+Western Asia,2017,Female,646
+Western Asia,2017,Male,2657
+Western Asia,2018,Female,599
+Western Asia,2018,Male,2418
+Western Asia,2019,Female,573
+Western Asia,2019,Male,2150
+Western Asia,2020,Female,1362
+Western Asia,2020,Male,4547
+Western Asia,2021,Female,160
+Western Asia,2021,Male,309
+Western Europe,2001,Female,779
+Western Europe,2001,Male,1125
+Western Europe,2002,Female,743
+Western Europe,2002,Male,1084
+Western Europe,2003,Female,753
+Western Europe,2003,Male,1081
+Western Europe,2004,Female,716
+Western Europe,2004,Male,933
+Western Europe,2005,Female,707
+Western Europe,2005,Male,1000
+Western Europe,2006,Female,658
+Western Europe,2006,Male,907
+Western Europe,2007,Female,646
+Western Europe,2007,Male,816
+Western Europe,2008,Female,577
+Western Europe,2008,Male,765
+Western Europe,2009,Female,539
+Western Europe,2009,Male,755
+Western Europe,2010,Female,567
+Western Europe,2010,Male,684
+Western Europe,2011,Female,577
+Western Europe,2011,Male,269
+Western Europe,2012,Female,538
+Western Europe,2012,Male,281
+Western Europe,2013,Female,478
+Western Europe,2013,Male,654
+Western Europe,2014,Female,544
+Western Europe,2014,Male,586
+Western Europe,2015,Female,499
+Western Europe,2015,Male,640
+Western Europe,2016,Female,797
+Western Europe,2016,Male,1103
+Western Europe,2017,Female,868
+Western Europe,2017,Male,1130
+Western Europe,2018,Female,760
+Western Europe,2018,Male,1097
+Western Europe,2019,Female,720
+Western Europe,2019,Male,1069
+Western Europe,2020,Female,670
+Western Europe,2020,Male,1025
+Western Europe,2021,Female,465
+Western Europe,2021,Male,537

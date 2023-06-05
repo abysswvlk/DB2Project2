@@ -1,0 +1,547 @@
+Country,decade,quintile,Average
+Albania,2000s,,0.036615472
+Albania,2000s,Q1 (Poorest),0.015606596
+Albania,2000s,Q2,0.016292598
+Albania,2000s,Q3,0.034128707
+Albania,2000s,Q4,0.012605326
+Albania,2000s,Q5 (Richest),0.005059281
+Armenia,2000s,,0.11018942
+Armenia,2000s,Q1 (Poorest),0.13488556
+Armenia,2000s,Q2,0.095954835
+Armenia,2000s,Q3,0.06594215
+Armenia,2000s,Q4,0.06851466
+Armenia,2000s,Q5 (Richest),0.040045492
+Armenia,2010s,Q1 (Poorest),0.042961013
+Armenia,2010s,Q2,0.02632541
+Armenia,2010s,Q3,0.020065622
+Armenia,2010s,Q4,0.017321607
+Armenia,2010s,Q5 (Richest),0.010375813
+Azerbaijan,2000s,,0.17776081
+Azerbaijan,2000s,Q1 (Poorest),0.05110731
+Azerbaijan,2000s,Q2,0.046819784
+Azerbaijan,2000s,Q3,0.028983677
+Azerbaijan,2000s,Q4,0.02135188
+Azerbaijan,2000s,Q5 (Richest),0.013377082
+Benin,1990s,,0.22732463
+Benin,1990s,Q1 (Poorest),0.15949596
+Benin,1990s,Q2,0.14346062
+Benin,1990s,Q3,0.13068378
+Benin,1990s,Q4,0.09243906
+Benin,1990s,Q5 (Richest),0.0330997
+Benin,2000s,,0.46854082
+Benin,2000s,Q1 (Poorest),0.288379
+Benin,2000s,Q2,0.2573373
+Benin,2000s,Q3,0.2513348
+Benin,2000s,Q4,0.17098653
+Benin,2000s,Q5 (Richest),0.0670569
+Bolivia (Plurinational State of),1990s,,0.7867611
+Bolivia (Plurinational State of),1990s,Q1 (Poorest),0.2676274
+Bolivia (Plurinational State of),1990s,Q2,0.22972564
+Bolivia (Plurinational State of),1990s,Q3,0.17878984
+Bolivia (Plurinational State of),1990s,Q4,0.13677208
+Bolivia (Plurinational State of),1990s,Q5 (Richest),0.062769376
+Bolivia (Plurinational State of),2000s,,0.94677156
+Bolivia (Plurinational State of),2000s,Q1 (Poorest),0.2966968
+Bolivia (Plurinational State of),2000s,Q2,0.23855796
+Bolivia (Plurinational State of),2000s,Q3,0.17878984
+Bolivia (Plurinational State of),2000s,Q4,0.12528151
+Bolivia (Plurinational State of),2000s,Q5 (Richest),0.060111117
+Brazil,1990s,,0.4886065
+Brazil,1990s,Q1 (Poorest),0.14371787
+Brazil,1990s,Q2,0.090981305
+Brazil,1990s,Q3,0.066799656
+Brazil,1990s,Q4,0.053508326
+Brazil,1990s,Q5 (Richest),0.028983677
+Burkina Faso,1990s,,0.27302966
+Burkina Faso,1990s,Q1 (Poorest),0.14371787
+Burkina Faso,1990s,Q2,0.13437107
+Burkina Faso,1990s,Q3,0.13668633
+Burkina Faso,1990s,Q4,0.14423238
+Burkina Faso,1990s,Q5 (Richest),0.076403715
+Burkina Faso,2000s,,0.24756177
+Burkina Faso,2000s,Q1 (Poorest),0.14431813
+Burkina Faso,2000s,Q2,0.14388937
+Burkina Faso,2000s,Q3,0.13197005
+Burkina Faso,2000s,Q4,0.122709006
+Burkina Faso,2000s,Q5 (Richest),0.055995096
+Cambodia,2000s,,0.36572596
+Cambodia,2000s,Q1 (Poorest),0.12468125
+Cambodia,2000s,Q2,0.104186885
+Cambodia,2000s,Q3,0.09681233
+Cambodia,2000s,Q4,0.09518308
+Cambodia,2000s,Q5 (Richest),0.048449043
+Cambodia,2010s,,0.21188952
+Cambodia,2010s,Q1 (Poorest),0.07160168
+Cambodia,2010s,Q2,0.051450312
+Cambodia,2010s,Q3,0.04261801
+Cambodia,2010s,Q4,0.036358222
+Cambodia,2010s,Q5 (Richest),0.019979872
+Cameroon,1990s,,0.55935067
+Cameroon,1990s,Q1 (Poorest),0.17921859
+Cameroon,1990s,Q2,0.17021479
+Cameroon,1990s,Q3,0.14243162
+Cameroon,1990s,Q4,0.09381107
+Cameroon,1990s,Q5 (Richest),0.055223335
+Cameroon,2000s,,0.42403632
+Cameroon,2000s,Q1 (Poorest),0.18119085
+Cameroon,2000s,Q2,0.1651555
+Cameroon,2000s,Q3,0.14114536
+Cameroon,2000s,Q4,0.09938485
+Cameroon,2000s,Q5 (Richest),0.06045412
+Central African Republic,1990s,,0.39591014
+Central African Republic,1990s,Q1 (Poorest),0.15074942
+Central African Republic,1990s,Q2,0.13179855
+Central African Republic,1990s,Q3,0.12982628
+Central African Republic,1990s,Q4,0.15323618
+Central African Republic,1990s,Q5 (Richest),0.11902172
+Chad,1990s,,0.59159285
+Chad,1990s,Q1 (Poorest),0.16927153
+Chad,1990s,Q2,0.1566662
+Chad,1990s,Q3,0.15778096
+Chad,1990s,Q4,0.1790471
+Chad,1990s,Q5 (Richest),0.17510256
+Chad,2000s,,0.56089413
+Chad,2000s,Q1 (Poorest),0.13694358
+Chad,2000s,Q2,0.18487813
+Chad,2000s,Q3,0.1970547
+Chad,2000s,Q4,0.1724443
+Chad,2000s,Q5 (Richest),0.13771534
+Colombia,1990s,,0.36606893
+Colombia,1990s,Q1 (Poorest),0.15906721
+Colombia,1990s,Q2,0.10272913
+Colombia,1990s,Q3,0.07606071
+Colombia,1990s,Q4,0.057024095
+Colombia,1990s,Q5 (Richest),0.028297672
+Colombia,2000s,,0.962378
+Colombia,2000s,Q1 (Poorest),0.27980393
+Colombia,2000s,Q2,0.21557681
+Colombia,2000s,Q3,0.16009623
+Colombia,2000s,Q4,0.09501158
+Colombia,2000s,Q5 (Richest),0.0575386
+Colombia,2010s,,0.47317138
+Colombia,2010s,Q1 (Poorest),0.12579602
+Colombia,2010s,Q2,0.09938485
+Colombia,2010s,Q3,0.068600416
+Colombia,2010s,Q4,0.050335556
+Colombia,2010s,Q5 (Richest),0.026668413
+Comoros,1990s,,0.16043922
+Comoros,1990s,Q1 (Poorest),0.06765716
+Comoros,1990s,Q2,0.09295356
+Comoros,1990s,Q3,0.068686165
+Comoros,1990s,Q4,0.040216994
+Comoros,1990s,Q5 (Richest),0.023495642
+Congo,2000s,,0.48397598
+Congo,2000s,Q1 (Poorest),0.16026773
+Congo,2000s,Q2,0.13797258
+Congo,2000s,Q3,0.13479982
+Congo,2000s,Q4,0.08746553
+Congo,2000s,Q5 (Richest),0.05470883
+Côte dIvoire,1990s,,0.7275932
+Côte dIvoire,1990s,Q1 (Poorest),0.36135268
+Côte dIvoire,1990s,Q2,0.29986957
+Côte dIvoire,1990s,Q3,0.27980393
+Côte dIvoire,1990s,Q4,0.23049739
+Côte dIvoire,1990s,Q5 (Richest),0.12013649
+Democratic Republic of the Congo,2000s,,0.35612193
+Democratic Republic of the Congo,2000s,Q1 (Poorest),0.13342781
+Democratic Republic of the Congo,2000s,Q2,0.13642909
+Democratic Republic of the Congo,2000s,Q3,0.1239095
+Democratic Republic of the Congo,2000s,Q4,0.12442402
+Democratic Republic of the Congo,2000s,Q5 (Richest),0.045619275
+Dominican Republic,1990s,,0.80339664
+Dominican Republic,1990s,Q1 (Poorest),0.35140562
+Dominican Republic,1990s,Q2,0.25965255
+Dominican Republic,1990s,Q3,0.19662595
+Dominican Republic,1990s,Q4,0.11816422
+Dominican Republic,1990s,Q5 (Richest),0.063112386
+Dominican Republic,2000s,,0.8442996
+Dominican Republic,2000s,Q1 (Poorest),0.3325405
+Dominican Republic,2000s,Q2,0.25630832
+Dominican Republic,2000s,Q3,0.19079491
+Dominican Republic,2000s,Q4,0.12888303
+Dominican Republic,2000s,Q5 (Richest),0.06405564
+Ethiopia,2000s,,0.6493029
+Ethiopia,2000s,Q1 (Poorest),0.20477223
+Ethiopia,2000s,Q2,0.21849233
+Ethiopia,2000s,Q3,0.23427044
+Ethiopia,2000s,Q4,0.20228548
+Ethiopia,2000s,Q5 (Richest),0.10984643
+Ethiopia,2010s,,0.23126917
+Ethiopia,2010s,Q1 (Poorest),0.100928366
+Ethiopia,2010s,Q2,0.10547314
+Ethiopia,2010s,Q3,0.08523602
+Ethiopia,2010s,Q4,0.05290807
+Ethiopia,2010s,Q5 (Richest),0.02838342
+Gabon,2000s,,0.4192343
+Gabon,2000s,Q1 (Poorest),0.17956159
+Gabon,2000s,Q2,0.16095373
+Gabon,2000s,Q3,0.12811127
+Gabon,2000s,Q4,0.114305444
+Gabon,2000s,Q5 (Richest),0.068600416
+Ghana,1990s,,0.668854
+Ghana,1990s,Q1 (Poorest),0.24164495
+Ghana,1990s,Q2,0.22638138
+Ghana,1990s,Q3,0.21934983
+Ghana,1990s,Q4,0.17587432
+Ghana,1990s,Q5 (Richest),0.07760422
+Ghana,2000s,,0.51321685
+Ghana,2000s,Q1 (Poorest),0.21866383
+Ghana,2000s,Q2,0.17441656
+Ghana,2000s,Q3,0.15932447
+Ghana,2000s,Q4,0.10272913
+Ghana,2000s,Q5 (Richest),0.028897926
+Guatemala,1990s,,0.9530313
+Guatemala,1990s,Q1 (Poorest),0.33322653
+Guatemala,1990s,Q2,0.30278507
+Guatemala,1990s,Q3,0.22946839
+Guatemala,1990s,Q4,0.19259568
+Guatemala,1990s,Q5 (Richest),0.08292075
+Guinea,1990s,,0.34334508
+Guinea,1990s,Q1 (Poorest),0.17878984
+Guinea,1990s,Q2,0.18702188
+Guinea,1990s,Q3,0.18479237
+Guinea,1990s,Q4,0.1468049
+Guinea,1990s,Q5 (Richest),0.0833495
+Guinea,2000s,,0.47034162
+Guinea,2000s,Q1 (Poorest),0.17913283
+Guinea,2000s,Q2,0.17355905
+Guinea,2000s,Q3,0.14569013
+Guinea,2000s,Q4,0.10718815
+Guinea,2000s,Q5 (Richest),0.08429276
+Guyana,2000s,,0.30038407
+Guyana,2000s,Q1 (Poorest),0.19028041
+Guyana,2000s,Q2,0.09586908
+Guyana,2000s,Q3,0.08935204
+Guyana,2000s,Q4,0.040131245
+Guyana,2000s,Q5 (Richest),0.027525915
+Haiti,1990s,,0.3079301
+Haiti,1990s,Q1 (Poorest),0.090038046
+Haiti,1990s,Q2,0.0986131
+Haiti,1990s,Q3,0.07588921
+Haiti,1990s,Q4,0.078204475
+Haiti,1990s,Q5 (Richest),0.025296403
+Haiti,2000s,,0.572985
+Haiti,2000s,Q1 (Poorest),0.17201555
+Haiti,2000s,Q2,0.15186417
+Haiti,2000s,Q3,0.15666622
+Haiti,2000s,Q4,0.1349713
+Haiti,2000s,Q5 (Richest),0.07177319
+Honduras,2000s,,0.35243464
+Honduras,2000s,Q1 (Poorest),0.14097385
+Honduras,2000s,Q2,0.11910746
+Honduras,2000s,Q3,0.10778841
+Honduras,2000s,Q4,0.07854748
+Honduras,2000s,Q5 (Richest),0.043389764
+India,2000s,,0.30201334
+India,2000s,Q1 (Poorest),0.12819703
+India,2000s,Q2,0.112333186
+India,2000s,Q3,0.09106705
+India,2000s,Q4,0.06542765
+India,2000s,Q5 (Richest),0.02984118
+Kazakhstan,1990s,,0.094154075
+Kazakhstan,1990s,Q1 (Poorest),0.14466113
+Kazakhstan,1990s,Q2,0.08420701
+Kazakhstan,1990s,Q3,0.11053241
+Kazakhstan,1990s,Q4,0.08403551
+Kazakhstan,1990s,Q5 (Richest),0.048363294
+Kenya,1990s,,0.7734696
+Kenya,1990s,Q1 (Poorest),0.28383422
+Kenya,1990s,Q2,0.22706737
+Kenya,1990s,Q3,0.19954148
+Kenya,1990s,Q4,0.19473943
+Kenya,1990s,Q5 (Richest),0.12090824
+Kenya,2000s,,0.6845464
+Kenya,2000s,Q1 (Poorest),0.3065581
+Kenya,2000s,Q2,0.22055036
+Kenya,2000s,Q3,0.18539263
+Kenya,2000s,Q4,0.16661325
+Kenya,2000s,Q5 (Richest),0.1311983
+Kyrgyzstan,1990s,,0.06748565
+Kyrgyzstan,1990s,Q1 (Poorest),0.10881741
+Kyrgyzstan,1990s,Q2,0.07040118
+Kyrgyzstan,1990s,Q3,0.066285156
+Kyrgyzstan,1990s,Q4,0.06431289
+Kyrgyzstan,1990s,Q5 (Richest),0.031556193
+Lesotho,2000s,,0.4032847
+Lesotho,2000s,Q1 (Poorest),0.23375592
+Lesotho,2000s,Q2,0.20854527
+Lesotho,2000s,Q3,0.16772802
+Lesotho,2000s,Q4,0.12828279
+Lesotho,2000s,Q5 (Richest),0.085922025
+Liberia,2000s,,0.3632392
+Liberia,2000s,Q1 (Poorest),0.15966748
+Liberia,2000s,Q2,0.17673182
+Liberia,2000s,Q3,0.12553875
+Liberia,2000s,Q4,0.10581614
+Liberia,2000s,Q5 (Richest),0.06328389
+Madagascar,1990s,,0.4443592
+Madagascar,1990s,Q1 (Poorest),0.22072184
+Madagascar,1990s,Q2,0.18444937
+Madagascar,1990s,Q3,0.16558425
+Madagascar,1990s,Q4,0.11885023
+Madagascar,1990s,Q5 (Richest),0.062426385
+Madagascar,2000s,,0.80039537
+Madagascar,2000s,Q1 (Poorest),0.37824556
+Madagascar,2000s,Q2,0.35843718
+Madagascar,2000s,Q3,0.27791741
+Madagascar,2000s,Q4,0.20400049
+Madagascar,2000s,Q5 (Richest),0.11121842
+Malawi,2000s,,0.95620406
+Malawi,2000s,Q1 (Poorest),0.30844462
+Malawi,2000s,Q2,0.30372834
+Malawi,2000s,Q3,0.29935503
+Malawi,2000s,Q4,0.26762736
+Malawi,2000s,Q5 (Richest),0.20880252
+Malawi,2010s,,0.5773583
+Malawi,2010s,Q1 (Poorest),0.15975322
+Malawi,2010s,Q2,0.166013
+Malawi,2010s,Q3,0.15289319
+Malawi,2010s,Q4,0.1322273
+Malawi,2010s,Q5 (Richest),0.07726122
+Mali,1990s,,0.3986542
+Mali,1990s,Q1 (Poorest),0.18839389
+Mali,1990s,Q2,0.1913094
+Mali,1990s,Q3,0.19028041
+Mali,1990s,Q4,0.19079491
+Mali,1990s,Q5 (Richest),0.11199019
+Mali,2000s,,0.919417
+Mali,2000s,Q1 (Poorest),0.37541577
+Mali,2000s,Q2,0.39599591
+Mali,2000s,Q3,0.39042214
+Mali,2000s,Q4,0.34874737
+Mali,2000s,Q5 (Richest),0.20897403
+Morocco,2000s,,0.11662071
+Morocco,2000s,Q1 (Poorest),0.04767729
+Morocco,2000s,Q2,0.035757966
+Morocco,2000s,Q3,0.034814708
+Morocco,2000s,Q4,0.02143763
+Morocco,2000s,Q5 (Richest),0.01311983
+Mozambique,1990s,,0.5118449
+Mozambique,1990s,Q1 (Poorest),0.16455525
+Mozambique,1990s,Q2,0.14809115
+Mozambique,1990s,Q3,0.14260311
+Mozambique,1990s,Q4,0.16627026
+Mozambique,1990s,Q5 (Richest),0.11936472
+Mozambique,2000s,,0.407315
+Mozambique,2000s,Q1 (Poorest),0.1970547
+Mozambique,2000s,Q2,0.17458805
+Mozambique,2000s,Q3,0.18479237
+Mozambique,2000s,Q4,0.1568377
+Mozambique,2000s,Q5 (Richest),0.10633065
+Namibia,2000s,,0.695351
+Namibia,2000s,Q1 (Poorest),0.16609877
+Namibia,2000s,Q2,0.1575237
+Namibia,2000s,Q3,0.17004329
+Namibia,2000s,Q4,0.12759678
+Namibia,2000s,Q5 (Richest),0.085407525
+Nepal,2000s,,0.30784437
+Nepal,2000s,Q1 (Poorest),0.09938485
+Nepal,2000s,Q2,0.1149057
+Nepal,2000s,Q3,0.09681234
+Nepal,2000s,Q4,0.08583627
+Nepal,2000s,Q5 (Richest),0.062683634
+Nepal,2010s,,0.30467162
+Nepal,2010s,Q1 (Poorest),0.08840879
+Nepal,2010s,Q2,0.0902953
+Nepal,2010s,Q3,0.08172025
+Nepal,2010s,Q4,0.061826125
+Nepal,2010s,Q5 (Richest),0.027011415
+Nicaragua,1990s,,0.6098576
+Nicaragua,1990s,Q1 (Poorest),0.19293867
+Nicaragua,1990s,Q2,0.16043922
+Nicaragua,1990s,Q3,0.1322273
+Nicaragua,1990s,Q4,0.089695044
+Nicaragua,1990s,Q5 (Richest),0.05093581
+Nicaragua,2000s,,0.5335397
+Nicaragua,2000s,Q1 (Poorest),0.17090079
+Nicaragua,2000s,Q2,0.13600034
+Nicaragua,2000s,Q3,0.105558895
+Nicaragua,2000s,Q4,0.076918215
+Nicaragua,2000s,Q5 (Richest),0.053679828
+Niger,1990s,,0.61508846
+Niger,1990s,Q1 (Poorest),0.22063607
+Niger,1990s,Q2,0.19988446
+Niger,1990s,Q3,0.19465369
+Niger,1990s,Q4,0.20966002
+Niger,1990s,Q5 (Richest),0.12176574
+Niger,2000s,,0.3625532
+Niger,2000s,Q1 (Poorest),0.19216692
+Niger,2000s,Q2,0.18770789
+Niger,2000s,Q3,0.18839389
+Niger,2000s,Q4,0.19105215
+Niger,2000s,Q5 (Richest),0.10873166
+Nigeria,1990s,,0.3202782
+Nigeria,2000s,,0.8420701
+Nigeria,2000s,Q1 (Poorest),0.34025806
+Nigeria,2000s,Q2,0.30089858
+Nigeria,2000s,Q3,0.23598546
+Nigeria,2000s,Q4,0.15795247
+Nigeria,2000s,Q5 (Richest),0.07263069
+Peru,1990s,,0.4647678
+Peru,1990s,Q1 (Poorest),0.14457537
+Peru,1990s,Q2,0.10718815
+Peru,1990s,Q3,0.06697116
+Peru,1990s,Q4,0.040474247
+Peru,1990s,Q5 (Richest),0.017750358
+Peru,2000s,,0.7376259
+Peru,2000s,Q1 (Poorest),0.2795467
+Peru,2000s,Q2,0.18136235
+Peru,2000s,Q3,0.121165484
+Peru,2000s,Q4,0.0741742
+Peru,2000s,Q5 (Richest),0.037215725
+Philippines,1990s,,0.4687124
+Philippines,1990s,Q1 (Poorest),0.11816422
+Philippines,1990s,Q2,0.07623221
+Philippines,1990s,Q3,0.032156445
+Philippines,1990s,Q4,0.02812617
+Philippines,1990s,Q5 (Richest),0.011919322
+Philippines,2000s,,0.6516182
+Philippines,2000s,Q1 (Poorest),0.21463354
+Philippines,2000s,Q2,0.14045934
+Philippines,2000s,Q3,0.08943779
+Philippines,2000s,Q4,0.061826125
+Philippines,2000s,Q5 (Richest),0.03490046
+Republic of Moldova,2000s,,0.028983677
+Republic of Moldova,2000s,Q1 (Poorest),0.04467602
+Republic of Moldova,2000s,Q2,0.056423847
+Republic of Moldova,2000s,Q3,0.03601522
+Republic of Moldova,2000s,Q4,0.012090824
+Republic of Moldova,2000s,Q5 (Richest),0.012776827
+Rwanda,2000s,,0.3453173
+Rwanda,2000s,Q1 (Poorest),0.09681233
+Rwanda,2000s,Q2,0.091495804
+Rwanda,2000s,Q3,0.09586908
+Rwanda,2000s,Q4,0.0908098
+Rwanda,2000s,Q5 (Richest),0.07666096
+Rwanda,2010s,,0.18847965
+Rwanda,2010s,Q1 (Poorest),0.05951086
+Rwanda,2010s,Q2,0.036872722
+Rwanda,2010s,Q3,0.028211923
+Rwanda,2010s,Q4,0.035586465
+Rwanda,2010s,Q5 (Richest),0.022981139
+Sao Tome and Principe,2000s,,0.32190746
+Sao Tome and Principe,2000s,Q1 (Poorest),0.15452243
+Sao Tome and Principe,2000s,Q2,0.119193226
+Sao Tome and Principe,2000s,Q3,0.114734195
+Sao Tome and Principe,2000s,Q4,0.079490736
+Sao Tome and Principe,2000s,Q5 (Richest),0.032327946
+Senegal,1990s,,0.21120353
+Senegal,1990s,Q1 (Poorest),0.15872422
+Senegal,1990s,Q2,0.12725377
+Senegal,1990s,Q3,0.0998136
+Senegal,1990s,Q4,0.07520321
+Senegal,1990s,Q5 (Richest),0.030698687
+Senegal,2000s,,0.25365007
+Senegal,2000s,Q1 (Poorest),0.14431813
+Senegal,2000s,Q2,0.13197005
+Senegal,2000s,Q3,0.09586908
+Senegal,2000s,Q4,0.056681093
+Senegal,2000s,Q5 (Richest),0.031813443
+Senegal,2010s,,0.22355163
+Senegal,2010s,Q1 (Poorest),0.15417944
+Senegal,2010s,Q2,0.09818435
+Senegal,2010s,Q3,0.06594215
+Senegal,2010s,Q4,0.06448439
+Senegal,2010s,Q5 (Richest),0.03901649
+Sierra Leone,2000s,,0.43089637
+Sierra Leone,2000s,Q1 (Poorest),0.16558425
+Sierra Leone,2000s,Q2,0.15152118
+Sierra Leone,2000s,Q3,0.15255018
+Sierra Leone,2000s,Q4,0.11799273
+Sierra Leone,2000s,Q5 (Richest),0.0649989
+South Africa,1990s,,0.3228507
+South Africa,1990s,Q1 (Poorest),0.094668575
+South Africa,1990s,Q2,0.086436525
+South Africa,1990s,Q3,0.06379839
+South Africa,1990s,Q4,0.05608084
+South Africa,1990s,Q5 (Richest),0.025382154
+Swaziland,2000s,,0.3896504
+Swaziland,2000s,Q1 (Poorest),0.13068378
+Swaziland,2000s,Q2,0.119193226
+Swaziland,2000s,Q3,0.08883754
+Swaziland,2000s,Q4,0.07408845
+Swaziland,2000s,Q5 (Richest),0.07803298
+Timor-Leste,2000s,,0.23504218
+Timor-Leste,2000s,Q1 (Poorest),0.053679828
+Timor-Leste,2000s,Q2,0.049735304
+Timor-Leste,2000s,Q3,0.060539868
+Timor-Leste,2000s,Q4,0.043561265
+Timor-Leste,2000s,Q5 (Richest),0.030355686
+Togo,1990s,,0.3145329
+Togo,1990s,Q1 (Poorest),0.12631051
+Togo,1990s,Q2,0.114391185
+Togo,1990s,Q3,0.094154075
+Togo,1990s,Q4,0.06371264
+Togo,1990s,Q5 (Richest),0.03112744
+Uganda,1990s,,0.47720164
+Uganda,1990s,Q1 (Poorest),0.19371043
+Uganda,1990s,Q2,0.17004329
+Uganda,1990s,Q3,0.18539263
+Uganda,1990s,Q4,0.17038628
+Uganda,1990s,Q5 (Richest),0.13514283
+Uganda,2000s,,1.0629635
+Uganda,2000s,Q1 (Poorest),0.19559693
+Uganda,2000s,Q2,0.16858552
+Uganda,2000s,Q3,0.13908735
+Uganda,2000s,Q4,0.12982628
+Uganda,2000s,Q5 (Richest),0.08026249
+Ukraine,2000s,,0.024181647
+Ukraine,2000s,Q1 (Poorest),0.04133175
+Ukraine,2000s,Q2,0.03104169
+Ukraine,2000s,Q3,0.020151373
+Ukraine,2000s,Q4,0.017407354
+Ukraine,2000s,Q5 (Richest),0.020151373
+United Republic of Tanzania,1990s,,0.5747
+United Republic of Tanzania,1990s,Q1 (Poorest),0.2963538
+United Republic of Tanzania,1990s,Q2,0.2420737
+United Republic of Tanzania,1990s,Q3,0.2520208
+United Republic of Tanzania,1990s,Q4,0.24567524
+United Republic of Tanzania,1990s,Q5 (Richest),0.15323618
+United Republic of Tanzania,2000s,,0.3887071
+United Republic of Tanzania,2000s,Q1 (Poorest),0.15846696
+United Republic of Tanzania,2000s,Q2,0.14251737
+United Republic of Tanzania,2000s,Q3,0.14217436
+United Republic of Tanzania,2000s,Q4,0.11627772
+United Republic of Tanzania,2000s,Q5 (Richest),0.066285156
+United Republic of Tanzania,2010s,,0.35783693
+United Republic of Tanzania,2010s,Q1 (Poorest),0.15126392
+United Republic of Tanzania,2010s,Q2,0.14526138
+United Republic of Tanzania,2010s,Q3,0.124767005
+United Republic of Tanzania,2010s,Q4,0.10341513
+United Republic of Tanzania,2010s,Q5 (Richest),0.05848185
+Uzbekistan,1990s,,0.048020292
+Uzbekistan,1990s,Q1 (Poorest),0.045619275
+Uzbekistan,1990s,Q2,0.045619275
+Uzbekistan,1990s,Q3,0.05573784
+Uzbekistan,1990s,Q4,0.05265082
+Uzbekistan,1990s,Q5 (Richest),0.03798748
+Zambia,1990s,,0.5476028
+Zambia,1990s,Q1 (Poorest),0.1739878
+Zambia,1990s,Q2,0.1341138
+Zambia,1990s,Q3,0.14560439
+Zambia,1990s,Q4,0.13342781
+Zambia,1990s,Q5 (Richest),0.087808535
+Zambia,2000s,,0.88391644
+Zambia,2000s,Q1 (Poorest),0.36752674
+Zambia,2000s,Q2,0.33159727
+Zambia,2000s,Q3,0.31796294
+Zambia,2000s,Q4,0.26445463
+Zambia,2000s,Q5 (Richest),0.13437107
+Zimbabwe,1990s,,0.7672098
+Zimbabwe,1990s,Q1 (Poorest),0.25545081
+Zimbabwe,1990s,Q2,0.21986434
+Zimbabwe,1990s,Q3,0.166013
+Zimbabwe,1990s,Q4,0.19662593
+Zimbabwe,1990s,Q5 (Richest),0.11833572
+Zimbabwe,2000s,,0.2067445
+Zimbabwe,2000s,Q1 (Poorest),0.13265605
+Zimbabwe,2000s,Q2,0.11001792
+Zimbabwe,2000s,Q3,0.09106705
+Zimbabwe,2000s,Q4,0.09621208
+Zimbabwe,2000s,Q5 (Richest),0.04064575
+Zimbabwe,2010s,,0.36503997
+Zimbabwe,2010s,Q1 (Poorest),0.15126392
+Zimbabwe,2010s,Q2,0.118764475
+Zimbabwe,2010s,Q3,0.12262324
+Zimbabwe,2010s,Q4,0.09484008
+Zimbabwe,2010s,Q5 (Richest),0.041760504

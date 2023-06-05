@@ -1,0 +1,299 @@
+Country,Sex,Average
+Afghanistan,Female,120.0
+Afghanistan,Male,2525.75
+Albania,Female,19.619047
+Albania,Male,97.2381
+Algeria,Female,70.5
+Algeria,Male,383.66666
+Andorra,Female,0.11111111
+Andorra,Male,0.3
+Anguilla,Female,0.0
+Anguilla,Male,1.0
+Antigua and Barbuda,Female,1.875
+Antigua and Barbuda,Male,7.5
+Argentina,Female,400.75
+Argentina,Male,2059.0
+Armenia,Female,17.380953
+Armenia,Male,55.95238
+Aruba,Female,0.71428573
+Aruba,Male,3.2857144
+Australia,Female,91.2381
+Australia,Male,170.42857
+Austria,Female,32.42857
+Austria,Male,29.619047
+Azerbaijan,Female,72.1
+Azerbaijan,Male,141.0
+Bahamas,Female,8.95
+Bahamas,Male,76.3
+Bahrain,Female,0.8
+Bahrain,Male,5.8
+Barbados,Female,4.4
+Barbados,Male,22.55
+Belarus,Female,129.76923
+Belarus,Male,239.3077
+Belgium,Female,91.13333
+Belgium,Male,133.13333
+Belize,Female,13.0
+Belize,Male,108.0
+Bermuda,Female,0.41666666
+Bermuda,Male,4.25
+Bhutan,Female,3.1666667
+Bhutan,Male,8.5
+Bolivia (Plurinational State of),Female,217.33333
+Bolivia (Plurinational State of),Male,476.66666
+Bosnia and Herzegovina,Female,16.071428
+Bosnia and Herzegovina,Male,43.214287
+Brazil,Female,4220.6665
+Brazil,Male,47700.668
+British Virgin Islands,Female,0.6
+British Virgin Islands,Male,1.4
+Brunei Darussalam,Female,2.0
+Brunei Darussalam,Male,2.0
+Bulgaria,Female,41.142857
+Bulgaria,Male,123.38095
+Burundi,Female,100.0
+Burundi,Male,445.0
+Cabo Verde,Female,8.555555
+Cabo Verde,Male,37.666668
+Cameroon,Female,105.0
+Cameroon,Male,147.33333
+Canada,Female,163.78947
+Canada,Male,433.8
+Cayman Islands,Female,0.5833333
+Cayman Islands,Male,3.6666667
+Chile,Female,91.0
+Chile,Male,521.06665
+China Hong Kong SAR,Female,16.5
+China Hong Kong SAR,Male,17.0
+China Macao SAR,Female,1.5
+China Macao SAR,Male,1.1818181
+Colombia,Female,1300.3334
+Colombia,Male,15825.952
+Costa Rica,Female,48.95
+Costa Rica,Male,381.65
+Croatia,Female,23.0
+Croatia,Male,33.857143
+Cuba,Female,145.29411
+Cuba,Male,454.0
+Curaçao,Female,4.142857
+Curaçao,Male,24.857143
+Cyprus,Female,4.117647
+Cyprus,Male,9.6470585
+Czechia,Female,46.55
+Czechia,Male,63.0
+Denmark,Female,19.761906
+Denmark,Male,33.095238
+Dominica,Female,1.2307693
+Dominica,Male,9.461538
+Dominican Republic,Female,182.28572
+Dominican Republic,Male,1700.8572
+Ecuador,Female,197.85715
+Ecuador,Male,1620.381
+Egypt,Female,168.22223
+Egypt,Male,1020.55554
+El Salvador,Female,419.93332
+El Salvador,Male,3434.0
+Estonia,Female,17.714285
+Estonia,Male,58.38095
+Fiji,Female,9.9
+Fiji,Male,11.2
+Finland,Female,33.7
+Finland,Male,76.0
+France,Female,300.0
+France,Male,549.6
+French Guiana,Female,2.5
+French Guiana,Male,29.5
+Georgia,Female,37.0
+Georgia,Male,175.45454
+Germany,Female,398.0476
+Germany,Male,503.1579
+Greece,Female,30.25
+Greece,Male,91.1
+Grenada,Female,2.4666667
+Grenada,Male,8.066667
+Guadeloupe,Female,5.8
+Guadeloupe,Male,21.6
+Guatemala,Female,640.2143
+Guatemala,Male,4441.2144
+Guyana,Female,27.133333
+Guyana,Male,110.13333
+Haiti,Female,76.4
+Haiti,Male,895.8
+Holy See,Female,0.0
+Holy See,Male,0.0
+Honduras,Female,406.6
+Honduras,Male,4582.7334
+Hungary,Female,69.09524
+Hungary,Male,97.90476
+Iceland,Female,0.64285713
+Iceland,Male,1.5714285
+India,Female,16756.143
+India,Male,26782.096
+Iran (Islamic Republic of),Female,258.0
+Iran (Islamic Republic of),Male,1727.5
+Ireland,Female,8.25
+Ireland,Male,36.8
+Israel,Female,31.1
+Israel,Male,112.22222
+Italy,Female,155.85
+Italy,Male,378.9
+Jamaica,Female,143.92308
+Jamaica,Male,1236.4286
+Japan,Female,259.2
+Japan,Male,251.5
+Jordan,Female,30.0
+Jordan,Male,92.111115
+Kazakhstan,Female,283.4
+Kazakhstan,Male,946.1111
+Kenya,Female,527.3333
+Kenya,Male,1657.8334
+Kosovo under UNSCR 1244,Female,11.25
+Kosovo under UNSCR 1244,Male,50.0
+Kuwait,Female,10.7
+Kuwait,Male,37.7
+Kyrgyzstan,Female,91.5
+Kyrgyzstan,Male,333.8
+Latvia,Female,35.0
+Latvia,Male,31.88889
+Liechtenstein,Female,0.18181819
+Liechtenstein,Male,0.27272728
+Lithuania,Female,66.95
+Lithuania,Male,167.33333
+Luxembourg,Female,1.5
+Luxembourg,Male,2.9166667
+Maldives,Female,4.5
+Maldives,Male,15.666667
+Malta,Female,1.882353
+Malta,Male,3.6470587
+Martinique,Female,4.25
+Martinique,Male,13.75
+Mauritius,Female,10.941176
+Mauritius,Male,22.647058
+Mexico,Female,2221.8572
+Mexico,Male,17443.38
+Micronesia (Federated States of),Female,1.0
+Micronesia (Federated States of),Male,0.0
+Monaco,Female,0.0
+Monaco,Male,0.0
+Mongolia,Female,51.714287
+Mongolia,Male,164.92857
+Montenegro,Female,3.7142856
+Montenegro,Male,14.428572
+Montserrat,Female,0.11111111
+Montserrat,Male,0.33333334
+Morocco,Female,82.1
+Morocco,Male,418.7
+Myanmar,Female,167.85715
+Myanmar,Male,944.125
+Namibia,Female,90.0
+Namibia,Male,213.0
+Netherlands,Female,49.714287
+Netherlands,Male,95.28571
+New Zealand,Female,19.105263
+New Zealand,Male,32.31579
+Nicaragua,Female,63.81818
+Nicaragua,Male,566.0909
+North Macedonia,Female,8.894737
+North Macedonia,Male,28.263159
+Norway,Female,16.571428
+Norway,Male,20.428572
+Oman,Female,4.5
+Oman,Male,11.666667
+Panama,Female,36.04762
+Panama,Male,395.09525
+Paraguay,Female,61.285713
+Paraguay,Male,589.7692
+Peru,Female,404.5
+Peru,Male,1748.5
+Philippines,Female,958.6
+Philippines,Male,6673.4
+Poland,Female,127.2381
+Poland,Male,318.2381
+Portugal,Female,39.133335
+Portugal,Male,90.4
+Puerto Rico,Female,57.61905
+Puerto Rico,Male,737.2
+Qatar,Female,1.4166666
+Qatar,Male,5.5
+Republic of Korea,Female,180.1
+Republic of Korea,Male,169.5
+Republic of Moldova,Female,74.947365
+Republic of Moldova,Male,176.1
+Romania,Female,117.190475
+Romania,Male,250.61905
+Russian Federation,Female,5935.2856
+Russian Federation,Male,17094.762
+Réunion,Female,7.0
+Réunion,Male,12.833333
+Saint Kitts and Nevis,Female,1.7272727
+Saint Kitts and Nevis,Male,16.636364
+Saint Lucia,Female,3.8
+Saint Lucia,Male,33.6
+Saint Pierre and Miquelon,Female,0.0
+Saint Pierre and Miquelon,Male,0.0
+Saint Vincent and the Grenadines,Female,4.7272725
+Saint Vincent and the Grenadines,Male,23.181818
+San Marino,Female,0.083333336
+San Marino,Male,0.0
+Sao Tome and Principe,Female,0.0
+Sao Tome and Principe,Male,0.0
+Serbia,Female,43.809525
+Serbia,Male,100.0
+Seychelles,Female,2.1
+Seychelles,Male,7.9
+Singapore,Female,6.0
+Singapore,Male,9.533334
+Slovakia,Female,27.333334
+Slovakia,Male,56.904762
+Slovenia,Female,6.2941175
+Slovenia,Male,8.941176
+South Africa,Female,2669.6667
+South Africa,Male,15575.333
+Spain,Female,135.3
+Spain,Male,271.0
+Sri Lanka,Female,168.91667
+Sri Lanka,Male,616.0
+State of Palestine,Female,6.5
+State of Palestine,Male,27.25
+Suriname,Female,9.444445
+Suriname,Male,26.222221
+Sweden,Female,29.47619
+Sweden,Male,66.333336
+Switzerland,Female,30.0
+Switzerland,Male,27.380953
+Syrian Arab Republic,Female,747.0
+Syrian Arab Republic,Male,2617.0
+Tajikistan,Female,26.428572
+Tajikistan,Male,105.85714
+Thailand,Female,573.1429
+Thailand,Male,3555.7856
+Tonga,Female,0.5714286
+Tonga,Male,3.0666666
+Trinidad and Tobago,Female,38.833332
+Trinidad and Tobago,Male,369.33334
+Tunisia,Female,109.0
+Tunisia,Male,457.5
+Turkey,Female,542.5
+Turkey,Male,2322.7144
+Turks and Caicos Islands,Female,0.5
+Turks and Caicos Islands,Male,1.8333334
+Uganda,Female,749.4286
+Uganda,Male,3184.0
+Ukraine,Female,986.9091
+Ukraine,Male,2333.0
+United Arab Emirates,Female,15.857142
+United Arab Emirates,Male,44.57143
+United Republic of Tanzania,Female,558.6
+United Republic of Tanzania,Male,3355.8
+United States Virgin Islands,Female,3.0769231
+United States Virgin Islands,Male,37.846153
+United States of America,Female,3568.5789
+United States of America,Male,12540.315
+Uruguay,Female,45.785713
+Uruguay,Male,217.78572
+Uzbekistan,Female,198.6
+Uzbekistan,Male,390.2
+Vanuatu,Female,1.0
+Vanuatu,Male,0.5
+Venezuela (Bolivarian Republic of),Female,711.625
+Venezuela (Bolivarian Republic of),Male,11833.5

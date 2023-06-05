@@ -1,0 +1,350 @@
+subRegion,Year,Average,Maximum,Minimum
+Australia and New Zealand,2000,207.0,362,52
+Australia and New Zealand,2001,199.0,347,51
+Australia and New Zealand,2002,213.0,366,60
+Australia and New Zealand,2003,173.0,302,44
+Australia and New Zealand,2004,154.0,263,45
+Australia and New Zealand,2005,160.0,259,61
+Australia and New Zealand,2006,165.0,281,49
+Australia and New Zealand,2007,151.5,255,48
+Australia and New Zealand,2008,156.0,261,51
+Australia and New Zealand,2009,165.0,263,67
+Australia and New Zealand,2010,137.0,231,43
+Australia and New Zealand,2011,143.5,248,39
+Australia and New Zealand,2012,142.0,243,41
+Australia and New Zealand,2013,145.5,245,46
+Australia and New Zealand,2014,143.0,243,43
+Australia and New Zealand,2015,142.0,236,48
+Australia and New Zealand,2016,138.5,227,50
+Australia and New Zealand,2017,121.5,208,35
+Australia and New Zealand,2018,221.0,221,221
+Australia and New Zealand,2019,175.5,225,126
+Australia and New Zealand,2020,221.0,221,221
+Central Asia,2000,874.6,2325,267
+Central Asia,2001,821.6,2160,233
+Central Asia,2002,771.4,1967,180
+Central Asia,2003,754.2,1991,164
+Central Asia,2004,764.6,2091,142
+Central Asia,2005,441.0,910,157
+Central Asia,2006,426.0,861,194
+Central Asia,2007,454.33334,815,132
+Central Asia,2008,1018.3333,1807,417
+Central Asia,2009,762.3333,1771,97
+Central Asia,2010,825.6667,1387,181
+Central Asia,2011,671.0,1420,126
+Central Asia,2012,823.0,1266,380
+Central Asia,2013,710.5,1120,301
+Central Asia,2014,612.0,904,320
+Central Asia,2015,554.6667,853,305
+Central Asia,2016,469.5,757,182
+Central Asia,2017,582.0,915,240
+Central Asia,2018,306.0,474,138
+Central Asia,2019,396.0,396,396
+Central Asia,2020,346.5,606,87
+Eastern Asia,2000,275.0,678,10
+Eastern Asia,2001,296.8,697,8
+Eastern Asia,2002,5475.8,26276,2
+Eastern Asia,2003,4313.1665,24393,8
+Eastern Asia,2004,4368.5,24711,4
+Eastern Asia,2005,3710.0,20770,4
+Eastern Asia,2006,2802.2856,17973,10
+Eastern Asia,2007,2516.8572,16119,6
+Eastern Asia,2008,2333.8572,14811,4
+Eastern Asia,2009,2308.1428,14667,5
+Eastern Asia,2010,2116.2856,13410,2
+Eastern Asia,2011,2191.1667,12015,4
+Eastern Asia,2012,1794.1428,11286,4
+Eastern Asia,2013,1685.4286,10640,1
+Eastern Asia,2014,1849.3334,10083,1
+Eastern Asia,2015,166.71428,375,0
+Eastern Asia,2016,1594.1666,8634,1
+Eastern Asia,2017,1469.0,7990,2
+Eastern Asia,2018,1402.3334,7525,2
+Eastern Asia,2019,169.4,319,2
+Eastern Asia,2020,132.0,308,2
+Eastern Europe,2000,4922.2,41090,129
+Eastern Europe,2001,5144.5,42921,118
+Eastern Europe,2002,5202.8,44252,121
+Eastern Europe,2003,5949.375,41764,137
+Eastern Europe,2004,5525.25,39256,108
+Eastern Europe,2005,4994.875,35636,93
+Eastern Europe,2006,4124.125,28844,82
+Eastern Europe,2007,3311.889,25377,82
+Eastern Europe,2008,2262.3,18188,86
+Eastern Europe,2009,2173.8,17659,78
+Eastern Europe,2010,2046.5,16690,82
+Eastern Europe,2011,1981.8889,16175,86
+Eastern Europe,2012,2020.6,16247,63
+Eastern Europe,2013,1949.1111,16033,71
+Eastern Europe,2014,2087.8,16516,65
+Eastern Europe,2015,2030.7778,16646,44
+Eastern Europe,2016,2142.5,15864,57
+Eastern Europe,2017,1745.2,13293,66
+Eastern Europe,2018,1640.375,11964,62
+Eastern Europe,2019,1377.8889,11202,64
+Eastern Europe,2020,1647.8572,10697,63
+Latin America and the Caribbean,2000,3184.353,45360,0
+Latin America and the Caribbean,2001,3051.2896,47943,0
+Latin America and the Caribbean,2002,3175.4736,49695,0
+Latin America and the Caribbean,2003,3209.4866,51043,0
+Latin America and the Caribbean,2004,2908.9211,48374,0
+Latin America and the Caribbean,2005,2746.95,47578,0
+Latin America and the Caribbean,2006,2827.275,49145,1
+Latin America and the Caribbean,2007,2773.5366,47707,2
+Latin America and the Caribbean,2008,2692.1707,50113,1
+Latin America and the Caribbean,2009,3418.0256,51434,1
+Latin America and the Caribbean,2010,3948.4285,52260,0
+Latin America and the Caribbean,2011,4106.343,52198,0
+Latin America and the Caribbean,2012,4065.3333,56337,1
+Latin America and the Caribbean,2013,3706.7646,56804,1
+Latin America and the Caribbean,2014,4031.257,59681,2
+Latin America and the Caribbean,2015,4430.1333,58138,6
+Latin America and the Caribbean,2016,4278.727,61143,10
+Latin America and the Caribbean,2017,4905.759,63748,12
+Latin America and the Caribbean,2018,4269.5483,55914,12
+Latin America and the Caribbean,2019,3885.4666,44033,3
+Latin America and the Caribbean,2020,6775.933,43879,15
+Melanesia,2000,465.0,465,465
+Melanesia,2001,436.0,436,436
+Melanesia,2002,470.0,470,470
+Melanesia,2003,317.0,609,25
+Melanesia,2004,21.5,23,20
+Melanesia,2005,217.33333,603,23
+Melanesia,2006,165.75,610,8
+Melanesia,2007,144.75,520,12
+Melanesia,2008,162.5,603,11
+Melanesia,2009,244.66667,697,8
+Melanesia,2010,366.5,713,20
+Melanesia,2011,20.0,20,20
+Melanesia,2012,20.0,20,20
+Melanesia,2013,19.0,19,19
+Melanesia,2014,20.0,20,20
+Melanesia,2019,2.0,2,2
+Melanesia,2020,10.5,20,1
+Micronesia,2000,2.5,3,2
+Micronesia,2001,6.0,8,4
+Micronesia,2002,2.0,2,2
+Micronesia,2003,8.0,8,8
+Micronesia,2004,9.0,9,9
+Micronesia,2005,7.0,7,7
+Micronesia,2006,11.0,11,11
+Micronesia,2007,1.0,1,1
+Micronesia,2008,4.0,7,1
+Micronesia,2009,3.0,5,1
+Micronesia,2010,3.5,4,3
+Micronesia,2011,7.5,11,4
+Micronesia,2012,8.0,8,8
+Micronesia,2015,3.0,3,3
+Micronesia,2016,0.0,0,0
+Micronesia,2017,0.0,0,0
+Micronesia,2018,2.0,2,2
+Micronesia,2019,4.0,7,1
+Northern Africa,2000,461.0,461,461
+Northern Africa,2001,543.0,543,543
+Northern Africa,2002,462.0,462,462
+Northern Africa,2003,490.5,510,471
+Northern Africa,2004,329.0,470,195
+Northern Africa,2005,417.0,522,260
+Northern Africa,2006,402.0,549,249
+Northern Africa,2007,435.25,680,271
+Northern Africa,2008,500.25,967,280
+Northern Africa,2009,469.0,912,255
+Northern Africa,2010,707.5,1839,254
+Northern Africa,2011,1141.3334,2703,280
+Northern Africa,2012,861.25,2207,332
+Northern Africa,2013,454.5,480,429
+Northern Africa,2014,466.0,577,355
+Northern Africa,2015,486.5,542,431
+Northern Africa,2016,594.0,594,594
+Northern Africa,2017,761.0,761,761
+Northern Africa,2018,510.0,510,510
+Northern Africa,2019,589.6667,627,571
+Northern Africa,2020,543.0,580,487
+Northern America,2000,4036.25,15586,0
+Northern America,2001,4901.75,19033,3
+Northern America,2002,4206.0,16229,1
+Northern America,2003,185.33333,549,2
+Northern America,2004,212.33333,625,1
+Northern America,2005,225.33333,664,2
+Northern America,2006,3585.6,17309,0
+Northern America,2007,3547.2,17128,0
+Northern America,2008,3418.6,16465,1
+Northern America,2009,3205.2,15399,1
+Northern America,2010,3824.0,14722,7
+Northern America,2011,3819.0,14661,1
+Northern America,2012,3854.5,14856,6
+Northern America,2013,3710.0,14319,5
+Northern America,2014,3673.5,14164,4
+Northern America,2015,4125.25,15883,4
+Northern America,2016,4509.0,17413,3
+Northern America,2017,5986.3335,17294,5
+Northern America,2018,8512.5,16374,651
+Northern America,2019,5704.0,16425,0
+Northern America,2020,10862.5,20982,743
+Northern Europe,2000,205.8,915,5
+Northern Europe,2001,206.0,966,1
+Northern Europe,2002,213.9,1107,4
+Northern Europe,2003,75.0,103,37
+Northern Europe,2004,132.8,343,30
+Northern Europe,2005,94.71429,372,1
+Northern Europe,2006,85.0,288,0
+Northern Europe,2007,103.28571,277,2
+Northern Europe,2008,85.625,298,0
+Northern Europe,2009,88.28571,252,1
+Northern Europe,2010,69.666664,219,0
+Northern Europe,2011,74.44444,211,1
+Northern Europe,2012,62.0,202,1
+Northern Europe,2013,62.4,198,1
+Northern Europe,2014,60.77778,159,2
+Northern Europe,2015,59.9,172,1
+Northern Europe,2016,55.3,153,0
+Northern Europe,2017,62.22222,129,3
+Northern Europe,2018,62.11111,128,3
+Northern Europe,2019,57.88889,111,1
+Northern Europe,2020,59.11111,124,5
+Polynesia,2000,1.0,1,1
+Polynesia,2001,3.5,6,1
+Polynesia,2002,4.3333335,7,0
+Polynesia,2003,3.0,6,0
+Polynesia,2004,2.0,4,0
+Polynesia,2005,3.3333333,6,0
+Polynesia,2006,3.75,8,0
+Polynesia,2007,2.25,7,0
+Polynesia,2008,4.0,9,0
+Polynesia,2009,5.4,16,0
+Polynesia,2010,5.75,16,1
+Polynesia,2011,2.6666667,5,1
+Polynesia,2012,1.25,2,0
+Polynesia,2013,4.5,6,3
+Polynesia,2014,3.0,3,3
+Polynesia,2015,4.0,4,4
+Polynesia,2016,3.0,3,3
+Polynesia,2017,7.0,7,7
+Polynesia,2018,13.0,13,13
+Polynesia,2019,1.0,3,0
+South-eastern Asia,2000,1911.125,5735,4
+South-eastern Asia,2001,1822.5714,5852,14
+South-eastern Asia,2002,1999.0,6553,31
+South-eastern Asia,2003,1374.5,6434,3
+South-eastern Asia,2004,950.1111,4273,2
+South-eastern Asia,2005,1090.7142,4806,2
+South-eastern Asia,2006,1024.1428,4687,3
+South-eastern Asia,2007,1493.5555,5962,3
+South-eastern Asia,2008,1407.7778,5820,1
+South-eastern Asia,2009,1761.1111,9088,3
+South-eastern Asia,2010,1707.3334,8645,1
+South-eastern Asia,2011,1878.0,8489,1
+South-eastern Asia,2012,2107.4,8484,4
+South-eastern Asia,2013,471.0,1238,2
+South-eastern Asia,2014,622.0,1230,14
+South-eastern Asia,2015,405.0,1152,14
+South-eastern Asia,2016,4123.6665,11155,18
+South-eastern Asia,2017,4139.5,8268,11
+South-eastern Asia,2018,2830.0,5651,9
+South-eastern Asia,2019,2388.0,4764,12
+South-eastern Asia,2020,10.0,10,10
+Southern Asia,2000,12213.8,48167,18
+Southern Asia,2001,10094.167,46420,7
+Southern Asia,2002,9931.667,45736,8
+Southern Asia,2003,11582.0,44331,5
+Southern Asia,2004,12191.4,46490,15
+Southern Asia,2005,10096.167,45095,11
+Southern Asia,2006,10306.333,44961,9
+Southern Asia,2007,10106.5,45362,3
+Southern Asia,2008,9013.429,45999,5
+Southern Asia,2009,7532.3335,45824,6
+Southern Asia,2010,8277.375,46460,6
+Southern Asia,2011,8517.875,47640,3
+Southern Asia,2012,8593.375,47478,10
+Southern Asia,2013,8437.125,45878,3
+Southern Asia,2014,11365.5,47356,553
+Southern Asia,2015,8823.429,44373,4
+Southern Asia,2016,8186.0,42320,9
+Southern Asia,2017,7920.5,41017,13
+Southern Asia,2018,8264.0,40985,9
+Southern Asia,2019,9877.0,40479,3
+Southern Asia,2020,20335.0,40651,19
+Southern Europe,2000,189.18182,766,0
+Southern Europe,2001,186.5,709,0
+Southern Europe,2002,160.83333,644,1
+Southern Europe,2003,155.57143,587,0
+Southern Europe,2004,105.545456,520,0
+Southern Europe,2005,178.8,610,0
+Southern Europe,2006,159.4,625,0
+Southern Europe,2007,133.0,631,0
+Southern Europe,2008,123.21429,615,0
+Southern Europe,2009,103.6875,590,0
+Southern Europe,2010,104.0625,529,0
+Southern Europe,2011,108.73333,552,0
+Southern Europe,2012,114.57143,530,0
+Southern Europe,2013,100.5,502,0
+Southern Europe,2014,97.14286,475,0
+Southern Europe,2015,88.14286,469,0
+Southern Europe,2016,97.75,404,5
+Southern Europe,2017,94.25,376,9
+Southern Europe,2018,90.333336,359,7
+Southern Europe,2019,86.92308,333,5
+Southern Europe,2020,89.181816,298,2
+Sub-Saharan Africa,2000,3364.0,21758,0
+Sub-Saharan Africa,2001,2763.5557,21405,0
+Sub-Saharan Africa,2002,2457.0908,21553,0
+Sub-Saharan Africa,2003,2363.3635,19824,0
+Sub-Saharan Africa,2004,1704.3125,18793,1
+Sub-Saharan Africa,2005,1925.3334,18528,0
+Sub-Saharan Africa,2006,1522.125,19106,0
+Sub-Saharan Africa,2007,443.47058,2645,0
+Sub-Saharan Africa,2008,1336.6666,18084,0
+Sub-Saharan Africa,2009,1347.6,16767,0
+Sub-Saharan Africa,2010,1502.4286,15893,6
+Sub-Saharan Africa,2011,1630.5,15554,6
+Sub-Saharan Africa,2012,1989.8182,16213,4
+Sub-Saharan Africa,2013,2143.2307,17023,18
+Sub-Saharan Africa,2014,2115.6155,17805,16
+Sub-Saharan Africa,2015,1777.75,18673,7
+Sub-Saharan Africa,2016,2403.3845,19016,12
+Sub-Saharan Africa,2017,2861.5,20336,7
+Sub-Saharan Africa,2018,4691.5,21036,9
+Sub-Saharan Africa,2019,6521.75,21325,10
+Sub-Saharan Africa,2020,5359.2,19846,36
+Western Asia,2000,198.8,697,1
+Western Asia,2001,134.81818,376,5
+Western Asia,2002,143.63637,368,2
+Western Asia,2003,633.0,2837,29
+Western Asia,2004,419.08334,2914,5
+Western Asia,2005,442.27274,3305,6
+Western Asia,2006,461.0,3168,5
+Western Asia,2007,412.46155,3599,4
+Western Asia,2008,351.42856,3257,6
+Western Asia,2009,179.53847,990,8
+Western Asia,2010,357.8125,3064,2
+Western Asia,2011,396.3846,3061,4
+Western Asia,2012,415.2143,3216,7
+Western Asia,2013,225.0,1703,7
+Western Asia,2014,86.454544,240,8
+Western Asia,2015,289.0909,2235,8
+Western Asia,2016,324.18182,2704,10
+Western Asia,2017,315.27274,2541,5
+Western Asia,2018,279.72726,2154,6
+Western Asia,2019,326.35715,3364,2
+Western Asia,2020,95.333336,230,15
+Western Europe,2000,370.25,1364,0
+Western Europe,2001,319.77777,1181,0
+Western Europe,2002,370.25,1172,0
+Western Europe,2003,389.83334,1097,0
+Western Europe,2004,392.5,1112,1
+Western Europe,2005,450.4,1044,4
+Western Europe,2006,412.6,988,7
+Western Europe,2007,296.57144,993,0
+Western Europe,2008,295.57144,1021,0
+Western Europe,2009,269.0,819,0
+Western Europe,2010,264.85715,796,1
+Western Europe,2011,266.0,856,0
+Western Europe,2012,244.57143,784,0
+Western Europe,2013,243.42857,777,0
+Western Europe,2014,246.0,792,1
+Western Europe,2015,272.2857,1012,0
+Western Europe,2016,292.14285,963,0
+Western Europe,2017,268.0,813,1
+Western Europe,2018,284.5,788,1
+Western Europe,2019,245.85715,861,1
+Western Europe,2020,200.4,782,1
