@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Project 2</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="menu-bar">
+      <select id="job-selector">
+        <option value="firstJob.html">Average Homicide Victims per Country</option>
+        <option value="secondJob.html">Average, maximum, and minimum of Homicides by Region per year</option>
+        <option value="thirdJob.html">Average, maximum, and minimum homicides by Subregion per year</option>
+        <option value="fourthJob.html">Average Homicide Victims by Country and Gender</option>
+        <option value="fifthJob.html">Average, maximum, and minimum of homicides by Region and sex per year</option>
+        <option value="sixthJob.html">Average, maximum, and minimum of homicides by SubRegion and sex per year</option>
+        <option value="seventhJob.html">Average, maximum, and minimum of homicides by SubRegion and sex per year</option>
+        <option value="eighthJob.html">Average, maximum, and minimum of Homicides by Subregion and Sex per decade</option>
+        <option value="ninthJob.html">Calculate for country and year the percentage of deaths caused by people between 30 and 70 years old for: Cancer, Cardiovascular diseases and Respiratory diseases compared to the total</option>
+        <option value="tenthJob.html">Average, maximum, and minimum deaths per country from reported causes, unreported causes and injuries</option>
+        <option value="eleventhJob.html">The difference between the first year of measured average age by country and the last measured year</option>
+        <option value="twelfthJob.html">The average age by country per decade</option>
+        <option value="thirtiethJob.html">The population count per decade</option>
+        <option value="fourteenthJob.html">The fertility rate among teenagers per 1000, by decade and country</option>
+        <option value="fifteenthJob.html">The percentage of fertility in adolescents per 1000, by economic quintile, country, and decade</option>
+        <option value="sixteenthJob.html">The percentage of infant fatality before the first year per 1000, by decade and country</option>
+        <option value="seventeenthJob.html">The percentage of infant fatality before the first year per 1000, by economic quintile, country, and decade</option>
+        <option value="eighteenthJob.html">The percentage of fertility by decade per country</option>   
+        <option value="nineteenthJob.html">Total health expenditure by country and decade</option>   
+        <option value="twentiethJob.html">Percentage spent on health by country and decade of the total government budget</option>   
+        <option value="twentyFirstJob.html">Life expectancy at birth by country and decade</option>   
+        <option value="twentySecondJob.html">Total number of tourists entering by country per decade</option>  
+        <option value="twentyThirdJob.html">Total number of tourists leaving the country per decade</option>  
+        <option value="twentyFourthJob.html">Total number of Homicide Victims by country</option>  
+        <option value="twentyFifthJob.html">Total number of Homicide Victims by Region per year</option>  
+        <option value="twentySixthJob.html">Total number of Homicide Victims by Subregion per year</option>  
+        <option value="twentySeventhJob.html">Total Homicides by Region and Sex per Year</option>  
+        <option value="twentyEighthJob.html">Total Homicides by Subregion and Sex per Year</option>  
+      </select>
+        <button id="job-button">Go</button>
+    </div>
+    <h1 class="title">The percentage of fertility by decade per country</h1>         
+  <svg id="chart"></svg>
+  <div class="select-wrapper">
+    <select id="country-select">
+      <option value="all">All Countries</option>
+    </select>
+  </div>
+  <div class="select-wrapper">
+    <select id="decade-select">
+      <option value="all">All Decades</option>
+    </select>
+  </div>
+  <button id="uploadButton" class="button">Update Data</button>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="js/eighteenthJob.js"></script>
+</body>
+</html>
