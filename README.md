@@ -1,4 +1,4 @@
-## Data Hive
+## Project 2
 
 ## Description
 
@@ -32,7 +32,7 @@ Web application that allows users to upload information for its visualization in
 
 ## Installation instructions
 
-1. Clone the repository: `github.com`.
+1. Clone the repository: `https://github.com/abysswvlk/DB2Project2.git`.
 2. Install dependencies: `npm install`.
 3.  Execute the command: `npm start`.
 
